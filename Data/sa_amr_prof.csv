@@ -1,0 +1,899 @@
+﻿id,year,azithromycin_mic_sign,cefixime_SIR,ceftriaxone_SIR,ciprofloxacin_SIR,private_record,private_owner
+2858,,,,,,false,
+31967,1990,=,S,S,S,false,
+31968,1991,=,S,S,S,false,
+31969,1991,=,S,S,S,false,
+89182,2015,,,,,false,
+89183,2015,,,,,false,
+89185,2015,,,,,false,
+89186,2017,,,,,false,
+89187,2017,,,,,false,
+89188,2017,,,,,false,
+89189,2017,,,,,false,
+89190,2015,,,,,false,
+89194,2017,,,,,false,
+89195,2015,,,,,false,
+89196,2017,,,,,false,
+89197,2015,,,,,false,
+89198,2015,,,,,false,
+89199,2017,,,,,false,
+89200,2017,,,,,false,
+92898,2019,=,S,S,I,false,
+92899,2019,=,S,S,R,false,
+92900,2019,=,S,S,R,false,
+92901,2018,=,S,S,R,false,
+92902,2019,=,S,S,R,false,
+92903,2019,=,S,S,S,false,
+93214,2019,,,,,false,
+96169,2013,=,S,S,R,false,
+96170,2013,=,S,S,S,false,
+96171,2014,=,S,S,S,false,
+96172,2014,=,S,S,S,false,
+96173,2014,=,S,S,S,false,
+96174,2014,=,S,S,S,false,
+109097,2018,=,S,S,S,false,
+109098,2018,=,S,S,R,false,
+109099,2018,=,S,S,S,false,
+109100,2018,=,S,S,S,false,
+109101,2018,=,S,S,R,false,
+109102,2018,=,S,S,R,false,
+109103,2018,=,S,S,R,false,
+109104,2018,=,S,S,I,false,
+109105,2018,=,S,S,R,false,
+109106,2018,=,S,S,R,false,
+109107,2018,=,S,S,R,false,
+109108,2018,=,S,S,R,false,
+109109,2018,=,S,S,R,false,
+109110,2018,=,S,S,R,false,
+109111,2019,=,S,S,S,false,
+109112,2019,=,S,S,R,false,
+109113,2019,=,S,S,R,false,
+109114,2019,=,S,S,R,false,
+109115,2019,=,S,S,R,false,
+109116,2019,=,S,S,R,false,
+109117,2019,=,S,S,I,false,
+109118,2019,=,S,S,R,false,
+109119,2019,=,S,S,R,false,
+109120,2018,=,S,S,S,false,
+109121,2018,=,S,S,R,false,
+115183,2019,,,,,false,
+115184,2021,,,,,false,
+115185,2021,,,,,false,
+123332,2022,,,,,false,
+123333,2022,,,,,false,
+123334,2022,,,,,false,
+123335,2022,,,,,false,
+123336,2022,,,,,false,
+123337,2022,,,,,false,
+123338,2022,,,,,false,
+123339,2022,,,,,false,
+123340,2022,,,,,false,
+123341,2022,,,,,false,
+123342,2022,,,,,false,
+123343,2022,,,,,false,
+123344,2022,,,,,false,
+123345,2022,,,,,false,
+123346,2022,,,,,false,
+123347,2022,,,,,false,
+126241,2022,,,,,false,
+126242,2022,,,,,false,
+126243,2022,,,,,false,
+126244,2022,,,,,false,
+126245,2022,,,,,false,
+126246,2022,,,,,false,
+126247,2022,,,,,false,
+126248,2022,,,,,false,
+126249,2022,,,,,false,
+126250,2022,,,,,false,
+126251,2022,,,,,false,
+126252,2022,,,,,false,
+126253,2022,,,,,false,
+126254,2022,,,,,false,
+126255,2022,,,,,false,
+126256,2022,,,,,false,
+126257,2022,,,,,false,
+126258,2022,,,,,false,
+126259,2022,,,,,false,
+126260,2022,,,,,false,
+126261,2022,,,,,false,
+126262,2022,,,,,false,
+126263,2022,,,,,false,
+126264,2022,,,,,false,
+126265,2022,,,,,false,
+126266,2022,,,,,false,
+126267,2022,,,,,false,
+126268,2022,,,,,false,
+126269,2022,,,,,false,
+126270,2022,,,,,false,
+126271,2022,,,,,false,
+126272,2022,,,,,false,
+126273,2022,,,,,false,
+126274,2022,,,,,false,
+126275,2022,,,,,false,
+126929,2022,,,,,false,
+126930,2022,,,,,false,
+126931,2022,,,,,false,
+126932,2022,,,,,false,
+126933,2022,,,,,false,
+126934,2022,,,,,false,
+126935,2022,,,,,false,
+126936,2022,,,,,false,
+126937,2022,,,,,false,
+126938,2022,,,,,false,
+126939,2022,,,,,false,
+126940,2022,,,,,false,
+126941,2022,,,,,false,
+126942,2022,,,,,false,
+126943,2022,,,,,false,
+126944,2022,,,,,false,
+126945,2022,,,,,false,
+126946,2022,,,,,false,
+126947,2022,,,,,false,
+126948,2022,,,,,false,
+126949,2022,,,,,false,
+131095,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131096,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131097,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131098,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131099,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131100,2012,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131101,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131102,2012,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131103,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131104,2012,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131105,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131106,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131107,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131108,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131109,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131110,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131111,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131112,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131113,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131114,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131115,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131116,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131117,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131118,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131119,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131120,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131121,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131122,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131123,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131124,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131125,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131126,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131127,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131128,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131129,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131130,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131131,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131132,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131133,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131134,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131135,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131136,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131137,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131138,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131139,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131140,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131141,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131142,2012,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131143,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131144,2012,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131145,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131146,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131147,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131148,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131149,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131150,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131151,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131152,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131153,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131154,2012,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131155,2013,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131156,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131157,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131158,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131159,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131160,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131161,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131162,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131163,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131164,2013,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131165,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131166,2013,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131167,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131168,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131169,2013,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131170,2013,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131171,2013,,,,,true,"Anastasia Unitt, University of Oxford"
+131172,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131173,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131174,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131175,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131176,2013,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131177,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131178,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131179,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131180,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131181,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131182,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131183,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131184,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131185,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131186,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131187,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131188,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131189,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131190,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131191,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131192,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131193,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131194,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131195,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131196,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131197,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131198,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131199,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131200,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131201,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131202,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131203,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131204,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131205,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131206,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131207,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131208,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131209,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131210,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131211,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131212,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131213,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131214,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131215,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131216,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131217,2013,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131218,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131219,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131220,2013,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131221,2014,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131222,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131223,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131224,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131225,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131226,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131227,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131228,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131229,2014,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131230,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131231,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131232,2014,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131233,2014,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131234,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131235,2014,,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131236,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131237,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131238,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131239,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131240,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131241,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131242,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131243,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131244,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131245,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131246,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131247,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131248,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131249,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131250,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131251,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131252,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131253,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131254,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131255,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131256,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131257,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131258,2014,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131259,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131260,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131261,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131262,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131263,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131264,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131265,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131266,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131267,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131268,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131269,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131270,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131271,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131272,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131273,2014,,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131274,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131275,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131276,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131277,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131278,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131279,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131280,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131281,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131282,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131283,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131284,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131285,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131286,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131287,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131288,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131289,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131290,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131291,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131292,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131293,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131294,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131295,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131296,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131297,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131298,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131299,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131300,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131301,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131302,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131303,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131304,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131305,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131306,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131307,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131308,2015,,S,S,,true,"Anastasia Unitt, University of Oxford"
+131309,2015,,S,S,,true,"Anastasia Unitt, University of Oxford"
+131310,2015,,S,S,,true,"Anastasia Unitt, University of Oxford"
+131311,2015,,S,S,,true,"Anastasia Unitt, University of Oxford"
+131312,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131313,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131314,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131315,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131316,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131317,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131318,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131319,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131320,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131321,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131322,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131323,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131324,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131325,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131326,2015,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131327,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131328,2015,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131329,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131330,2016,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131331,2016,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131332,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131333,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131334,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131335,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131336,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131337,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131338,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131339,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131340,2016,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131341,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131342,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131343,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131344,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131345,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131346,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131347,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131348,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131349,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131350,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131351,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131352,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131353,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131354,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131355,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131356,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131357,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131358,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131359,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131360,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131361,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131362,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131363,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131364,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131365,2016,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131366,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131367,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131368,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131369,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131370,2016,=,S,S,R,true,"Anastasia Unitt, University of Oxford"
+131371,2016,=,S,S,S,true,"Anastasia Unitt, University of Oxford"
+131372,2016,=,S,,R,true,"Anastasia Unitt, University of Oxford"
+131373,2016,=,S,,R,true,"Anastasia Unitt, University of Oxford"
+131374,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131375,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131376,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131377,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131378,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131379,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131380,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131381,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+131382,2017,=,S,S,,true,"Anastasia Unitt, University of Oxford"
+138787,2022,,,,,false,
+139453,2023,,,,,false,
+139454,2023,,,,,false,
+139455,2023,,,,,false,
+139860,2023,,,,,false,
+139861,2023,,,,,false,
+139862,2023,,,,,false,
+140559,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140560,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140561,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140562,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140563,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140564,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140565,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140566,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140567,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140568,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140569,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140570,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140571,2018,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140572,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140573,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140574,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140575,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140576,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140577,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140578,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140579,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140580,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140581,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140582,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140583,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140584,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140585,2021,>,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140586,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140587,2021,>,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140588,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140589,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140590,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140591,2021,>,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140592,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140593,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140594,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140595,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140596,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140597,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140598,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140599,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140600,2022,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140601,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140602,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140603,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140604,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140605,2017,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140611,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140612,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140613,2019,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140617,2020,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140618,2021,>,S,S,,true,"Odile Harrison, University of Oxford, UK"
+140619,2021,=,S,S,,true,"Odile Harrison, University of Oxford, UK"
+154263,2013,=,S,S,S,false,
+154264,2013,=,S,S,R,false,
+154265,2013,=,S,S,R,false,
+154266,2013,=,S,S,S,false,
+154267,2013,=,S,S,S,false,
+154268,2013,=,S,S,S,false,
+154269,2013,=,S,S,S,false,
+154270,2013,=,S,S,S,false,
+154271,2013,=,S,S,S,false,
+154272,2013,=,S,S,S,false,
+154273,2013,=,S,S,R,false,
+154274,2013,=,S,S,R,false,
+154275,2013,=,S,S,S,false,
+154276,2013,=,S,S,S,false,
+154277,2013,=,S,S,S,false,
+154278,2013,=,S,S,S,false,
+154279,2013,=,S,S,R,false,
+154280,2013,=,S,S,S,false,
+154281,2013,=,S,S,R,false,
+154282,2013,=,S,S,S,false,
+154283,2013,=,S,S,S,false,
+154284,2013,=,S,S,R,false,
+154285,2013,=,S,S,R,false,
+154286,2014,=,S,S,S,false,
+154287,2014,=,S,S,R,false,
+154288,2014,=,S,S,R,false,
+154289,2014,=,S,S,R,false,
+154290,2014,=,S,S,R,false,
+154291,2014,=,S,S,R,false,
+154292,2014,=,S,S,R,false,
+154293,2014,=,S,S,R,false,
+154294,2014,=,S,S,R,false,
+154295,2014,=,S,S,R,false,
+154296,2014,=,S,S,R,false,
+154297,2014,=,S,S,S,false,
+154298,2014,=,S,S,R,false,
+154299,2014,=,S,S,R,false,
+154300,2014,=,S,S,R,false,
+154301,2014,=,S,S,R,false,
+154302,2014,=,S,S,R,false,
+154303,2014,=,S,S,R,false,
+154304,2014,=,S,S,I,false,
+154305,2014,=,S,S,S,false,
+154306,2014,=,S,S,R,false,
+154307,2014,=,S,S,S,false,
+154308,2014,=,S,S,S,false,
+154309,2014,=,S,S,R,false,
+154310,2014,=,S,S,R,false,
+154311,2014,=,S,S,S,false,
+154312,2014,=,S,S,S,false,
+154313,2014,=,S,S,S,false,
+154314,2014,=,S,S,S,false,
+154315,2014,=,S,S,S,false,
+155409,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155410,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155411,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155412,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155413,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155414,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155415,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155416,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155417,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155418,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155419,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155420,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155421,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155422,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155423,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155424,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155425,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155426,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155427,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155428,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155429,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155431,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155433,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155434,2016,,,,,true,"Odile Harrison, University of Oxford, UK"
+155435,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155436,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155437,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155438,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155439,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155440,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155441,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155442,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155443,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155444,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155445,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155446,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155447,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155448,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155449,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155450,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155451,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155452,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155453,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155454,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155455,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155456,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155457,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155458,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155459,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155460,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155461,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155462,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155463,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155464,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155465,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155466,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155467,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155468,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155469,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155470,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155471,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155472,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155473,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155474,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155475,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155476,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155477,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155478,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155479,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155480,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155481,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155482,2017,,,,,true,"Odile Harrison, University of Oxford, UK"
+155483,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155484,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155485,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155486,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155487,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155488,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155489,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155490,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155491,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155492,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155493,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155494,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155495,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155496,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155497,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155498,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155499,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155500,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155501,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155502,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155503,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155504,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155508,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155509,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155510,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155511,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155512,2012,,,,,true,"Odile Harrison, University of Oxford, UK"
+155513,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155514,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155515,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155516,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155517,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155518,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155519,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155520,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155521,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155522,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155523,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155524,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155525,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155526,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155527,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155528,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155529,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155530,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155531,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155532,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155533,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155534,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155535,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155536,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155537,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155538,2013,,,,,true,"Odile Harrison, University of Oxford, UK"
+155539,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155540,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155541,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155542,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155543,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155544,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155545,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155546,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155547,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155548,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155549,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155550,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155551,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155552,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155553,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155554,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155555,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155556,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155557,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155558,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155559,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155560,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155561,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155562,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155563,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155564,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155565,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155566,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155567,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155568,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155569,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155570,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155571,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155572,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155573,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155574,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155575,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155576,2014,,,,,true,"Odile Harrison, University of Oxford, UK"
+155577,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155578,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155579,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155580,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155581,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155582,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155583,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155584,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155585,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155586,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155587,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155588,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155589,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155590,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155591,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155592,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155593,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155594,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155595,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155596,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155597,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155598,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155599,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155600,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155601,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155602,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155603,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155604,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155605,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155606,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155607,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155608,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155609,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155610,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155611,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155612,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155613,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155614,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155615,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155616,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155617,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155618,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155619,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155620,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155621,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155622,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155623,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155624,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155625,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155626,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155627,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155628,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155629,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155630,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155631,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155632,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155633,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155634,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155635,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155636,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155637,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155638,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155639,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155640,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155641,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155642,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155643,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155644,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155645,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155646,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155647,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155648,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155649,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155650,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155651,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155652,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155653,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155654,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155655,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155656,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155657,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155658,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155659,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155660,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155661,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155662,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155663,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155665,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155666,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155667,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155668,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155669,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155670,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155671,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155672,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155673,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155674,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155675,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155676,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155677,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155678,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155679,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155680,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155681,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155682,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155683,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155684,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155685,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155686,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155687,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155688,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155689,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155690,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155691,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155692,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155693,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155694,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155695,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155696,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155697,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155698,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155699,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155701,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155702,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155703,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155704,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155705,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155706,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155707,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155710,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155711,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155712,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155714,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155718,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155719,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155720,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155722,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155723,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155725,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155726,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155728,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155729,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155730,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155733,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155734,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155735,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155738,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155741,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155742,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155743,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155744,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155748,2021,,,,,true,"Odile Harrison, University of Oxford, UK"
+155749,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155750,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155751,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155752,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155753,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155754,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155755,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155756,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155757,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155758,2020,,,,,true,"Odile Harrison, University of Oxford, UK"
+155759,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155760,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155761,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155762,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155763,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155764,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155767,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155768,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155769,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155770,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155772,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155773,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155774,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155775,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155776,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155777,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155778,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155779,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155780,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155781,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155782,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155783,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155784,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155785,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155787,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155788,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155789,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155791,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155792,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155793,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155794,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155795,2015,,,,,true,"Odile Harrison, University of Oxford, UK"
+155796,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155797,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155798,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155799,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155801,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155802,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155803,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
+155804,2018,,,,,true,"Odile Harrison, University of Oxford, UK"
