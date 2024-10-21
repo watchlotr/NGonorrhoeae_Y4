@@ -1,0 +1,1887 @@
+﻿id,country,year,azithromycin_mic_sign,cefixime_SIR,ceftriaxone_SIR,ciprofloxacin_SIR
+846,Nigeria,2000,,,,
+2597,Nigeria,2000,,,,
+2609,Malawi,1987,,,,
+2610,Malawi,1991,,,,
+2858,South Africa,,,,,
+8969,Nigeria,2000,,,,
+31966,The Gambia,1989,=,S,S,S
+31967,South Africa,1990,=,S,S,S
+31968,South Africa,1991,=,S,S,S
+31969,South Africa,1991,=,S,S,S
+31970,Tanzania,1992,=,S,S,S
+31971,Cape Verde,1998,=,S,S,S
+31972,Cape Verde,1998,=,S,S,S
+31973,The Gambia,1998,=,S,S,S
+31974,The Gambia,1998,=,S,S,S
+31975,The Gambia,1998,=,S,S,S
+31976,Morocco,1998,=,S,S,S
+31977,Morocco,1998,=,S,S,S
+31978,Tanzania,1998,=,S,S,S
+31979,Uganda,1999,=,S,S,S
+31980,Angola,1999,=,S,S,S
+31981,The Gambia,1999,=,S,S,S
+31982,Guinea,1999,=,S,S,S
+31983,Morocco,1999,=,S,S,S
+31984,Guinea-Bissau,2007,=,S,S,S
+31985,Guinea-Bissau,2007,=,S,S,S
+31986,Guinea-Bissau,2007,=,S,S,S
+31987,Guinea-Bissau,2007,=,S,S,S
+31988,Guinea-Bissau,2007,=,S,S,S
+31989,Guinea-Bissau,2007,=,S,S,S
+31990,Guinea-Bissau,2007,=,S,S,S
+31991,Guinea-Bissau,2007,=,S,S,S
+31992,Guinea-Bissau,2007,=,S,S,S
+31993,Guinea-Bissau,2007,=,S,S,S
+31994,Guinea-Bissau,2007,=,S,S,S
+31995,Guinea-Bissau,2007,=,S,S,S
+31996,Guinea-Bissau,2007,=,S,S,S
+31997,Guinea-Bissau,2007,=,S,S,S
+31998,Guinea-Bissau,2007,=,S,S,S
+31999,Guinea-Bissau,2007,=,S,S,R
+32000,Guinea-Bissau,2007,=,S,S,S
+32001,Guinea-Bissau,2007,=,S,S,S
+32002,Guinea-Bissau,2007,=,S,S,S
+32007,Guinea-Bissau,2007,=,S,S,R
+32008,Guinea-Bissau,2007,=,S,S,S
+32009,Guinea-Bissau,2007,=,S,S,S
+32010,Guinea-Bissau,2007,=,S,S,S
+32011,Guinea-Bissau,2007,=,S,S,S
+36238,Kenya,2011,,,,
+36239,Kenya,,,,,
+36240,Kenya,2012,,,,
+36241,Kenya,2013,,,,
+36242,Kenya,,,,,
+36243,Kenya,2012,,,,
+36244,Kenya,2012,,,,
+36245,Kenya,2010,,,,
+36246,Kenya,2013,,,,
+36247,Kenya,2013,,,,
+36248,Kenya,2010,,,,
+36249,Kenya,2011,,,,
+36250,Kenya,2012,,,,
+36251,Kenya,2013,,,,
+36252,Kenya,,,,,
+36253,Kenya,2013,,,,
+36254,Kenya,,,,,
+36255,Kenya,2010,,,,
+36256,Kenya,2010,,,,
+36257,Kenya,2012,,,,
+36258,Kenya,,,,,
+36259,Kenya,2013,,,,
+36260,Kenya,,,,,
+36261,Kenya,2011,,,,
+36262,Kenya,,,,,
+36263,Kenya,2011,,,,
+36264,Kenya,,,,,
+36265,Kenya,,,,,
+36266,Kenya,2012,,,,
+36267,Kenya,2012,,,,
+36268,Kenya,2013,,,,
+36269,Kenya,2012,,,,
+36270,Kenya,2012,,,,
+36271,Kenya,2011,,,,
+36272,Kenya,,,,,
+36273,Kenya,2012,,,,
+36274,Kenya,2013,,,,
+36275,Kenya,2011,,,,
+36276,Kenya,2011,,,,
+36277,Kenya,2012,,,,
+36278,Kenya,,,,,
+36279,Kenya,2013,,,,
+36280,Kenya,2011,,,,
+36281,Kenya,2011,,,,
+36282,Kenya,2010,,,,
+36283,Kenya,2011,,,,
+36284,Kenya,2010,,,,
+36285,Kenya,2010,,,,
+36286,Kenya,,,,,
+36287,Kenya,2010,,,,
+36288,Kenya,,,,,
+36289,Kenya,2010,,,,
+36290,Kenya,2011,,,,
+36291,Kenya,2013,,,,
+36292,Kenya,2013,,,,
+36293,Kenya,2010,,,,
+36294,Kenya,2010,,,,
+36295,Kenya,2010,,,,
+36296,Kenya,2010,,,,
+36297,Kenya,2012,,,,
+36298,Kenya,2010,,,,
+36299,Kenya,2011,,,,
+36300,Kenya,,,,,
+36301,Kenya,,,,,
+36302,Kenya,,,,,
+39081,Kenya,2014,,,,
+39082,Kenya,2014,,,,
+39083,Kenya,2014,,,,
+39084,Kenya,2014,,,,
+39085,Kenya,2014,,,,
+39086,Kenya,2014,,,,
+39087,Kenya,2014,,,,
+39088,Kenya,2014,,,,
+39089,Kenya,2014,,,,
+39090,Kenya,2014,,,,
+39091,Kenya,2014,,,,
+39092,Kenya,2014,,,,
+39093,Kenya,2014,,,,
+39094,Kenya,2014,,,,
+39095,Kenya,2014,,,,
+39096,Kenya,2012,,,,
+39097,Kenya,2012,,,,
+39098,Kenya,2012,,,,
+39099,Kenya,2012,,,,
+39100,Kenya,2012,,,,
+39101,Kenya,2013,,,,
+39102,Kenya,2013,,,,
+39103,Kenya,2010,,,,
+39104,Kenya,2010,,,,
+39105,Kenya,2010,,,,
+39106,Kenya,2010,,,,
+39107,Kenya,2010,,,,
+39108,Kenya,2010,,,,
+39109,Kenya,2010,,,,
+39110,Kenya,2010,,,,
+39111,Kenya,2010,,,,
+39112,Kenya,2010,,,,
+39113,Kenya,2010,,,,
+39114,Kenya,2010,,,,
+39115,Kenya,2010,,,,
+39116,Kenya,2011,,,,
+39117,Kenya,2011,,,,
+39118,Kenya,2011,,,,
+39119,Kenya,2011,,,,
+39120,Kenya,2011,,,,
+39121,Kenya,2011,,,,
+39122,Kenya,2011,,,,
+39123,Kenya,2011,,,,
+39124,Kenya,2011,,,,
+39125,Kenya,2011,,,,
+39126,Kenya,2011,,,,
+39127,Kenya,2011,,,,
+39128,Kenya,2011,,,,
+39129,Kenya,2011,,,,
+39130,Kenya,2011,,,,
+39131,Kenya,2011,,,,
+39132,Kenya,2011,,,,
+39133,Kenya,2011,,,,
+39134,Kenya,2011,,,,
+39135,Kenya,2012,,,,
+39136,Kenya,2012,,,,
+39137,Kenya,2015,,,,
+39138,Kenya,2015,,,,
+39139,Kenya,2010,,,,
+59511,Kenya,2016,=,S,S,R
+60436,Kenya,2014,=,S,S,R
+60437,Kenya,2016,,,,
+60439,Kenya,2016,=,S,S,R
+60440,Kenya,2016,=,S,S,R
+60441,Kenya,2017,=,S,S,R
+60442,Kenya,2016,=,S,S,R
+60501,Kenya,2014,=,S,S,S
+60502,Kenya,2014,=,S,,R
+60503,Kenya,2016,=,S,S,S
+60504,Kenya,2015,=,S,S,R
+60505,Kenya,2015,=,S,S,R
+60506,Kenya,2015,=,S,S,R
+60507,Kenya,2015,=,S,S,R
+60508,Kenya,2016,=,S,S,R
+60509,Kenya,2016,=,S,S,R
+60510,Kenya,2014,=,S,S,R
+60511,Kenya,2013,=,S,S,R
+60512,Kenya,2014,=,S,S,R
+60513,Kenya,2016,=,S,S,R
+60514,Kenya,2014,=,S,S,R
+60515,Kenya,2015,=,S,S,R
+60516,Kenya,2016,=,S,S,R
+60517,Kenya,2015,=,S,S,R
+60518,Kenya,2015,=,S,S,R
+60519,Kenya,2016,=,S,S,R
+60520,Kenya,2014,=,S,S,R
+60521,Kenya,2017,=,S,S,R
+60522,Kenya,2017,=,S,S,R
+60523,Kenya,2017,=,S,S,R
+60524,Kenya,2017,=,S,S,R
+60525,Kenya,2013,=,,,R
+60526,Kenya,2018,,S,S,R
+60527,Kenya,2018,=,S,S,R
+60528,Kenya,2018,=,S,S,R
+60530,Kenya,2018,=,S,S,R
+60531,Kenya,2018,=,S,S,R
+61382,Ivory Coast,2012,=,S,S,R
+61383,Ivory Coast,2012,=,S,S,R
+89182,South Africa,2015,,,,
+89183,South Africa,2015,,,,
+89185,South Africa,2015,,,,
+89186,South Africa,2017,,,,
+89187,South Africa,2017,,,,
+89188,South Africa,2017,,,,
+89189,South Africa,2017,,,,
+89190,South Africa,2015,,,,
+89194,South Africa,2017,,,,
+89195,South Africa,2015,,,,
+89196,South Africa,2017,,,,
+89197,South Africa,2015,,,,
+89198,South Africa,2015,,,,
+89199,South Africa,2017,,,,
+89200,South Africa,2017,,,,
+92898,South Africa,2019,=,S,S,I
+92899,South Africa,2019,=,S,S,R
+92900,South Africa,2019,=,S,S,R
+92901,South Africa,2018,=,S,S,R
+92902,South Africa,2019,=,S,S,R
+92903,South Africa,2019,=,S,S,S
+93214,South Africa,2019,,,,
+95771,Ghana,2014,,,,
+95772,Ghana,2014,,,,
+95773,Ghana,2014,,,,
+95774,Ghana,2014,,,,
+95775,Ghana,2014,,,,
+95776,Ghana,2014,,,,
+95777,Ghana,2015,,,,
+95778,Ghana,2015,,,,
+95779,Ghana,2015,,,,
+95780,Ghana,2013,,,,
+95781,Ghana,2013,,,,
+95782,Ghana,2013,,,,
+95783,Ghana,2014,,,,
+95784,Ghana,2014,,,,
+95785,Ghana,2015,,,,
+95786,Ghana,2015,,,,
+95787,Ghana,2019,,,,
+95788,Ghana,2019,,,,
+95789,Ghana,2014,,,,
+95790,Ghana,2012,,,,
+95791,Ghana,2012,,,,
+95792,Ghana,2012,,,,
+95793,Ghana,2012,,,,
+95794,Ghana,2012,,,,
+95795,Ghana,2012,,,,
+95796,Ghana,2015,,,,
+95797,Ghana,2015,,,,
+95798,Ghana,2015,,,,
+95799,Ghana,2015,,,,
+95800,Ghana,2015,,,,
+95801,Ghana,2015,,,,
+95802,Ghana,2018,,,,
+95803,Ghana,2018,,,,
+95804,Ghana,2019,,,,
+95805,Ghana,2019,,,,
+95806,Ghana,2019,,,,
+95807,Ghana,2019,,,,
+95808,Ghana,2019,,,,
+95809,Ghana,2019,,,,
+95810,Ghana,2019,,,,
+95811,Ghana,2019,,,,
+95812,Ghana,2019,,,,
+95813,Ghana,2018,,,,
+95814,Ghana,2019,,,,
+95815,Ghana,2019,,,,
+95816,Ghana,2019,,,,
+95817,Ghana,2018,,,,
+95818,Ghana,2018,,,,
+95819,Ghana,2018,,,,
+95820,Ghana,2018,,,,
+95821,Ghana,2018,,,,
+96169,South Africa,2013,=,S,S,R
+96170,South Africa,2013,=,S,S,S
+96171,South Africa,2014,=,S,S,S
+96172,South Africa,2014,=,S,S,S
+96173,South Africa,2014,=,S,S,S
+96174,South Africa,2014,=,S,S,S
+97776,Malawi,2018,,,,
+97777,Malawi,2018,,,,
+97778,Malawi,2018,,,,
+97779,Malawi,2018,,,,
+97780,Malawi,2018,,,,
+97781,Malawi,2018,,,,
+97782,Malawi,2018,,,,
+97783,Malawi,2018,,,,
+97784,Malawi,2018,,,,
+105972,Kenya,2012,,S,S,I
+105973,Kenya,2012,,S,S,R
+105974,Kenya,2012,,S,S,I
+105975,Kenya,2012,,S,S,R
+105976,Kenya,2012,,S,S,R
+105977,Kenya,2012,,S,S,S
+105978,Kenya,2012,,S,S,R
+105979,Kenya,2012,,S,S,S
+105980,Kenya,2012,,S,S,R
+105981,Kenya,2012,,S,S,R
+106122,Kenya,2017,,,,
+106123,Kenya,2016,,,,
+106124,Kenya,2016,,,,
+106125,Kenya,2017,,,,
+106126,Kenya,2018,,,,
+106127,Kenya,2016,,,,
+106128,Kenya,2017,,,,
+106129,Kenya,2017,,,,
+106130,Kenya,2016,,,,
+106131,Kenya,2016,,,,
+106132,Kenya,2016,,,,
+106133,Kenya,2018,,,,
+106134,Kenya,2016,,,,
+106135,Kenya,2017,,,,
+106136,Kenya,2016,,,,
+106137,Kenya,2016,,,,
+106138,Kenya,2016,,,,
+106139,Kenya,2018,,,,
+106140,Kenya,2017,,,,
+106141,Kenya,2016,,,,
+106142,Kenya,2016,,,,
+106143,Kenya,2017,,,,
+106144,Kenya,2017,,,,
+106145,Kenya,2016,,,,
+106146,Kenya,2016,,,,
+106147,Kenya,2016,,,,
+106148,Kenya,2018,,,,
+106149,Kenya,2018,,,,
+106150,Kenya,2018,,,,
+106151,Kenya,2017,,,,
+106152,Kenya,2016,,,,
+106153,Kenya,2019,,,,
+106154,Kenya,2016,,,,
+106155,Kenya,2017,,,,
+106156,Kenya,2017,,,,
+106157,Kenya,2017,,,,
+106158,Kenya,2017,,,,
+106159,Kenya,2018,,,,
+106160,Kenya,2017,,,,
+106161,Kenya,2017,,,,
+106162,Kenya,2019,,,,
+106163,Kenya,2019,,,,
+106164,Kenya,2020,,,,
+106165,Kenya,2020,,,,
+106166,Kenya,2019,,,,
+106167,Kenya,2020,,,,
+109097,South Africa,2018,=,S,S,S
+109098,South Africa,2018,=,S,S,R
+109099,South Africa,2018,=,S,S,S
+109100,South Africa,2018,=,S,S,S
+109101,South Africa,2018,=,S,S,R
+109102,South Africa,2018,=,S,S,R
+109103,South Africa,2018,=,S,S,R
+109104,South Africa,2018,=,S,S,I
+109105,South Africa,2018,=,S,S,R
+109106,South Africa,2018,=,S,S,R
+109107,South Africa,2018,=,S,S,R
+109108,South Africa,2018,=,S,S,R
+109109,South Africa,2018,=,S,S,R
+109110,South Africa,2018,=,S,S,R
+109111,South Africa,2019,=,S,S,S
+109112,South Africa,2019,=,S,S,R
+109113,South Africa,2019,=,S,S,R
+109114,South Africa,2019,=,S,S,R
+109115,South Africa,2019,=,S,S,R
+109116,South Africa,2019,=,S,S,R
+109117,South Africa,2019,=,S,S,I
+109118,South Africa,2019,=,S,S,R
+109119,South Africa,2019,=,S,S,R
+109120,South Africa,2018,=,S,S,S
+109121,South Africa,2018,=,S,S,R
+111732,Ghana,2018,,,,
+111733,Ghana,2019,,,,
+111734,Ghana,2019,,,,
+111735,Ghana,2019,,,,
+111736,Ghana,2019,,,,
+115183,South Africa,2019,,,,
+115184,South Africa,2021,,,,
+115185,South Africa,2021,,,,
+116222,Uganda,2018,,,,
+116223,Uganda,2018,,,,
+116224,Uganda,2018,,,,
+116225,Uganda,2018,,,,
+116226,Uganda,2018,,,,
+116227,Uganda,2018,,,,
+116228,Uganda,2018,,,,
+116229,Uganda,2018,,,,
+116230,Uganda,2018,,,,
+116231,Uganda,2018,,,,
+116232,Uganda,2018,,,,
+116233,Uganda,2018,,,,
+116234,Uganda,2018,,,,
+116235,Uganda,2018,,,,
+116236,Uganda,2018,,,,
+116237,Uganda,2018,,,,
+116238,Uganda,2018,,,,
+116239,Uganda,2018,,,,
+116240,Uganda,2018,,,,
+116241,Uganda,2018,,,,
+116242,Uganda,2018,,,,
+116243,Uganda,2018,,,,
+116244,Uganda,2018,,,,
+116245,Uganda,2018,,,,
+116246,Uganda,2018,,,,
+116247,Uganda,2018,,,,
+116248,Uganda,2018,,,,
+116249,Uganda,2018,,,,
+116250,Uganda,2018,,,,
+116251,Uganda,2018,,,,
+116252,Uganda,2018,,,,
+116253,Uganda,2018,,,,
+117540,Cameroon,2019,=,S,S,R
+117541,Cameroon,2019,=,S,S,R
+117542,Cameroon,2019,=,,S,R
+117543,Cameroon,2020,=,S,S,R
+117544,Cameroon,2020,=,,R,R
+117545,Cameroon,2020,=,S,S,S
+117546,Cameroon,2020,=,S,S,R
+117547,Cameroon,2020,=,S,S,R
+118224,Cameroon,2020,=,,R,R
+118225,Cameroon,2020,=,,S,R
+123150,Zambia,2020,,,,
+123151,Zambia,2020,,,,
+123152,Zambia,2020,,,,
+123332,South Africa,2022,,,,
+123333,South Africa,2022,,,,
+123334,South Africa,2022,,,,
+123335,South Africa,2022,,,,
+123336,South Africa,2022,,,,
+123337,South Africa,2022,,,,
+123338,South Africa,2022,,,,
+123339,South Africa,2022,,,,
+123340,South Africa,2022,,,,
+123341,South Africa,2022,,,,
+123342,South Africa,2022,,,,
+123343,South Africa,2022,,,,
+123344,South Africa,2022,,,,
+123345,South Africa,2022,,,,
+123346,South Africa,2022,,,,
+123347,South Africa,2022,,,,
+125903,Madagascar,2020,=,,S,R
+125904,Madagascar,2015,=,,S,R
+125905,Madagascar,2019,=,,S,R
+125906,Madagascar,2020,=,,S,R
+125907,Madagascar,2020,=,,S,R
+125908,Madagascar,2020,=,,S,R
+125909,Madagascar,2016,=,,S,R
+125910,Madagascar,2020,=,,S,R
+125911,Madagascar,2020,=,,S,R
+125912,Madagascar,2014,=,,S,R
+125913,Madagascar,2020,=,,S,R
+125914,Madagascar,2020,=,,S,R
+125915,Madagascar,2014,=,,S,R
+125916,Madagascar,2020,=,,S,R
+125917,Madagascar,2014,=,,S,R
+125918,Madagascar,2020,=,,S,R
+125919,Madagascar,2020,=,,S,R
+125920,Madagascar,2020,=,,S,R
+125921,Madagascar,2020,=,,S,R
+125922,Madagascar,2017,=,,S,R
+125923,Madagascar,2019,=,,S,R
+125924,Madagascar,2020,=,,S,R
+125925,Madagascar,2020,=,,S,R
+125926,Madagascar,2020,=,,S,R
+125927,Madagascar,2020,=,,S,R
+125928,Madagascar,2020,=,,S,R
+125929,Madagascar,2020,=,,S,R
+125930,Madagascar,2020,=,,S,R
+125931,Madagascar,2020,=,,S,R
+125932,Madagascar,2020,=,,S,R
+125933,Madagascar,2017,=,,S,R
+125934,Madagascar,2020,=,,S,R
+125935,Madagascar,2019,=,,S,R
+125936,Madagascar,2020,=,,S,R
+125937,Madagascar,2020,=,,S,R
+125938,Madagascar,2020,=,,S,R
+125939,Madagascar,2019,=,,S,R
+125940,Madagascar,2020,=,,S,R
+125941,Madagascar,2020,=,,S,R
+125942,Madagascar,2020,=,,S,R
+125943,Madagascar,2016,=,,S,R
+125945,Madagascar,2020,=,,S,R
+125947,Madagascar,2020,=,,S,R
+125948,Madagascar,2020,=,,S,R
+125950,Madagascar,2016,=,,S,R
+125951,Madagascar,2020,=,,S,R
+126241,South Africa,2022,,,,
+126242,South Africa,2022,,,,
+126243,South Africa,2022,,,,
+126244,South Africa,2022,,,,
+126245,South Africa,2022,,,,
+126246,South Africa,2022,,,,
+126247,South Africa,2022,,,,
+126248,South Africa,2022,,,,
+126249,South Africa,2022,,,,
+126250,South Africa,2022,,,,
+126251,South Africa,2022,,,,
+126252,South Africa,2022,,,,
+126253,South Africa,2022,,,,
+126254,South Africa,2022,,,,
+126255,South Africa,2022,,,,
+126256,South Africa,2022,,,,
+126257,South Africa,2022,,,,
+126258,South Africa,2022,,,,
+126259,South Africa,2022,,,,
+126260,South Africa,2022,,,,
+126261,South Africa,2022,,,,
+126262,South Africa,2022,,,,
+126263,South Africa,2022,,,,
+126264,South Africa,2022,,,,
+126265,South Africa,2022,,,,
+126266,South Africa,2022,,,,
+126267,South Africa,2022,,,,
+126268,South Africa,2022,,,,
+126269,South Africa,2022,,,,
+126270,South Africa,2022,,,,
+126271,South Africa,2022,,,,
+126272,South Africa,2022,,,,
+126273,South Africa,2022,,,,
+126274,South Africa,2022,,,,
+126275,South Africa,2022,,,,
+126929,South Africa,2022,,,,
+126930,South Africa,2022,,,,
+126931,South Africa,2022,,,,
+126932,South Africa,2022,,,,
+126933,South Africa,2022,,,,
+126934,South Africa,2022,,,,
+126935,South Africa,2022,,,,
+126936,South Africa,2022,,,,
+126937,South Africa,2022,,,,
+126938,South Africa,2022,,,,
+126939,South Africa,2022,,,,
+126940,South Africa,2022,,,,
+126941,South Africa,2022,,,,
+126942,South Africa,2022,,,,
+126943,South Africa,2022,,,,
+126944,South Africa,2022,,,,
+126945,South Africa,2022,,,,
+126946,South Africa,2022,,,,
+126947,South Africa,2022,,,,
+126948,South Africa,2022,,,,
+126949,South Africa,2022,,,,
+131095,South Africa,2012,=,S,S,R
+131096,South Africa,2012,,S,S,S
+131097,South Africa,2012,,S,S,R
+131098,South Africa,2012,,S,S,S
+131099,South Africa,2012,=,S,S,R
+131100,South Africa,2012,=,S,S,S
+131101,South Africa,2012,=,S,S,R
+131102,South Africa,2012,=,S,S,S
+131103,South Africa,2012,,S,S,S
+131104,South Africa,2012,=,S,S,S
+131105,South Africa,2012,=,S,S,R
+131106,South Africa,2012,=,S,S,R
+131107,South Africa,2012,=,S,S,R
+131108,South Africa,2012,=,S,S,R
+131109,South Africa,2012,=,S,S,R
+131110,South Africa,2012,,S,S,R
+131111,South Africa,2012,=,S,S,R
+131112,South Africa,2012,,S,S,S
+131113,South Africa,2012,,S,S,R
+131114,South Africa,2012,,S,S,S
+131115,South Africa,2012,,S,S,R
+131116,South Africa,2012,,S,S,R
+131117,South Africa,2012,,S,S,R
+131118,South Africa,2012,,S,S,S
+131119,South Africa,2012,,S,S,R
+131120,South Africa,2012,,S,S,R
+131121,South Africa,2012,,S,S,R
+131122,South Africa,2012,,S,S,R
+131123,South Africa,2012,,S,S,S
+131124,South Africa,2012,,S,S,R
+131125,South Africa,2012,,S,S,R
+131126,South Africa,2012,,S,S,R
+131127,South Africa,2012,,S,S,S
+131128,South Africa,2012,,S,S,R
+131129,South Africa,2012,,S,S,S
+131130,South Africa,2012,,S,S,R
+131131,South Africa,2012,,S,S,R
+131132,South Africa,2012,,S,S,R
+131133,South Africa,2012,,S,S,R
+131134,South Africa,2012,,S,S,R
+131135,South Africa,2012,,S,S,R
+131136,South Africa,2012,,S,S,S
+131137,South Africa,2012,,S,S,S
+131138,South Africa,2012,,S,S,R
+131139,South Africa,2012,,S,S,S
+131140,South Africa,2012,,S,S,R
+131141,South Africa,2012,=,S,S,R
+131142,South Africa,2012,=,S,S,R
+131143,South Africa,2012,,S,S,R
+131144,South Africa,2012,,S,S,S
+131145,South Africa,2012,,S,S,R
+131146,South Africa,2012,,S,S,R
+131147,South Africa,2012,,S,S,R
+131148,South Africa,2012,,S,S,R
+131149,South Africa,2012,,S,S,R
+131150,South Africa,2012,,S,S,R
+131151,South Africa,2012,,S,S,R
+131152,South Africa,2012,,S,S,R
+131153,South Africa,2012,,S,S,R
+131154,South Africa,2012,,S,S,R
+131155,South Africa,2013,=,S,S,S
+131156,South Africa,2013,=,S,S,R
+131157,South Africa,2013,,S,S,R
+131158,South Africa,2013,=,S,S,R
+131159,South Africa,2013,=,S,S,R
+131160,South Africa,2013,=,S,S,R
+131161,South Africa,2013,=,S,S,R
+131162,South Africa,2013,=,S,S,R
+131163,South Africa,2013,=,S,S,R
+131164,South Africa,2013,=,S,S,S
+131165,South Africa,2013,=,S,S,R
+131166,South Africa,2013,=,S,S,S
+131167,South Africa,2013,=,S,S,R
+131168,South Africa,2013,=,S,S,R
+131169,South Africa,2013,=,S,S,S
+131170,South Africa,2013,=,S,S,S
+131171,South Africa,2013,,,,
+131172,South Africa,2013,=,S,S,R
+131173,South Africa,2013,=,S,S,R
+131174,South Africa,2013,=,S,S,R
+131175,South Africa,2013,,S,S,S
+131176,South Africa,2013,=,S,S,R
+131177,South Africa,2013,,S,S,R
+131178,South Africa,2013,,S,S,S
+131179,South Africa,2013,,S,S,R
+131180,South Africa,2013,,S,S,R
+131181,South Africa,2013,,S,S,S
+131182,South Africa,2013,,S,S,R
+131183,South Africa,2013,,S,S,R
+131184,South Africa,2013,,S,S,S
+131185,South Africa,2013,,S,S,S
+131186,South Africa,2013,,S,S,R
+131187,South Africa,2013,,S,S,S
+131188,South Africa,2013,,S,S,S
+131189,South Africa,2013,,S,S,S
+131190,South Africa,2013,,S,S,S
+131191,South Africa,2013,,S,S,S
+131192,South Africa,2013,,S,S,R
+131193,South Africa,2013,,S,S,R
+131194,South Africa,2013,,S,S,R
+131195,South Africa,2013,,S,S,S
+131196,South Africa,2013,,S,S,R
+131197,South Africa,2013,,S,S,R
+131198,South Africa,2013,,S,S,R
+131199,South Africa,2013,,S,S,R
+131200,South Africa,2013,,S,S,R
+131201,South Africa,2013,,S,S,R
+131202,South Africa,2013,,S,S,R
+131203,South Africa,2013,,S,S,R
+131204,South Africa,2013,,S,S,S
+131205,South Africa,2013,,S,S,S
+131206,South Africa,2013,,S,S,R
+131207,South Africa,2013,,S,S,S
+131208,South Africa,2013,,S,S,S
+131209,South Africa,2013,,S,S,R
+131210,South Africa,2013,,S,S,S
+131211,South Africa,2013,,S,S,S
+131212,South Africa,2013,,S,S,R
+131213,South Africa,2013,,S,S,R
+131214,South Africa,2013,,S,S,R
+131215,South Africa,2013,,S,S,R
+131216,South Africa,2013,,S,S,R
+131217,South Africa,2013,,S,S,S
+131218,South Africa,2013,,S,S,R
+131219,South Africa,2013,,S,S,R
+131220,South Africa,2013,,S,S,R
+131221,South Africa,2014,=,S,S,S
+131222,South Africa,2014,=,S,S,R
+131223,South Africa,2014,=,S,S,R
+131224,South Africa,2014,=,S,S,R
+131225,South Africa,2014,=,S,S,R
+131226,South Africa,2014,=,S,S,R
+131227,South Africa,2014,,S,S,R
+131228,South Africa,2014,=,S,S,R
+131229,South Africa,2014,=,S,S,S
+131230,South Africa,2014,=,S,S,R
+131231,South Africa,2014,=,S,S,R
+131232,South Africa,2014,=,S,S,S
+131233,South Africa,2014,=,S,S,S
+131234,South Africa,2014,=,S,S,R
+131235,South Africa,2014,,S,S,S
+131236,South Africa,2014,=,S,S,R
+131237,South Africa,2014,=,S,S,R
+131238,South Africa,2014,=,S,S,R
+131239,South Africa,2014,=,S,S,R
+131240,South Africa,2014,=,S,S,R
+131241,South Africa,2014,=,S,S,R
+131242,South Africa,2014,=,S,S,R
+131243,South Africa,2014,=,S,S,R
+131244,South Africa,2014,=,S,S,R
+131245,South Africa,2014,=,S,S,R
+131246,South Africa,2014,=,S,S,R
+131247,South Africa,2014,,S,S,R
+131248,South Africa,2014,=,S,S,R
+131249,South Africa,2014,,S,S,R
+131250,South Africa,2014,,S,S,R
+131251,South Africa,2014,,S,S,R
+131252,South Africa,2014,,S,S,R
+131253,South Africa,2014,,S,S,R
+131254,South Africa,2014,,S,S,R
+131255,South Africa,2014,,S,S,R
+131256,South Africa,2014,,S,S,R
+131257,South Africa,2014,=,S,S,R
+131258,South Africa,2014,=,S,S,R
+131259,South Africa,2014,,S,S,R
+131260,South Africa,2014,,S,S,R
+131261,South Africa,2014,,S,S,R
+131262,South Africa,2014,,S,S,R
+131263,South Africa,2014,,S,S,R
+131264,South Africa,2014,,S,S,R
+131265,South Africa,2014,,S,S,R
+131266,South Africa,2014,,S,S,R
+131267,South Africa,2014,,S,S,R
+131268,South Africa,2014,,S,S,R
+131269,South Africa,2014,,S,S,R
+131270,South Africa,2014,,S,S,R
+131271,South Africa,2014,,S,S,R
+131272,South Africa,2014,,S,S,R
+131273,South Africa,2014,,S,S,R
+131274,South Africa,2015,=,S,S,R
+131275,South Africa,2015,=,S,S,S
+131276,South Africa,2015,=,S,S,R
+131277,South Africa,2015,=,S,S,R
+131278,South Africa,2015,=,S,S,R
+131279,South Africa,2015,=,S,S,R
+131280,South Africa,2015,=,S,S,R
+131281,South Africa,2015,=,S,S,R
+131282,South Africa,2015,=,S,S,S
+131283,South Africa,2015,=,S,S,R
+131284,South Africa,2015,=,S,S,R
+131285,South Africa,2015,=,S,S,R
+131286,South Africa,2015,=,S,S,S
+131287,South Africa,2015,=,S,S,R
+131288,South Africa,2015,=,S,S,S
+131289,South Africa,2015,=,S,S,S
+131290,South Africa,2015,=,S,S,R
+131291,South Africa,2015,=,S,S,R
+131292,South Africa,2015,=,S,S,S
+131293,South Africa,2015,=,S,S,R
+131294,South Africa,2015,=,S,S,R
+131295,South Africa,2015,=,S,S,S
+131296,South Africa,2015,=,S,S,R
+131297,South Africa,2015,=,S,S,R
+131298,South Africa,2015,=,S,S,R
+131299,South Africa,2015,=,S,S,R
+131300,South Africa,2015,=,S,S,S
+131301,South Africa,2015,=,S,S,S
+131302,South Africa,2015,=,S,S,R
+131303,South Africa,2015,=,S,S,R
+131304,South Africa,2015,=,S,S,R
+131305,South Africa,2015,=,S,S,R
+131306,South Africa,2015,=,S,S,R
+131307,South Africa,2015,=,S,S,S
+131308,South Africa,2015,,S,S,
+131309,South Africa,2015,,S,S,
+131310,South Africa,2015,,S,S,
+131311,South Africa,2015,,S,S,
+131312,South Africa,2015,=,S,S,R
+131313,South Africa,2015,=,S,S,R
+131314,South Africa,2015,=,S,S,R
+131315,South Africa,2015,=,S,S,R
+131316,South Africa,2015,=,S,S,R
+131317,South Africa,2015,=,S,S,R
+131318,South Africa,2015,=,S,S,R
+131319,South Africa,2015,=,S,S,R
+131320,South Africa,2015,=,S,S,R
+131321,South Africa,2015,=,S,S,R
+131322,South Africa,2015,=,S,S,R
+131323,South Africa,2015,=,S,S,R
+131324,South Africa,2015,=,S,S,R
+131325,South Africa,2015,=,S,S,R
+131326,South Africa,2015,=,S,S,S
+131327,South Africa,2015,=,S,S,R
+131328,South Africa,2015,=,S,S,R
+131329,South Africa,2016,=,S,S,R
+131330,South Africa,2016,=,S,S,S
+131331,South Africa,2016,=,S,S,S
+131332,South Africa,2016,=,S,S,R
+131333,South Africa,2016,=,S,S,R
+131334,South Africa,2016,=,S,S,R
+131335,South Africa,2016,=,S,S,R
+131336,South Africa,2016,=,S,S,R
+131337,South Africa,2016,=,S,S,R
+131338,South Africa,2016,=,S,S,R
+131339,South Africa,2016,=,S,S,R
+131340,South Africa,2016,=,S,S,S
+131341,South Africa,2016,=,S,S,R
+131342,South Africa,2016,=,S,S,R
+131343,South Africa,2016,=,S,S,R
+131344,South Africa,2016,=,S,S,R
+131345,South Africa,2016,=,S,S,R
+131346,South Africa,2016,=,S,S,R
+131347,South Africa,2016,=,S,S,R
+131348,South Africa,2016,=,S,S,R
+131349,South Africa,2016,=,S,S,R
+131350,South Africa,2016,=,S,S,R
+131351,South Africa,2016,=,S,S,R
+131352,South Africa,2016,=,S,S,R
+131353,South Africa,2016,=,S,S,R
+131354,South Africa,2016,=,S,S,R
+131355,South Africa,2016,=,S,S,R
+131356,South Africa,2016,=,S,S,R
+131357,South Africa,2016,=,S,S,R
+131358,South Africa,2016,=,S,S,R
+131359,South Africa,2016,=,S,S,R
+131360,South Africa,2016,=,S,S,R
+131361,South Africa,2016,=,S,S,R
+131362,South Africa,2016,=,S,S,R
+131363,South Africa,2016,=,S,S,R
+131364,South Africa,2016,=,S,S,R
+131365,South Africa,2016,=,S,S,S
+131366,South Africa,2016,=,S,S,R
+131367,South Africa,2016,=,S,S,R
+131368,South Africa,2016,=,S,S,R
+131369,South Africa,2016,=,S,S,R
+131370,South Africa,2016,=,S,S,R
+131371,South Africa,2016,=,S,S,S
+131372,South Africa,2016,=,S,,R
+131373,South Africa,2016,=,S,,R
+131374,South Africa,2017,=,S,S,
+131375,South Africa,2017,=,S,S,
+131376,South Africa,2017,=,S,S,
+131377,South Africa,2017,=,S,S,
+131378,South Africa,2017,=,S,S,
+131379,South Africa,2017,=,S,S,
+131380,South Africa,2017,=,S,S,
+131381,South Africa,2017,=,S,S,
+131382,South Africa,2017,=,S,S,
+136267,Uganda,,,,,
+136268,Uganda,,,,,
+136269,Uganda,,,,,
+136270,Uganda,,,,,
+136271,Uganda,,,,,
+136272,Uganda,,,,,
+136273,Uganda,,,,,
+136274,Uganda,,,,,
+136275,Uganda,,,,,
+136276,Uganda,,,,,
+136277,Uganda,,,,,
+136278,Uganda,,,,,
+136279,Uganda,,,,,
+136280,Uganda,,,,,
+136281,Uganda,,,,,
+136282,Uganda,,,,,
+136283,Uganda,,,,,
+136284,Uganda,,,,,
+136285,Uganda,,,,,
+136286,Uganda,,,,,
+136287,Uganda,,,,,
+136288,Uganda,,,,,
+136289,Uganda,,,,,
+136290,Uganda,,,,,
+136291,Uganda,,,,,
+136292,Uganda,,,,,
+136293,Uganda,,,,,
+136294,Uganda,,,,,
+136295,Uganda,,,,,
+136296,Uganda,,,,,
+136297,Uganda,,,,,
+136298,Uganda,,,,,
+136299,Uganda,,,,,
+136300,Uganda,,,,,
+136301,Uganda,,,,,
+136302,Uganda,,,,,
+136303,Uganda,,,,,
+136304,Uganda,,,,,
+136305,Uganda,,,,,
+136306,Uganda,,,,,
+136307,Uganda,,,,,
+136308,Uganda,,,,,
+136309,Uganda,,,,,
+136310,Uganda,,,,,
+136311,Uganda,,,,,
+136312,Uganda,,,,,
+136313,Uganda,,,,,
+136314,Uganda,,,,,
+136315,Uganda,,,,,
+136316,Uganda,,,,,
+136317,Uganda,,,,,
+136318,Uganda,,,,,
+136319,Uganda,,,,,
+136320,Uganda,,,,,
+136321,Uganda,,,,,
+136322,Uganda,,,,,
+136323,Uganda,,,,,
+136324,Uganda,,,,,
+136325,Uganda,,,,,
+136326,Uganda,,,,,
+136327,Uganda,,,,,
+136328,Uganda,,,,,
+136329,Uganda,,,,,
+136330,Uganda,,,,,
+136331,Uganda,,,,,
+136332,Uganda,,,,,
+136333,Uganda,,,,,
+136334,Uganda,,,,,
+136335,Uganda,,,,,
+136336,Uganda,,,,,
+136337,Uganda,,,,,
+136338,Uganda,,,,,
+136339,Uganda,,,,,
+136340,Uganda,,,,,
+136341,Uganda,,,,,
+136342,Uganda,,,,,
+136343,Uganda,,,,,
+136344,Uganda,,,,,
+136345,Uganda,,,,,
+136346,Uganda,,,,,
+136347,Uganda,,,,,
+136348,Uganda,,,,,
+136349,Uganda,,,,,
+136350,Uganda,,,,,
+136351,Uganda,,,,,
+136352,Uganda,,,,,
+136353,Uganda,,,,,
+136354,Uganda,,,,,
+136355,Uganda,,,,,
+136356,Uganda,,,,,
+136357,Uganda,,,,,
+136358,Uganda,,,,,
+136359,Uganda,,,,,
+136360,Uganda,,,,,
+136361,Uganda,,,,,
+136362,Uganda,,,,,
+136363,Uganda,,,,,
+136364,Uganda,,,,,
+136365,Uganda,,,,,
+136366,Uganda,,,,,
+136367,Uganda,,,,,
+136368,Uganda,,,,,
+136369,Uganda,,,,,
+136370,Uganda,,,,,
+136371,Uganda,,,,,
+136372,Uganda,,,,,
+136373,Uganda,,,,,
+136374,Uganda,,,,,
+136375,Uganda,,,,,
+136376,Uganda,,,,,
+136377,Uganda,,,,,
+136378,Uganda,,,,,
+136379,Uganda,,,,,
+136380,Uganda,,,,,
+136381,Uganda,,,,,
+136382,Uganda,,,,,
+136383,Uganda,,,,,
+136384,Uganda,,,,,
+136385,Uganda,,,,,
+136386,Uganda,,,,,
+136387,Uganda,,,,,
+136388,Uganda,,,,,
+136389,Uganda,,,,,
+136390,Uganda,,,,,
+136391,Uganda,,,,,
+136392,Uganda,,,,,
+136393,Uganda,,,,,
+136394,Uganda,,,,,
+136395,Uganda,,,,,
+136396,Uganda,,,,,
+136397,Uganda,,,,,
+136398,Uganda,,,,,
+136399,Uganda,,,,,
+136400,Uganda,,,,,
+136401,Uganda,,,,,
+136402,Uganda,,,,,
+136403,Uganda,,,,,
+136404,Uganda,,,,,
+136405,Uganda,,,,,
+136406,Uganda,,,,,
+136407,Uganda,,,,,
+136408,Uganda,,,,,
+136409,Uganda,,,,,
+136410,Uganda,,,,,
+136411,Uganda,,,,,
+136412,Uganda,,,,,
+136413,Uganda,,,,,
+136414,Uganda,,,,,
+136415,Uganda,,,,,
+136416,Uganda,,,,,
+136417,Uganda,,,,,
+136418,Uganda,,,,,
+136419,Uganda,,,,,
+136420,Uganda,,,,,
+136421,Uganda,,,,,
+136422,Uganda,,,,,
+136423,Uganda,,,,,
+136424,Uganda,,,,,
+136425,Uganda,,,,,
+136426,Uganda,,,,,
+136427,Uganda,,,,,
+136428,Uganda,,,,,
+136429,Uganda,,,,,
+136430,Uganda,,,,,
+136431,Uganda,,,,,
+136432,Uganda,,,,,
+136433,Uganda,,,,,
+136434,Uganda,,,,,
+136435,Uganda,,,,,
+136436,Uganda,,,,,
+136437,Uganda,,,,,
+136438,Uganda,,,,,
+136439,Uganda,,,,,
+136440,Uganda,,,,,
+136441,Uganda,,,,,
+136442,Uganda,,,,,
+136443,Uganda,,,,,
+136444,Uganda,,,,,
+136445,Uganda,,,,,
+136446,Uganda,,,,,
+136447,Uganda,,,,,
+136448,Uganda,,,,,
+136449,Uganda,,,,,
+136450,Uganda,,,,,
+136451,Uganda,,,,,
+136452,Uganda,,,,,
+136453,Uganda,,,,,
+136454,Uganda,,,,,
+136455,Uganda,,,,,
+136456,Uganda,,,,,
+136457,Uganda,,,,,
+136458,Uganda,,,,,
+136459,Uganda,,,,,
+136460,Uganda,,,,,
+136461,Uganda,,,,,
+136462,Uganda,,,,,
+136463,Uganda,,,,,
+136464,Uganda,,,,,
+136465,Uganda,,,,,
+136466,Uganda,,,,,
+136467,Uganda,,,,,
+136468,Uganda,,,,,
+136469,Uganda,,,,,
+136470,Uganda,,,,,
+136471,Uganda,,,,,
+136472,Uganda,,,,,
+136473,Uganda,,,,,
+136474,Uganda,,,,,
+136475,Uganda,,,,,
+136476,Uganda,,,,,
+136477,Uganda,,,,,
+136478,Uganda,,,,,
+136479,Uganda,,,,,
+136480,Uganda,,,,,
+136481,Uganda,,,,,
+136482,Uganda,,,,,
+136483,Uganda,,,,,
+136484,Uganda,,,,,
+136485,Uganda,,,,,
+136486,Uganda,,,,,
+136487,Uganda,,,,,
+136488,Uganda,,,,,
+136489,Uganda,,,,,
+136490,Uganda,,,,,
+136491,Uganda,,,,,
+136492,Uganda,,,,,
+136493,Uganda,,,,,
+136494,Uganda,,,,,
+136495,Uganda,,,,,
+136496,Uganda,,,,,
+136497,Uganda,,,,,
+136498,Uganda,,,,,
+136499,Uganda,,,,,
+136500,Uganda,,,,,
+136501,Uganda,,,,,
+136502,Uganda,,,,,
+136503,Uganda,,,,,
+136504,Uganda,,,,,
+136505,Uganda,,,,,
+136506,Uganda,,,,,
+136507,Uganda,,,,,
+136508,Uganda,,,,,
+136509,Uganda,,,,,
+136510,Uganda,,,,,
+136511,Uganda,,,,,
+136512,Uganda,,,,,
+136513,Uganda,,,,,
+136514,Uganda,,,,,
+136515,Uganda,,,,,
+136516,Uganda,,,,,
+136517,Uganda,,,,,
+136518,Uganda,,,,,
+136519,Uganda,,,,,
+136520,Uganda,,,,,
+136521,Uganda,,,,,
+136522,Uganda,,,,,
+136523,Uganda,,,,,
+136524,Uganda,,,,,
+136525,Uganda,,,,,
+136526,Uganda,,,,,
+136527,Uganda,,,,,
+136528,Uganda,,,,,
+136529,Uganda,,,,,
+136530,Uganda,,,,,
+136531,Uganda,,,,,
+136532,Uganda,,,,,
+136533,Uganda,,,,,
+136534,Uganda,,,,,
+136535,Uganda,,,,,
+136536,Uganda,,,,,
+136537,Uganda,,,,,
+136538,Uganda,,,,,
+136539,Uganda,,,,,
+136540,Uganda,,,,,
+136541,Uganda,,,,,
+136542,Uganda,,,,,
+136543,Uganda,,,,,
+136544,Uganda,,,,,
+136545,Uganda,,,,,
+136546,Uganda,,,,,
+136547,Uganda,,,,,
+136548,Uganda,,,,,
+136549,Uganda,,,,,
+136550,Uganda,,,,,
+136551,Uganda,,,,,
+136552,Uganda,,,,,
+136553,Uganda,,,,,
+136554,Uganda,,,,,
+136555,Uganda,,,,,
+136556,Uganda,,,,,
+136557,Uganda,,,,,
+136558,Uganda,,,,,
+136559,Uganda,,,,,
+136560,Uganda,,,,,
+136561,Uganda,,,,,
+136562,Uganda,,,,,
+136563,Uganda,,,,,
+136564,Uganda,,,,,
+136565,Uganda,,,,,
+136566,Uganda,,,,,
+136567,Uganda,,,,,
+136568,Uganda,,,,,
+136569,Uganda,,,,,
+136570,Uganda,,,,,
+136571,Uganda,,,,,
+136572,Uganda,,,,,
+136573,Uganda,,,,,
+136574,Uganda,,,,,
+136575,Uganda,,,,,
+136576,Uganda,,,,,
+136577,Uganda,,,,,
+136578,Uganda,,,,,
+136579,Uganda,,,,,
+136580,Uganda,,,,,
+136581,Uganda,,,,,
+136582,Uganda,,,,,
+136583,Uganda,,,,,
+136584,Uganda,,,,,
+136585,Uganda,,,,,
+136586,Uganda,,,,,
+136587,Uganda,,,,,
+136588,Uganda,,,,,
+136589,Uganda,,,,,
+136590,Uganda,,,,,
+136591,Uganda,,,,,
+136592,Uganda,,,,,
+136593,Uganda,,,,,
+136594,Uganda,,,,,
+136595,Uganda,,,,,
+136596,Uganda,,,,,
+136597,Uganda,,,,,
+136598,Uganda,,,,,
+136599,Uganda,,,,,
+136600,Uganda,,,,,
+136601,Uganda,,,,,
+136602,Uganda,,,,,
+136603,Uganda,,,,,
+136604,Uganda,,,,,
+136605,Uganda,,,,,
+136606,Uganda,,,,,
+136607,Uganda,,,,,
+136608,Uganda,,,,,
+136609,Uganda,,,,,
+136610,Uganda,,,,,
+136611,Uganda,,,,,
+136612,Uganda,,,,,
+136613,Uganda,,,,,
+136614,Uganda,,,,,
+136615,Uganda,,,,,
+136616,Uganda,,,,,
+136617,Uganda,,,,,
+136618,Uganda,,,,,
+136619,Uganda,,,,,
+136620,Uganda,,,,,
+136621,Uganda,,,,,
+136622,Uganda,,,,,
+136623,Uganda,,,,,
+136624,Uganda,,,,,
+136625,Uganda,,,,,
+136626,Uganda,,,,,
+136627,Uganda,,,,,
+136628,Uganda,,,,,
+136629,Uganda,,,,,
+136630,Uganda,,,,,
+136631,Uganda,,,,,
+136632,Uganda,,,,,
+136633,Uganda,,,,,
+136634,Uganda,,,,,
+136635,Uganda,,,,,
+136636,Uganda,,,,,
+136637,Uganda,,,,,
+136638,Uganda,,,,,
+136639,Uganda,,,,,
+136640,Uganda,,,,,
+136641,Uganda,,,,,
+136642,Uganda,,,,,
+136643,Uganda,,,,,
+136644,Uganda,,,,,
+136645,Uganda,,,,,
+136646,Uganda,,,,,
+136647,Uganda,,,,,
+136648,Uganda,,,,,
+136649,Uganda,,,,,
+136650,Uganda,,,,,
+136651,Uganda,,,,,
+136652,Uganda,,,,,
+136653,Uganda,,,,,
+136654,Uganda,,,,,
+136655,Uganda,,,,,
+136656,Uganda,,,,,
+136657,Uganda,,,,,
+136658,Uganda,,,,,
+136659,Uganda,,,,,
+136660,Uganda,,,,,
+136661,Uganda,,,,,
+136662,Uganda,,,,,
+136663,Uganda,,,,,
+136664,Uganda,,,,,
+136665,Uganda,,,,,
+136666,Uganda,,,,,
+136667,Uganda,,,,,
+138602,Burkina Faso,,,,,
+138603,Burkina Faso,,,,,
+138604,Burkina Faso,,,,,
+138605,Burkina Faso,,,,,
+138606,Burkina Faso,,,,,
+138607,Burkina Faso,,,,,
+138608,Burkina Faso,,,,,
+138609,Burkina Faso,,,,,
+138610,Burkina Faso,,,,,
+138611,Burkina Faso,,,,,
+138612,Burkina Faso,,,,,
+138613,Burkina Faso,,,,,
+138614,Burkina Faso,,,,,
+138615,Burkina Faso,,,,,
+138616,Burkina Faso,,,,,
+138617,Burkina Faso,,,,,
+138618,Burkina Faso,,,,,
+138619,Burkina Faso,,,,,
+138620,Burkina Faso,,,,,
+138621,Burkina Faso,,,,,
+138622,Burkina Faso,,,,,
+138623,Burkina Faso,,,,,
+138624,Burkina Faso,,,,,
+138625,Burkina Faso,,,,,
+138626,Burkina Faso,,,,,
+138627,Burkina Faso,,,,,
+138628,Burkina Faso,,,,,
+138629,Burkina Faso,,,,,
+138630,Burkina Faso,,,,,
+138631,Burkina Faso,,,,,
+138632,Burkina Faso,,,,,
+138633,Burkina Faso,,,,,
+138634,Burkina Faso,,,,,
+138635,Burkina Faso,,,,,
+138636,Burkina Faso,,,,,
+138637,Burkina Faso,,,,,
+138638,Burkina Faso,,,,,
+138639,Burkina Faso,,,,,
+138640,Burkina Faso,,,,,
+138641,Burkina Faso,,,,,
+138642,Burkina Faso,,,,,
+138643,Burkina Faso,,,,,
+138644,Burkina Faso,,,,,
+138645,Burkina Faso,,,,,
+138646,Burkina Faso,,,,,
+138647,Burkina Faso,,,,,
+138648,Burkina Faso,,,,,
+138649,Burkina Faso,,,,,
+138650,Burkina Faso,,,,,
+138651,Burkina Faso,,,,,
+138652,Burkina Faso,,,,,
+138653,Burkina Faso,,,,,
+138787,South Africa,2022,,,,
+139453,South Africa,2023,,,,
+139454,South Africa,2023,,,,
+139455,South Africa,2023,,,,
+139860,South Africa,2023,,,,
+139861,South Africa,2023,,,,
+139862,South Africa,2023,,,,
+140559,South Africa,2017,=,S,S,
+140560,South Africa,2017,=,S,S,
+140561,South Africa,2017,=,S,S,
+140562,South Africa,2018,=,S,S,
+140563,South Africa,2018,=,S,S,
+140564,South Africa,2018,=,S,S,
+140565,South Africa,2018,=,S,S,
+140566,South Africa,2018,=,S,S,
+140567,South Africa,2018,=,S,S,
+140568,South Africa,2018,=,S,S,
+140569,South Africa,2018,=,S,S,
+140570,South Africa,2018,=,S,S,
+140571,South Africa,2018,=,S,S,
+140572,South Africa,2019,=,S,S,
+140573,South Africa,2019,=,S,S,
+140574,South Africa,2019,=,S,S,
+140575,South Africa,2019,=,S,S,
+140576,South Africa,2019,=,S,S,
+140577,South Africa,2020,=,S,S,
+140578,South Africa,2020,=,S,S,
+140579,South Africa,2020,=,S,S,
+140580,South Africa,2020,=,S,S,
+140581,South Africa,2020,=,S,S,
+140582,South Africa,2020,=,S,S,
+140583,South Africa,2020,=,S,S,
+140584,South Africa,2021,=,S,S,
+140585,South Africa,2021,>,S,S,
+140586,South Africa,2021,=,S,S,
+140587,South Africa,2021,>,S,S,
+140588,South Africa,2021,=,S,S,
+140589,South Africa,2021,=,S,S,
+140590,South Africa,2021,=,S,S,
+140591,South Africa,2021,>,S,S,
+140592,South Africa,2021,=,S,S,
+140593,South Africa,2021,=,S,S,
+140594,South Africa,2021,=,S,S,
+140595,South Africa,2021,=,S,S,
+140596,South Africa,2021,=,S,S,
+140597,South Africa,2021,=,S,S,
+140598,South Africa,2021,=,S,S,
+140599,South Africa,2021,=,S,S,
+140600,South Africa,2022,=,S,S,
+140601,South Africa,2017,=,S,S,
+140602,South Africa,2017,=,S,S,
+140603,South Africa,2017,=,S,S,
+140604,South Africa,2017,=,S,S,
+140605,South Africa,2017,=,S,S,
+140611,South Africa,2019,=,S,S,
+140612,South Africa,2019,=,S,S,
+140613,South Africa,2019,=,S,S,
+140617,South Africa,2020,=,S,S,
+140618,South Africa,2021,>,S,S,
+140619,South Africa,2021,=,S,S,
+143552,Ethiopia,2022,,,,
+143553,Ethiopia,2022,,,,
+143554,Ethiopia,2022,,,,
+143555,Ethiopia,2022,,,,
+143556,Ethiopia,2022,,,,
+144414,Kenya,2002,,,,
+144419,Kenya,2007,,,,
+144426,Kenya,2002,,,,
+144429,Kenya,2003,,,,
+144430,Kenya,2003,,,,
+144432,Kenya,2004,,,,
+144438,Kenya,2004,,,,
+144440,Kenya,2008,,,,
+144444,Kenya,2006,,,,
+144447,Kenya,2008,,,,
+144448,Kenya,2006,,,,
+144868,Lesotho,2022,=,,,R
+144869,Lesotho,2022,=,,,R
+144870,Lesotho,2022,=,,,R
+144871,Lesotho,2022,=,,,R
+144872,Lesotho,2022,=,,,R
+144873,Lesotho,2022,=,,,R
+144874,Lesotho,2022,=,,,R
+144990,Kenya,2008,,,,
+144991,Kenya,2008,,,,
+144992,Kenya,2007,,,,
+144998,Kenya,2007,,,,
+145001,Kenya,2007,,,,
+147574,Lesotho,2023,=,,,R
+147575,Lesotho,2022,=,,,R
+147576,Lesotho,2022,=,,,R
+147577,Lesotho,2022,=,,,R
+147578,Lesotho,2022,=,,,R
+147579,Lesotho,2022,=,,,R
+147580,Lesotho,2022,=,,,R
+147581,Lesotho,2022,=,,,R
+147582,Lesotho,2023,=,,,S
+147583,Lesotho,2023,=,,,R
+147584,Lesotho,2023,=,,,R
+147585,Lesotho,2023,=,,,R
+147586,Lesotho,2023,=,,,R
+147587,Lesotho,2023,=,,,R
+147588,Lesotho,2023,=,,,R
+147589,Lesotho,2023,=,,,R
+147590,Lesotho,2023,=,,,R
+147591,Lesotho,2023,=,,,R
+147592,Lesotho,2023,=,,,R
+150066,Lesotho,2023,=,,,R
+150067,Lesotho,2023,=,,,R
+150068,Lesotho,2023,=,,,R
+150069,Lesotho,2023,=,,,R
+150070,Lesotho,2023,=,,,R
+150071,Lesotho,2023,=,,,R
+150072,Lesotho,2023,=,,,R
+150073,Lesotho,2023,=,,,R
+154263,South Africa,2013,=,S,S,S
+154264,South Africa,2013,=,S,S,R
+154265,South Africa,2013,=,S,S,R
+154266,South Africa,2013,=,S,S,S
+154267,South Africa,2013,=,S,S,S
+154268,South Africa,2013,=,S,S,S
+154269,South Africa,2013,=,S,S,S
+154270,South Africa,2013,=,S,S,S
+154271,South Africa,2013,=,S,S,S
+154272,South Africa,2013,=,S,S,S
+154273,South Africa,2013,=,S,S,R
+154274,South Africa,2013,=,S,S,R
+154275,South Africa,2013,=,S,S,S
+154276,South Africa,2013,=,S,S,S
+154277,South Africa,2013,=,S,S,S
+154278,South Africa,2013,=,S,S,S
+154279,South Africa,2013,=,S,S,R
+154280,South Africa,2013,=,S,S,S
+154281,South Africa,2013,=,S,S,R
+154282,South Africa,2013,=,S,S,S
+154283,South Africa,2013,=,S,S,S
+154284,South Africa,2013,=,S,S,R
+154285,South Africa,2013,=,S,S,R
+154286,South Africa,2014,=,S,S,S
+154287,South Africa,2014,=,S,S,R
+154288,South Africa,2014,=,S,S,R
+154289,South Africa,2014,=,S,S,R
+154290,South Africa,2014,=,S,S,R
+154291,South Africa,2014,=,S,S,R
+154292,South Africa,2014,=,S,S,R
+154293,South Africa,2014,=,S,S,R
+154294,South Africa,2014,=,S,S,R
+154295,South Africa,2014,=,S,S,R
+154296,South Africa,2014,=,S,S,R
+154297,South Africa,2014,=,S,S,S
+154298,South Africa,2014,=,S,S,R
+154299,South Africa,2014,=,S,S,R
+154300,South Africa,2014,=,S,S,R
+154301,South Africa,2014,=,S,S,R
+154302,South Africa,2014,=,S,S,R
+154303,South Africa,2014,=,S,S,R
+154304,South Africa,2014,=,S,S,I
+154305,South Africa,2014,=,S,S,S
+154306,South Africa,2014,=,S,S,R
+154307,South Africa,2014,=,S,S,S
+154308,South Africa,2014,=,S,S,S
+154309,South Africa,2014,=,S,S,R
+154310,South Africa,2014,=,S,S,R
+154311,South Africa,2014,=,S,S,S
+154312,South Africa,2014,=,S,S,S
+154313,South Africa,2014,=,S,S,S
+154314,South Africa,2014,=,S,S,S
+154315,South Africa,2014,=,S,S,S
+154437,Kenya,2021,,,,
+154438,Kenya,2021,,,,
+154439,Kenya,2021,,,,
+154440,Kenya,2021,,,,
+154441,Kenya,2021,,,,
+154442,Kenya,2021,,,,
+154443,Kenya,2021,,,,
+154444,Kenya,2021,,,,
+154445,Kenya,2021,,,,
+154446,Kenya,2021,,,,
+154447,Kenya,2021,,,,
+154448,Kenya,2021,,,,
+154449,Kenya,2021,,,,
+154450,Kenya,2021,,,,
+154451,Kenya,2021,,,,
+154452,Kenya,2021,,,,
+154453,Kenya,2021,,,,
+154454,Kenya,2021,,,,
+154455,Kenya,2021,,,,
+154456,Kenya,2021,,,,
+154457,Kenya,2021,,,,
+154458,Kenya,2021,,,,
+154459,Kenya,2021,,,,
+154460,Kenya,2021,,,,
+154461,Kenya,2021,,,,
+154462,Kenya,2021,,,,
+154463,Kenya,2021,,,,
+154464,Kenya,2021,,,,
+154465,Kenya,2021,,,,
+154466,Kenya,2021,,,,
+154467,Kenya,2021,,,,
+154468,Kenya,2021,,,,
+154469,Kenya,2021,,,,
+154470,Kenya,2021,,,,
+154471,Kenya,2021,,,,
+154472,Kenya,2021,,,,
+154473,Kenya,2021,,,,
+154474,Kenya,2021,,,,
+154475,Kenya,2021,,,,
+154476,Kenya,2021,,,,
+154477,Kenya,2021,,,,
+154478,Kenya,2021,,,,
+154479,Kenya,2021,,,,
+154480,Kenya,2021,,,,
+154481,Kenya,2021,,,,
+154482,Kenya,2021,,,,
+154483,Kenya,2021,,,,
+154484,Kenya,2021,,,,
+154485,Kenya,2021,,,,
+154486,Kenya,2021,,,,
+154487,Kenya,2021,,,,
+154488,Kenya,2021,,,,
+154489,Kenya,2021,,,,
+154490,Kenya,2021,,,,
+154491,Kenya,2021,,,,
+154492,Kenya,2021,,,,
+154493,Kenya,2021,,,,
+154494,Kenya,2021,,,,
+154495,Kenya,2021,,,,
+154597,Kenya,2021,,,,
+154598,Kenya,2021,,,,
+155409,South Africa,2012,,,,
+155410,South Africa,2013,,,,
+155411,South Africa,2013,,,,
+155412,South Africa,2013,,,,
+155413,South Africa,2013,,,,
+155414,South Africa,2013,,,,
+155415,South Africa,2013,,,,
+155416,South Africa,2013,,,,
+155417,South Africa,2013,,,,
+155418,South Africa,2013,,,,
+155419,South Africa,2013,,,,
+155420,South Africa,2013,,,,
+155421,South Africa,2013,,,,
+155422,South Africa,2013,,,,
+155423,South Africa,2013,,,,
+155424,South Africa,2013,,,,
+155425,South Africa,2014,,,,
+155426,South Africa,2015,,,,
+155427,South Africa,2015,,,,
+155428,South Africa,2015,,,,
+155429,South Africa,2015,,,,
+155431,South Africa,2015,,,,
+155433,South Africa,2015,,,,
+155434,South Africa,2016,,,,
+155435,South Africa,2017,,,,
+155436,South Africa,2017,,,,
+155437,South Africa,2017,,,,
+155438,South Africa,2017,,,,
+155439,South Africa,2017,,,,
+155440,South Africa,2017,,,,
+155441,South Africa,2017,,,,
+155442,South Africa,2017,,,,
+155443,South Africa,2017,,,,
+155444,South Africa,2017,,,,
+155445,South Africa,2017,,,,
+155446,South Africa,2017,,,,
+155447,South Africa,2017,,,,
+155448,South Africa,2017,,,,
+155449,South Africa,2017,,,,
+155450,South Africa,2017,,,,
+155451,South Africa,2017,,,,
+155452,South Africa,2017,,,,
+155453,South Africa,2017,,,,
+155454,South Africa,2017,,,,
+155455,South Africa,2017,,,,
+155456,South Africa,2017,,,,
+155457,South Africa,2017,,,,
+155458,South Africa,2017,,,,
+155459,South Africa,2017,,,,
+155460,South Africa,2017,,,,
+155461,South Africa,2017,,,,
+155462,South Africa,2017,,,,
+155463,South Africa,2017,,,,
+155464,South Africa,2017,,,,
+155465,South Africa,2017,,,,
+155466,South Africa,2017,,,,
+155467,South Africa,2017,,,,
+155468,South Africa,2017,,,,
+155469,South Africa,2017,,,,
+155470,South Africa,2017,,,,
+155471,South Africa,2017,,,,
+155472,South Africa,2017,,,,
+155473,South Africa,2017,,,,
+155474,South Africa,2017,,,,
+155475,South Africa,2017,,,,
+155476,South Africa,2017,,,,
+155477,South Africa,2017,,,,
+155478,South Africa,2017,,,,
+155479,South Africa,2017,,,,
+155480,South Africa,2017,,,,
+155481,South Africa,2017,,,,
+155482,South Africa,2017,,,,
+155483,South Africa,2012,,,,
+155484,South Africa,2012,,,,
+155485,South Africa,2012,,,,
+155486,South Africa,2012,,,,
+155487,South Africa,2012,,,,
+155488,South Africa,2012,,,,
+155489,South Africa,2012,,,,
+155490,South Africa,2012,,,,
+155491,South Africa,2012,,,,
+155492,South Africa,2012,,,,
+155493,South Africa,2012,,,,
+155494,South Africa,2012,,,,
+155495,South Africa,2012,,,,
+155496,South Africa,2012,,,,
+155497,South Africa,2012,,,,
+155498,South Africa,2012,,,,
+155499,South Africa,2012,,,,
+155500,South Africa,2012,,,,
+155501,South Africa,2012,,,,
+155502,South Africa,2012,,,,
+155503,South Africa,2012,,,,
+155504,South Africa,2012,,,,
+155508,South Africa,2012,,,,
+155509,South Africa,2012,,,,
+155510,South Africa,2012,,,,
+155511,South Africa,2012,,,,
+155512,South Africa,2012,,,,
+155513,South Africa,2013,,,,
+155514,South Africa,2013,,,,
+155515,South Africa,2013,,,,
+155516,South Africa,2013,,,,
+155517,South Africa,2013,,,,
+155518,South Africa,2013,,,,
+155519,South Africa,2013,,,,
+155520,South Africa,2013,,,,
+155521,South Africa,2013,,,,
+155522,South Africa,2013,,,,
+155523,South Africa,2013,,,,
+155524,South Africa,2013,,,,
+155525,South Africa,2013,,,,
+155526,South Africa,2013,,,,
+155527,South Africa,2013,,,,
+155528,South Africa,2013,,,,
+155529,South Africa,2013,,,,
+155530,South Africa,2013,,,,
+155531,South Africa,2013,,,,
+155532,South Africa,2013,,,,
+155533,South Africa,2013,,,,
+155534,South Africa,2013,,,,
+155535,South Africa,2013,,,,
+155536,South Africa,2013,,,,
+155537,South Africa,2013,,,,
+155538,South Africa,2013,,,,
+155539,South Africa,2015,,,,
+155540,South Africa,2015,,,,
+155541,South Africa,2015,,,,
+155542,South Africa,2015,,,,
+155543,South Africa,2015,,,,
+155544,South Africa,2015,,,,
+155545,South Africa,2015,,,,
+155546,South Africa,2015,,,,
+155547,South Africa,2015,,,,
+155548,South Africa,2015,,,,
+155549,South Africa,2015,,,,
+155550,South Africa,2014,,,,
+155551,South Africa,2014,,,,
+155552,South Africa,2014,,,,
+155553,South Africa,2014,,,,
+155554,South Africa,2014,,,,
+155555,South Africa,2014,,,,
+155556,South Africa,2014,,,,
+155557,South Africa,2014,,,,
+155558,South Africa,2014,,,,
+155559,South Africa,2014,,,,
+155560,South Africa,2014,,,,
+155561,South Africa,2014,,,,
+155562,South Africa,2014,,,,
+155563,South Africa,2014,,,,
+155564,South Africa,2014,,,,
+155565,South Africa,2014,,,,
+155566,South Africa,2014,,,,
+155567,South Africa,2014,,,,
+155568,South Africa,2014,,,,
+155569,South Africa,2014,,,,
+155570,South Africa,2014,,,,
+155571,South Africa,2014,,,,
+155572,South Africa,2014,,,,
+155573,South Africa,2014,,,,
+155574,South Africa,2014,,,,
+155575,South Africa,2014,,,,
+155576,South Africa,2014,,,,
+155577,South Africa,2020,,,,
+155578,South Africa,2020,,,,
+155579,South Africa,2020,,,,
+155580,South Africa,2020,,,,
+155581,South Africa,2020,,,,
+155582,South Africa,2020,,,,
+155583,South Africa,2020,,,,
+155584,South Africa,2020,,,,
+155585,South Africa,2020,,,,
+155586,South Africa,2020,,,,
+155587,South Africa,2020,,,,
+155588,South Africa,2020,,,,
+155589,South Africa,2020,,,,
+155590,South Africa,2020,,,,
+155591,South Africa,2020,,,,
+155592,South Africa,2020,,,,
+155593,South Africa,2020,,,,
+155594,South Africa,2020,,,,
+155595,South Africa,2020,,,,
+155596,South Africa,2020,,,,
+155597,South Africa,2020,,,,
+155598,South Africa,2020,,,,
+155599,South Africa,2020,,,,
+155600,South Africa,2020,,,,
+155601,South Africa,2020,,,,
+155602,South Africa,2020,,,,
+155603,South Africa,2020,,,,
+155604,South Africa,2020,,,,
+155605,South Africa,2020,,,,
+155606,South Africa,2020,,,,
+155607,South Africa,2020,,,,
+155608,South Africa,2020,,,,
+155609,South Africa,2020,,,,
+155610,South Africa,2020,,,,
+155611,South Africa,2020,,,,
+155612,South Africa,2020,,,,
+155613,South Africa,2020,,,,
+155614,South Africa,2020,,,,
+155615,South Africa,2020,,,,
+155616,South Africa,2020,,,,
+155617,South Africa,2020,,,,
+155618,South Africa,2020,,,,
+155619,South Africa,2020,,,,
+155620,South Africa,2020,,,,
+155621,South Africa,2020,,,,
+155622,South Africa,2020,,,,
+155623,South Africa,2020,,,,
+155624,South Africa,2020,,,,
+155625,South Africa,2020,,,,
+155626,South Africa,2020,,,,
+155627,South Africa,2020,,,,
+155628,South Africa,2020,,,,
+155629,South Africa,2020,,,,
+155630,South Africa,2020,,,,
+155631,South Africa,2020,,,,
+155632,South Africa,2020,,,,
+155633,South Africa,2020,,,,
+155634,South Africa,2020,,,,
+155635,South Africa,2020,,,,
+155636,South Africa,2020,,,,
+155637,South Africa,2020,,,,
+155638,South Africa,2020,,,,
+155639,South Africa,2020,,,,
+155640,South Africa,2020,,,,
+155641,South Africa,2020,,,,
+155642,South Africa,2020,,,,
+155643,South Africa,2020,,,,
+155644,South Africa,2020,,,,
+155645,South Africa,2021,,,,
+155646,South Africa,2021,,,,
+155647,South Africa,2021,,,,
+155648,South Africa,2021,,,,
+155649,South Africa,2021,,,,
+155650,South Africa,2021,,,,
+155651,South Africa,2021,,,,
+155652,South Africa,2021,,,,
+155653,South Africa,2021,,,,
+155654,South Africa,2021,,,,
+155655,South Africa,2021,,,,
+155656,South Africa,2021,,,,
+155657,South Africa,2021,,,,
+155658,South Africa,2021,,,,
+155659,South Africa,2021,,,,
+155660,South Africa,2021,,,,
+155661,South Africa,2021,,,,
+155662,South Africa,2021,,,,
+155663,South Africa,2021,,,,
+155665,South Africa,2021,,,,
+155666,South Africa,2021,,,,
+155667,South Africa,2021,,,,
+155668,South Africa,2021,,,,
+155669,South Africa,2021,,,,
+155670,South Africa,2021,,,,
+155671,South Africa,2021,,,,
+155672,South Africa,2021,,,,
+155673,South Africa,2021,,,,
+155674,South Africa,2021,,,,
+155675,South Africa,2021,,,,
+155676,South Africa,2021,,,,
+155677,South Africa,2021,,,,
+155678,South Africa,2021,,,,
+155679,South Africa,2021,,,,
+155680,South Africa,2021,,,,
+155681,South Africa,2021,,,,
+155682,South Africa,2021,,,,
+155683,South Africa,2021,,,,
+155684,South Africa,2021,,,,
+155685,South Africa,2021,,,,
+155686,South Africa,2021,,,,
+155687,South Africa,2021,,,,
+155688,South Africa,2021,,,,
+155689,South Africa,2021,,,,
+155690,South Africa,2021,,,,
+155691,South Africa,2021,,,,
+155692,South Africa,2021,,,,
+155693,South Africa,2021,,,,
+155694,South Africa,2021,,,,
+155695,South Africa,2021,,,,
+155696,South Africa,2021,,,,
+155697,South Africa,2021,,,,
+155698,South Africa,2021,,,,
+155699,South Africa,2021,,,,
+155701,South Africa,2021,,,,
+155702,South Africa,2021,,,,
+155703,South Africa,2021,,,,
+155704,South Africa,2021,,,,
+155705,South Africa,2021,,,,
+155706,South Africa,2021,,,,
+155707,South Africa,2021,,,,
+155710,South Africa,2021,,,,
+155711,South Africa,2021,,,,
+155712,South Africa,2021,,,,
+155714,South Africa,2021,,,,
+155718,South Africa,2021,,,,
+155719,South Africa,2021,,,,
+155720,South Africa,2021,,,,
+155722,South Africa,2021,,,,
+155723,South Africa,2021,,,,
+155725,South Africa,2021,,,,
+155726,South Africa,2021,,,,
+155728,South Africa,2021,,,,
+155729,South Africa,2021,,,,
+155730,South Africa,2021,,,,
+155733,South Africa,2021,,,,
+155734,South Africa,2021,,,,
+155735,South Africa,2021,,,,
+155738,South Africa,2021,,,,
+155741,South Africa,2021,,,,
+155742,South Africa,2021,,,,
+155743,South Africa,2021,,,,
+155744,South Africa,2021,,,,
+155748,South Africa,2021,,,,
+155749,South Africa,2015,,,,
+155750,South Africa,2015,,,,
+155751,South Africa,2015,,,,
+155752,South Africa,2015,,,,
+155753,South Africa,2015,,,,
+155754,South Africa,2015,,,,
+155755,South Africa,2015,,,,
+155756,South Africa,2015,,,,
+155757,South Africa,2015,,,,
+155758,South Africa,2020,,,,
+155759,South Africa,2015,,,,
+155760,South Africa,2015,,,,
+155761,South Africa,2015,,,,
+155762,South Africa,2015,,,,
+155763,South Africa,2015,,,,
+155764,South Africa,2015,,,,
+155767,South Africa,2015,,,,
+155768,South Africa,2015,,,,
+155769,South Africa,2015,,,,
+155770,South Africa,2015,,,,
+155772,South Africa,2015,,,,
+155773,South Africa,2015,,,,
+155774,South Africa,2015,,,,
+155775,South Africa,2015,,,,
+155776,South Africa,2015,,,,
+155777,South Africa,2015,,,,
+155778,South Africa,2015,,,,
+155779,South Africa,2015,,,,
+155780,South Africa,2015,,,,
+155781,South Africa,2015,,,,
+155782,South Africa,2015,,,,
+155783,South Africa,2015,,,,
+155784,South Africa,2015,,,,
+155785,South Africa,2015,,,,
+155787,South Africa,2015,,,,
+155788,South Africa,2015,,,,
+155789,South Africa,2015,,,,
+155791,South Africa,2015,,,,
+155792,South Africa,2015,,,,
+155793,South Africa,2015,,,,
+155794,South Africa,2015,,,,
+155795,South Africa,2015,,,,
+155796,South Africa,2018,,,,
+155797,South Africa,2018,,,,
+155798,South Africa,2018,,,,
+155799,South Africa,2018,,,,
+155801,South Africa,2018,,,,
+155802,South Africa,2018,,,,
+155803,South Africa,2018,,,,
+155804,South Africa,2018,,,,
