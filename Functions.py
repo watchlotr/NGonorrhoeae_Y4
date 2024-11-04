@@ -27,7 +27,6 @@ def pie(data, title, dim = (10,4), loc = "center", anchor = None, ax = None, col
     return ax
 
 
-
 def bar(x, y, xlab, ylab, dim = (16,9), title = None, color = "#1f77b4", ax = None):
 
     if ax is None:
@@ -57,12 +56,13 @@ def clean(df, rename_cols = None, drop_col = None, replace_val = None, val = Non
         df[f"{to_str}"] = df[f"{to_str}"].astype(str)
 
     if drop_col:
-
         df.drop(df.columns[drop_col], axis = 1, inplace = True)
 
     if replace_val and val:
-
         df.replace(to_replace = [replace_val], value = val, inplace = True)
+
+    elif isinstance(replace_val, dict):
+        df.replace(to_replace = replace_val, inplace = True)
 
     return df
 
