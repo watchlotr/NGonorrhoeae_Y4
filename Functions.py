@@ -67,19 +67,20 @@ def clean(df, rename_cols = None, drop_col = None, replace_val = None, val = Non
     return df
 
 
-def allele_rank(df, var):
+def allele_rank(df, var, max_value = 5):
 
     freq: pd.Series = df.groupby(f"{var}")[f"{var}"].count()
 
     freq = freq.sort_values(ascending = False)
 
-    top_rank: pd.Series = freq[0:5]
+    top_rank: pd.Series = freq[0:max_value]
 
-    low_rank: pd.Series = freq[5:]
+    low_rank: pd.Series = freq[max_value:]
 
     freq = top_rank
 
-    freq["Other"] = low_rank.sum()
+    if len(low_rank) != 0:
+        freq["Other"] = low_rank.sum()
 
     return freq
 
