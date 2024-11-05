@@ -5,7 +5,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 
-def pie(data, title, dim = (10,4), loc = "center", anchor = None, ax = None, colors = None):
+def pie(data, title, dim = (10,4), loc = "center", anchor = None, ax = None, colors = None, exp = None):
 
     if ax is None:
             fig, ax = plt.subplots(figsize = dim)
@@ -13,9 +13,15 @@ def pie(data, title, dim = (10,4), loc = "center", anchor = None, ax = None, col
             ax.clear()
 
     if colors is None:
-        ax.pie(data, labels = data)
+        if exp is None:
+            ax.pie(data, labels = data)
+        else:
+            ax.pie(data, labels = data, explode = exp)
     else:
-        ax.pie(data, labels = data, colors = colors)
+        if exp is None:
+            ax.pie(data, labels = data, colors = colors)
+        else:
+            ax.pie(data, labels=data, colors = colors, explode= exp)
 
     if anchor is None:
         ax.legend(data.keys().tolist(), loc = loc)
