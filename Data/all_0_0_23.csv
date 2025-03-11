@@ -1,0 +1,107 @@
+﻿id,isolate,country,azithromycin_mic,cefixime_mic,ceftriaxone_mic,private_record,private_owner
+118363,16-499,Sweden,,,,false,
+119361,16AM111503,Sweden,,,,false,
+131096,GP-12-MUS-049,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131097,GP-12-MUS-052,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131102,GP-12-MUS-092,South Africa,0.5,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131108,GP-12-MUS-109,South Africa,0.128,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131110,GP-12-MUS-115,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131120,GP-12-MUS-199,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131124,GP-12-MUS-214,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131142,GP-12-MUS-319,South Africa,0.5,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131146,GP-12-MUS-333,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131167,GP-13-MUS-076,South Africa,0.5,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131175,GP-13-MUS-096,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131182,GP-13-MUS-120,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131185,GP-13-MUS-132,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131198,GP13-MUS-203,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131210,GP-13-MUS-244,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131212,GP-13-MUS-253,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131219,GP-13-MUS-275,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131227,GP-14-MUS-054,South Africa,,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131233,GP-14-MUS-082,South Africa,0.25,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131241,GP-14-MUS-107,South Africa,0.128,0.023,0.012,true,"Anastasia Unitt, University of Oxford"
+131283,15MUS-AH060,South Africa,0.128,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131286,15MUS-AH064,South Africa,0.19,0.016,0.002,true,"Anastasia Unitt, University of Oxford"
+131294,15MUS-AH086,South Africa,0.128,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131304,15MUS-AH106,South Africa,0.128,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131314,15MUS-AH133,South Africa,0.064,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131332,16MUS-AH011,South Africa,0.25,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131333,16MUS-AH012,South Africa,0.064,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131345,16MUS-AH064,South Africa,0.25,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131348,16MUS-aH070,South Africa,0.25,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131349,16MUS-AH082,South Africa,0.128,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131374,17MUS-AH002,South Africa,0.25,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131377,17MUS-AH009,South Africa,0.19,0.016,0.002,true,"Anastasia Unitt, University of Oxford"
+136302,UG048,Uganda,,,,false,
+136344,UG099,Uganda,,,,false,
+136362,UG119,Uganda,,,,false,
+136398,UG160,Uganda,,,,false,
+136436,UG210,Uganda,,,,false,
+136437,UG211,Uganda,,,,false,
+136461,UG239,Uganda,,,,false,
+136473,UG256,Uganda,,,,false,
+136476,UG259,Uganda,,,,false,
+136480,UG263,Uganda,,,,false,
+136484,UG267,Uganda,,,,false,
+136487,UG270,Uganda,,,,false,
+136498,UG284,Uganda,,,,false,
+136501,UG287,Uganda,,,,false,
+136507,UG298,Uganda,,,,false,
+136524,UG316,Uganda,,,,false,
+136528,UG321,Uganda,,,,false,
+136558,UG359,Uganda,,,,false,
+136572,UG375,Uganda,,,,false,
+136605,UG422,Uganda,,,,false,
+136614,UG433,Uganda,,,,false,
+136619,UG442,Uganda,,,,false,
+136645,UG473,Uganda,,,,false,
+136651,UG482,Uganda,,,,false,
+136652,UG483,Uganda,,,,false,
+136653,UG484,Uganda,,,,false,
+136658,UG491,Uganda,,,,false,
+140566,18MUS_KM013_S80,South Africa,0.5,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+140568,18MUS_KM021_S81,South Africa,0.5,0.016,0.003,true,"Odile Harrison, University of Oxford, UK"
+140574,19MUS_AH110_S83,South Africa,0.5,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+140579,20MUS_AH030_S85,South Africa,1,0.016,0.003,true,"Odile Harrison, University of Oxford, UK"
+140580,20MUS_AH032_S109,South Africa,0.25,0.016,0.004,true,"Odile Harrison, University of Oxford, UK"
+140582,20MUS_CZ054_S86,South Africa,0.5,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+140589,21MUS_AH111_S88,South Africa,0.5,0.016,0.003,true,"Odile Harrison, University of Oxford, UK"
+140602,17MUS_AH118,South Africa,0.5,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+140603,17MUS_AH120,South Africa,0.5,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+154263,LLL001,South Africa,0.06,0.008,0.004,false,
+154264,LLL002,South Africa,0.25,0.015,0.008,false,
+154279,LLL017,South Africa,0.25,0.015,0.004,false,
+154303,LLL045,South Africa,0.25,0.008,0.004,false,
+155412,GP13-MUS-096,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155419,GP13-MUS-120,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155422,GP13-MUS-132,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155431,15MUS-AH129,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155447,17MUS-AH044,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155455,17MUS-AH059,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155460,17MUS-AH069,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155465,17MUS-AH074,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155485,MP12-MUS-012,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155489,MP12-MUS-030,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155491,MP12-MUS-037,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155493,MP12-MUS-044,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155523,KN13-MUS-098,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155527,KN13-MUS-129,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155536,KN13-MUS-197,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155565,14MUS-JO041,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155575,14MUS-JO078,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155591,20MUS-AH030,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155592,20MUS-AH032,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155641,20MUS-AH143,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155683,21MUS-AH098,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155689,21MUS-AH111,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155741,21MUS-AH205,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155743,21MUS-AH210,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155756,15MUS-PI011,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155770,15MUS-PI064,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155794,15MUS-PI111,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155799,18MUS-KM013,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155801,18MUS-KM021,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+161892,Gent053,Malawi,,,,false,
+161929,Gent089,Malawi,,,,false,
+161934,Gent094-2F,Malawi,,,,false,
