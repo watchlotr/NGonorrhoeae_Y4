@@ -1,0 +1,170 @@
+﻿id,isolate,country,azithromycin_mic,cefixime_mic,ceftriaxone_mic,private_record,private_owner
+27474,GCGS0150,USA,0.5,0.015,0.015,false,
+31546,IN_10_1094,India,0.25,0.047,0.064,false,
+31700,IN_07_1574,India,0.19,0.023,0.023,false,
+31710,IN_09_2806,India,0.19,0.032,0.032,false,
+31711,IN_09_3293,India,0.5,0.016,0.006,false,
+31712,IN_09_3501,India,0.38,0.047,0.047,false,
+31715,BX5602,Pakistan,0.032,0.032,0.016,false,
+31716,BX6956,Pakistan,0.25,0.047,0.047,false,
+31718,W8934,Pakistan,0.125,0.047,0.016,false,
+31719,IN_10_449,India,0.032,0.047,0.064,false,
+31731,BX3450,Pakistan,0.38,0.032,0.047,false,
+31792,IN_07_114,India,0.25,0.023,0.023,false,
+31943,BX1589,Pakistan,0.047,0.016,0.012,false,
+31944,BX290,Pakistan,0.38,0.023,0.023,false,
+31945,BX1099,Pakistan,0.38,0.023,0.023,false,
+31947,BX1275,Pakistan,0.38,0.047,0.032,false,
+31948,BX3301,Unknown,,,,false,
+36240,52262,Kenya,,,,false,
+36245,44568,Kenya,,,,false,
+36267,55496,Kenya,,,,false,
+36276,51645,Kenya,,,,false,
+36278,T071,Kenya,,,,false,
+36279,60243,Kenya,,,,false,
+36285,43346,Kenya,,,,false,
+36286,T083,Kenya,,,,false,
+36287,43781,Kenya,,,,false,
+36289,42974,Kenya,,,,false,
+36290,47983,Kenya,,,,false,
+36292,60709,Kenya,,,,false,
+36293,43000,Kenya,,,,false,
+36294,43038,Kenya,,,,false,
+36295,46146,Kenya,,,,false,
+36296,44569,Kenya,,,,false,
+36297,52492,Kenya,,,,false,
+36298,T101,Kenya,,,,false,
+36301,T105,Kenya,,,,false,
+37144,11CFX_C_016,USA,,,,false,
+37416,GCGS0697,USA,0.125,0.03,0.015,false,
+39082,64500,Kenya,,,,false,
+39084,64605,Kenya,,,,false,
+39087,64361,Kenya,,,,false,
+39090,65080,Kenya,,,,false,
+39091,65318,Kenya,,,,false,
+39093,65551,Kenya,,,,false,
+39096,56474,Kenya,,,,false,
+39100,57568,Kenya,,,,false,
+39109,43208 -1,Kenya,,,,false,
+39110,43208 -2,Kenya,,,,false,
+39111,43210,Kenya,,,,false,
+39112,44271,Kenya,,,,false,
+39114,44254,Kenya,,,,false,
+39115,43306,Kenya,,,,false,
+39122,48763,Kenya,,,,false,
+49017,SRR3361129,UK [England],,,,false,
+51760,553727,Norway,0.25,0.032,0.008,false,
+60504,KNY_NGAMR5,Kenya,0.125,0.016,0.006,false,
+75578,NG251,Thailand,,,,false,
+75579,NG290,Thailand,,,,false,
+76367,594278,Norway,0.125,0.016,0.004,false,
+76384,595600,Norway,0.25,0.016,0.008,false,
+76393,595722,Norway,0.125,0.016,0.008,false,
+83824,609222,Norway,0.125,0.016,0.008,false,
+87937,ECDC_SE13_067,Sweden,0.38,0.023,0.023,false,
+87973,ECDC_SI13_022,Slovenia,,0.016,0.012,false,
+87974,ECDC_SI13_023,Slovenia,,0.016,0.008,false,
+87991,ECDC_SI13_040,Slovenia,,0.016,0.004,false,
+87993,ECDC_SI13_043,Slovenia,,0.016,0.008,false,
+106870,ERR3577534,UK,0.03,0.03,0.008,false,
+107146,ERR3577829,UK,0.03,0.008,0.004,false,
+107155,ERR3577839,UK,0.03,0.015,0.004,false,
+115810,13ARS_DMC0024,Philippines,,,,false,
+116544,19AR0098,New Zealand,4,0.03,0.03,false,
+117933,500932,Sweden,,,,false,
+118014,16-185,Sweden,,,,false,
+118024,16-196,Sweden,,,,false,
+118188,16-376,Sweden,,,,false,
+118203,16-393,Sweden,,,,false,
+118836,16AM105858,Sweden,,,,false,
+119109,16AM106674,Sweden,,,,false,
+119111,16AM106684,Sweden,,,,false,
+119328,16AM110809,Sweden,,,,false,
+119531,TH29,Thailand,0.25,,0.008,false,
+125914,MDG-NG20,Madagascar,0.032,,0.006,false,
+129737,ECDC_PL18_011,Poland,0.094,0.016,0.008,false,
+129992,ECDC_AT18_980458,Austria,0.094,0.016,0.004,false,
+131130,GP-12-MUS-264,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131133,GP-12-MUS-283,South Africa,,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131141,GP-12-MUS-317,South Africa,0.25,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131149,GP-12-MUS-356,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131150,GP-12-MUS-358,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131159,GP-13-MUS-047,South Africa,0.25,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131163,GP-13-MUS-067,South Africa,0.128,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131197,GP13-MUS-196,South Africa,,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131240,GP-14-MUS-105,South Africa,0.064,0.016,0.016,true,"Anastasia Unitt, University of Oxford"
+131244,GP-14-MUS-117,South Africa,0.128,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131245,GP-14-MUS-121,South Africa,0.125,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131253,GP-14-MUS-165,South Africa,,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131269,GP-14-MUS-246,South Africa,,0.016,0.008,true,"Anastasia Unitt, University of Oxford"
+131280,15MUS-AH030,South Africa,0.128,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131295,15MUS-AH087,South Africa,0.25,0.016,0.003,true,"Anastasia Unitt, University of Oxford"
+131306,15MUS-AH112,South Africa,0.25,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131335,16MUS-AH019,South Africa,0.128,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131339,16MUS-AH030,South Africa,0.128,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131346,16MUS-AH067,South Africa,0.064,0.016,0.004,true,"Anastasia Unitt, University of Oxford"
+131352,16MUS-AH088,South Africa,0.25,0.016,0.012,true,"Anastasia Unitt, University of Oxford"
+131362,16MUS-AH116,South Africa,0.128,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+131375,17MUS-AH004,South Africa,0.064,0.016,0.006,true,"Anastasia Unitt, University of Oxford"
+136371,UG130,Uganda,,,,false,
+136372,UG132,Uganda,,,,false,
+136565,UG367,Uganda,,,,false,
+136581,UG385,Uganda,,,,false,
+140559,17MUS_AH099_S94,South Africa,0.128,0.016,0.006,true,"Odile Harrison, University of Oxford, UK"
+140578,20MUS_AH028_S108,South Africa,0.064,0.016,0.002,true,"Odile Harrison, University of Oxford, UK"
+140581,20MUS_AH0138_S110,South Africa,0.064,0.016,0.003,true,"Odile Harrison, University of Oxford, UK"
+140592,21MUS_AH166_S117,South Africa,0.064,0.016,0.004,true,"Odile Harrison, University of Oxford, UK"
+154292,LLL032,South Africa,0.125,0.015,0.008,false,
+154294,LLL035,South Africa,0.125,0.015,0.008,false,
+155436,17MUS-AH019,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155438,17MUS-AH024,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155448,17MUS-AH047,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155449,17MUS-AH051,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155458,17MUS-AH066,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155481,17MUS-AH123,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155492,MP12-MUS-041,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155508,MP12-MUS-066,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155509,MP12-MUS-069,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155517,KN13-MUS-075,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155521,KN13-MUS-088,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155522,KN13-MUS-090,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155530,KN13-MUS-137,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155535,KN13-MUS-180,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155538,KN13-MUS-202,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155542,15MUS-GQ007,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155579,20MUS-AH005,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155580,20MUS-AH007,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155581,20MUS-AH008,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155583,20MUS-AH011,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155612,20MUS-AH080,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155616,20MUS-AH085-1,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155617,20MUS-AH085-2,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155628,20MUS-AH112,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155629,20MUS-AH114,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155635,20MUS-AH127,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155638,20MUS-AH138,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155649,21MUS-AH010,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155660,21MUS-AH031,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155661,21MUS-AH036,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155668,21MUS-AH056,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155678,21MUS-AH084,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155680,21MUS-AH091,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155681,21MUS-AH093,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155684,21MUS-AH100,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155688,21MUS-AH109,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155693,21MUS-AH119,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155699,21MUS-AH131,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155710,21MUS-AH148,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155720,21MUS-AH166,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155749,15MUS-PI001,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155750,15MUS-PI002,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155751,15MUS-PI003,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155761,15MUS-PI026,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155779,15MUS-PI082,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155783,15MUS-PI093,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155789,15MUS-PI103,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155793,15MUS-PI110,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+155802,18MUS-KM024,South Africa,,,,true,"Odile Harrison, University of Oxford, UK"
+156444,ES20-099,Spain,,,,false,
+158693,AUSMDU00014910,Australia,,,,false,
+161439,24GB004784,Norway,,,,false,
