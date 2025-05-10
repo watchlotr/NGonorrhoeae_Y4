@@ -1,0 +1,2096 @@
+﻿id,isolate,country,year,private_record,private_owner
+846,F980,Nigeria,2000,false,
+2597,F982,Nigeria,2000,false,
+2609,C774,Malawi,1987,false,
+2610,D779,Malawi,1991,false,
+2858,22159,South Africa,,false,
+8969,F981,Nigeria,2000,false,
+31966,02_225,The Gambia,1989,false,
+31967,02_227,South Africa,1990,false,
+31968,02_228,South Africa,1991,false,
+31969,02_229,South Africa,1991,false,
+31970,02_230,Tanzania,1992,false,
+31971,989000020,Cape Verde,1998,false,
+31972,989000035,Cape Verde,1998,false,
+31973,989000005,The Gambia,1998,false,
+31974,989000046,The Gambia,1998,false,
+31975,989000266,The Gambia,1998,false,
+31976,989000418,Morocco,1998,false,
+31977,989000421,Morocco,1998,false,
+31978,989000016,Tanzania,1998,false,
+31979,999000083,Uganda,1999,false,
+31980,999000018,Angola,1999,false,
+31981,999000055,The Gambia,1999,false,
+31982,999000051,Guinea,1999,false,
+31983,999000073,Morocco,1999,false,
+31984,08_590_00123,Guinea-Bissau,2007,false,
+31985,08_590_125,Guinea-Bissau,2007,false,
+31986,08_590_00126,Guinea-Bissau,2007,false,
+31987,08_590_00127,Guinea-Bissau,2007,false,
+31988,08_590_00128,Guinea-Bissau,2007,false,
+31989,08_590_00129,Guinea-Bissau,2007,false,
+31990,08_590_00130,Guinea-Bissau,2007,false,
+31991,08_590_00131,Guinea-Bissau,2007,false,
+31992,08_590_00132,Guinea-Bissau,2007,false,
+31993,08_590_00133,Guinea-Bissau,2007,false,
+31994,08_590_00134,Guinea-Bissau,2007,false,
+31995,08_590_00135,Guinea-Bissau,2007,false,
+31996,08_590_00136,Guinea-Bissau,2007,false,
+31997,08_590_00141,Guinea-Bissau,2007,false,
+31998,08_590_00142,Guinea-Bissau,2007,false,
+31999,08_590_00143,Guinea-Bissau,2007,false,
+32000,08_590_00144,Guinea-Bissau,2007,false,
+32001,08_590_00145,Guinea-Bissau,2007,false,
+32002,08_590_00146,Guinea-Bissau,2007,false,
+32007,08_590_00153,Guinea-Bissau,2007,false,
+32008,08_590_00154,Guinea-Bissau,2007,false,
+32009,08_590_00156,Guinea-Bissau,2007,false,
+32010,08_590_00157,Guinea-Bissau,2007,false,
+32011,08_590_00138_pg_r,Guinea-Bissau,2007,false,
+36238,51212,Kenya,2011,false,
+36239,T004,Kenya,,false,
+36240,52262,Kenya,2012,false,
+36241,T006,Kenya,2013,false,
+36242,T007,Kenya,,false,
+36243,57547,Kenya,2012,false,
+36244,56873,Kenya,2012,false,
+36245,44568,Kenya,2010,false,
+36246,61467,Kenya,2013,false,
+36247,62017,Kenya,2013,false,
+36248,43305,Kenya,2010,false,
+36249,51451,Kenya,2011,false,
+36250,58767,Kenya,2012,false,
+36251,63179,Kenya,2013,false,
+36252,T032,Kenya,,false,
+36253,61450,Kenya,2013,false,
+36254,T034,Kenya,,false,
+36255,45453,Kenya,2010,false,
+36256,45676,Kenya,2010,false,
+36257,51960,Kenya,2012,false,
+36258,T041,Kenya,,false,
+36259,61580,Kenya,2013,false,
+36260,T047,Kenya,,false,
+36261,48871,Kenya,2011,false,
+36262,T049,Kenya,,false,
+36263,48501,Kenya,2011,false,
+36264,T052,Kenya,,false,
+36265,T053,Kenya,,false,
+36266,60096,Kenya,2012,false,
+36267,55496,Kenya,2012,false,
+36268,T060,Kenya,2013,false,
+36269,52263,Kenya,2012,false,
+36270,59688,Kenya,2012,false,
+36271,50659,Kenya,2011,false,
+36272,T064,Kenya,,false,
+36273,55798,Kenya,2012,false,
+36274,63518,Kenya,2013,false,
+36275,51468,Kenya,2011,false,
+36276,51645,Kenya,2011,false,
+36277,59012,Kenya,2012,false,
+36278,T071,Kenya,,false,
+36279,60243,Kenya,2013,false,
+36280,47956,Kenya,2011,false,
+36281,47686,Kenya,2011,false,
+36282,45029,Kenya,2010,false,
+36283,47147,Kenya,2011,false,
+36284,44593,Kenya,2010,false,
+36285,43346,Kenya,2010,false,
+36286,T083,Kenya,,false,
+36287,43781,Kenya,2010,false,
+36288,T087,Kenya,,false,
+36289,42974,Kenya,2010,false,
+36290,47983,Kenya,2011,false,
+36291,60755,Kenya,2013,false,
+36292,60709,Kenya,2013,false,
+36293,43000,Kenya,2010,false,
+36294,43038,Kenya,2010,false,
+36295,46146,Kenya,2010,false,
+36296,44569,Kenya,2010,false,
+36297,52492,Kenya,2012,false,
+36298,T101,Kenya,2010,false,
+36299,46445,Kenya,2011,false,
+36300,T104,Kenya,,false,
+36301,T105,Kenya,,false,
+36302,T106,Kenya,,false,
+39081,64204,Kenya,2014,false,
+39082,64500,Kenya,2014,false,
+39083,64579,Kenya,2014,false,
+39084,64605,Kenya,2014,false,
+39085,64680,Kenya,2014,false,
+39086,64586,Kenya,2014,false,
+39087,64361,Kenya,2014,false,
+39088,64755,Kenya,2014,false,
+39089,64203,Kenya,2014,false,
+39090,65080,Kenya,2014,false,
+39091,65318,Kenya,2014,false,
+39092,65320,Kenya,2014,false,
+39093,65551,Kenya,2014,false,
+39094,65600,Kenya,2014,false,
+39095,65737,Kenya,2014,false,
+39096,56474,Kenya,2012,false,
+39097,56327,Kenya,2012,false,
+39098,56682,Kenya,2012,false,
+39099,56835,Kenya,2012,false,
+39100,57568,Kenya,2012,false,
+39101,63971,Kenya,2013,false,
+39102,63748,Kenya,2013,false,
+39103,45858,Kenya,2010,false,
+39104,45722,Kenya,2010,false,
+39105,44941,Kenya,2010,false,
+39106,45388,Kenya,2010,false,
+39107,45715,Kenya,2010,false,
+39108,45910,Kenya,2010,false,
+39109,43208 -1,Kenya,2010,false,
+39110,43208 -2,Kenya,2010,false,
+39111,43210,Kenya,2010,false,
+39112,44271,Kenya,2010,false,
+39113,42876,Kenya,2010,false,
+39114,44254,Kenya,2010,false,
+39115,43306,Kenya,2010,false,
+39116,46745,Kenya,2011,false,
+39117,47244,Kenya,2011,false,
+39118,47954,Kenya,2011,false,
+39119,47547,Kenya,2011,false,
+39120,47548,Kenya,2011,false,
+39121,48183,Kenya,2011,false,
+39122,48763,Kenya,2011,false,
+39123,48437,Kenya,2011,false,
+39124,48563,Kenya,2011,false,
+39125,48848,Kenya,2011,false,
+39126,48213,Kenya,2011,false,
+39127,48502,Kenya,2011,false,
+39128,48406,Kenya,2011,false,
+39129,50040,Kenya,2011,false,
+39130,49506,Kenya,2011,false,
+39131,49676,Kenya,2011,false,
+39132,49719,Kenya,2011,false,
+39133,50869,Kenya,2011,false,
+39134,51751,Kenya,2011,false,
+39135,52057,Kenya,2012,false,
+39136,52441,Kenya,2012,false,
+39137,65907,Kenya,2015,false,
+39138,66098,Kenya,2015,false,
+39139,42978,Kenya,2010,false,
+59511,KNY_NGAMR/9,Kenya,2016,false,
+60436,KNY_NGAMR/1,Kenya,2014,false,
+60437,KNY_NGAMR9p,Kenya,2016,false,
+60439,KNY_NGAMR26,Kenya,2016,false,
+60440,KNY_NGAMR27,Kenya,2016,false,
+60441,KNY_NGAMR30p,Kenya,2017,false,
+60442,KNY_NGAMR33,Kenya,2016,false,
+60501,KNY_NGAMR2,Kenya,2014,false,
+60502,KNY_NGAMR3,Kenya,2014,false,
+60503,KNY_NGAMR4,Kenya,2016,false,
+60504,KNY_NGAMR5,Kenya,2015,false,
+60505,KNY_NGAMR6,Kenya,2015,false,
+60506,KNY_NGAMR7,Kenya,2015,false,
+60507,KNY_NGAMR8,Kenya,2015,false,
+60508,KNY_NGAMR10,Kenya,2016,false,
+60509,KNY_NGAMR11,Kenya,2016,false,
+60510,KNY_NGAMR23,Kenya,2014,false,
+60511,KNY_NGAMR14,Kenya,2013,false,
+60512,KNY_NGAMR20,Kenya,2014,false,
+60513,KNY_NGAMR17,Kenya,2016,false,
+60514,KNY_NGAMR18,Kenya,2014,false,
+60515,KNY_NGAMR19,Kenya,2015,false,
+60516,KNY_NGAMR15,Kenya,2016,false,
+60517,KNY_NGAMR21,Kenya,2015,false,
+60518,KNY_NGAMR22,Kenya,2015,false,
+60519,KNY_NGAMR13,Kenya,2016,false,
+60520,KNY_NGAMR24,Kenya,2014,false,
+60521,KNY_NGAMR28,Kenya,2017,false,
+60522,KNY_NGAMR29,Kenya,2017,false,
+60523,KNY_NGAMR31,Kenya,2017,false,
+60524,KNY_NGAMR32,Kenya,2017,false,
+60525,KNY_NGAMR35,Kenya,2013,false,
+60526,KNY_NGAMR41,Kenya,2018,false,
+60527,KNY_NGAMR42,Kenya,2018,false,
+60528,KNY_NGAMR50,Kenya,2018,false,
+60530,KNY_NGAMR53,Kenya,2018,false,
+60531,KNY_NGAMR54,Kenya,2018,false,
+61382,IC_CNR077,Ivory Coast,2012,false,
+61383,IC_15039,Ivory Coast,2012,false,
+89182,15MUS-Pl003,South Africa,2015,false,
+89183,15MUS-Pl044,South Africa,2015,false,
+89185,15MUS-Pl098,South Africa,2015,false,
+89186,17MUS-AH083,South Africa,2017,false,
+89187,17MUS-AH094,South Africa,2017,false,
+89188,17MUS-AH118,South Africa,2017,false,
+89189,17MUS-AH035,South Africa,2017,false,
+89190,15MUS-PI063,South Africa,2015,false,
+89194,17MUS-AH070,South Africa,2017,false,
+89195,15MUS-PI091,South Africa,2015,false,
+89196,17MUS-AH060,South Africa,2017,false,
+89197,15MUS-PI005,South Africa,2015,false,
+89198,15MUS-PI092,South Africa,2015,false,
+89199,17MUS-AH077,South Africa,2017,false,
+89200,17MUS-AH017,South Africa,2017,false,
+92898,JR-409,South Africa,2019,false,
+92899,JR-413,South Africa,2019,false,
+92900,JR-414,South Africa,2019,false,
+92901,JR-412,South Africa,2018,false,
+92902,JR-403,South Africa,2019,false,
+92903,JR-401,South Africa,2019,false,
+93214,G176,South Africa,2019,false,
+95771,GHA-ADB-055,Ghana,2014,false,
+95772,GHA-ADB-088,Ghana,2014,false,
+95773,GHA-ADB-095,Ghana,2014,false,
+95774,GHA-ADB-099,Ghana,2014,false,
+95775,GHA-ADB-129,Ghana,2014,false,
+95776,GHA-ADB-135,Ghana,2014,false,
+95777,GHA-ADB-191,Ghana,2015,false,
+95778,GHA-ADB-216,Ghana,2015,false,
+95779,GHA-ADB-230,Ghana,2015,false,
+95780,GHA-ARM-046,Ghana,2013,false,
+95781,GHA-ARM-069,Ghana,2013,false,
+95782,GHA-ARM-073,Ghana,2013,false,
+95783,GHA-ARM-106,Ghana,2014,false,
+95784,GHA-ARM-127,Ghana,2014,false,
+95785,GHA-ARM-163,Ghana,2015,false,
+95786,GHA-ARM-165,Ghana,2015,false,
+95787,GHA-NAV-029,Ghana,2019,false,
+95788,GHA-NAV-031,Ghana,2019,false,
+95789,GHA-NAV-040,Ghana,2014,false,
+95790,GHA-TMH-040,Ghana,2012,false,
+95791,GHA-TMH-042,Ghana,2012,false,
+95792,GHA-TMH-050,Ghana,2012,false,
+95793,GHA-TMH-067,Ghana,2012,false,
+95794,GHA-TMH-068,Ghana,2012,false,
+95795,GHA-TMH-074,Ghana,2012,false,
+95796,GHA-TMH-455,Ghana,2015,false,
+95797,GHA-TMH-458,Ghana,2015,false,
+95798,GHA-TMH-462,Ghana,2015,false,
+95799,GHA-TMH-465,Ghana,2015,false,
+95800,GHA-TMH-484,Ghana,2015,false,
+95801,GHA-TMH-537,Ghana,2015,false,
+95802,GHA-ADB-284,Ghana,2018,false,
+95803,GHA-ADB-297,Ghana,2018,false,
+95804,GHA-ADB-340,Ghana,2019,false,
+95805,GHA-ADB-342,Ghana,2019,false,
+95806,GHA-ADB-347,Ghana,2019,false,
+95807,GHA-ADB-348,Ghana,2019,false,
+95808,GHA-ADB-360,Ghana,2019,false,
+95809,GHA-ADB-369,Ghana,2019,false,
+95810,GHA-AIR-053,Ghana,2019,false,
+95811,GHA-AIR-057,Ghana,2019,false,
+95812,GHA-AIR-058,Ghana,2019,false,
+95813,GHA-ARM-233,Ghana,2018,false,
+95814,GHA-ARM-285,Ghana,2019,false,
+95815,GHA-ARM-288,Ghana,2019,false,
+95816,GHA-ARM-299,Ghana,2019,false,
+95817,GHA-TMH-588,Ghana,2018,false,
+95818,GHA-TMH-594,Ghana,2018,false,
+95819,GHA-TMH-612,Ghana,2018,false,
+95820,GHA-TMH-619,Ghana,2018,false,
+95821,GHA-TMH-624,Ghana,2018,false,
+96169,R3,South Africa,2013,false,
+96170,R6,South Africa,2013,false,
+96171,R48,South Africa,2014,false,
+96172,R59,South Africa,2014,false,
+96173,R63,South Africa,2014,false,
+96174,R73,South Africa,2014,false,
+97776,GENT058_YB,Malawi,2018,false,
+97777,GENT067,Malawi,2018,false,
+97778,GENT068,Malawi,2018,false,
+97779,GENT070,Malawi,2018,false,
+97780,GENT092,Malawi,2018,false,
+97781,GENT096,Malawi,2018,false,
+97782,GENT135,Malawi,2018,false,
+97783,GENT143,Malawi,2018,false,
+97784,GENT146,Malawi,2018,false,
+105972,18,Kenya,2012,false,
+105973,61,Kenya,2012,false,
+105974,3,Kenya,2012,false,
+105975,12,Kenya,2012,false,
+105976,57,Kenya,2012,false,
+105977,100A,Kenya,2012,false,
+105978,240,Kenya,2012,false,
+105979,274,Kenya,2012,false,
+105980,285,Kenya,2012,false,
+105981,298,Kenya,2012,false,
+106122,1107_Kenya,Kenya,2017,false,
+106123,1284_Kenya,Kenya,2016,false,
+106124,1912_Kenya,Kenya,2016,false,
+106125,1912-5_Kenya,Kenya,2017,false,
+106126,2086_Kenya,Kenya,2018,false,
+106127,2172_Kenya,Kenya,2016,false,
+106128,2245_Kenya,Kenya,2017,false,
+106129,2250_Kenya,Kenya,2017,false,
+106130,2320_Kenya,Kenya,2016,false,
+106131,2350_Kenya,Kenya,2016,false,
+106132,2372_Kenya,Kenya,2016,false,
+106133,2416_Kenya,Kenya,2018,false,
+106134,2435_Kenya,Kenya,2016,false,
+106135,2438_Kenya,Kenya,2017,false,
+106136,2533_Kenya,Kenya,2016,false,
+106137,2537_Kenya,Kenya,2016,false,
+106138,2560_Kenya,Kenya,2016,false,
+106139,2564_Kenya,Kenya,2018,false,
+106140,2628_Kenya,Kenya,2017,false,
+106141,2643_Kenya,Kenya,2016,false,
+106142,2664_Kenya,Kenya,2016,false,
+106143,2665_Kenya,Kenya,2017,false,
+106144,2665-25_Kenya,Kenya,2017,false,
+106145,2687_Kenya,Kenya,2016,false,
+106146,2694_Kenya,Kenya,2016,false,
+106147,2695_Kenya,Kenya,2016,false,
+106148,2699_Kenya,Kenya,2018,false,
+106149,2710_Kenya,Kenya,2018,false,
+106150,2728_Kenya,Kenya,2018,false,
+106151,2730_Kenya,Kenya,2017,false,
+106152,2783_Kenya,Kenya,2016,false,
+106153,2796_Kenya,Kenya,2019,false,
+106154,2801_Kenya,Kenya,2016,false,
+106155,2822_Kenya,Kenya,2017,false,
+106156,2852_Kenya,Kenya,2017,false,
+106157,2875_Kenya,Kenya,2017,false,
+106158,2901_Kenya,Kenya,2017,false,
+106159,2903_Kenya,Kenya,2018,false,
+106160,2921_Kenya,Kenya,2017,false,
+106161,2932_Kenya,Kenya,2017,false,
+106162,3103_Kenya,Kenya,2019,false,
+106163,3107_Kenya,Kenya,2019,false,
+106164,3140_Kenya,Kenya,2020,false,
+106165,3313_Kenya,Kenya,2020,false,
+106166,00N210012_Kenya,Kenya,2019,false,
+106167,33100099_Kenya,Kenya,2020,false,
+109097,SA2018-601,South Africa,2018,false,
+109098,SA2018-602,South Africa,2018,false,
+109099,SA2018-603,South Africa,2018,false,
+109100,SA2018-604,South Africa,2018,false,
+109101,SA2018-605,South Africa,2018,false,
+109102,SA2018-606,South Africa,2018,false,
+109103,SA2018-607,South Africa,2018,false,
+109104,SA2018-609,South Africa,2018,false,
+109105,SA2018-610,South Africa,2018,false,
+109106,SA2018-611,South Africa,2018,false,
+109107,SA2018-612,South Africa,2018,false,
+109108,SA2018-613,South Africa,2018,false,
+109109,SA2018-614,South Africa,2018,false,
+109110,SA2018-615,South Africa,2018,false,
+109111,SA2019-810,South Africa,2019,false,
+109112,SA2019-812,South Africa,2019,false,
+109113,SA2019-813,South Africa,2019,false,
+109114,SA2019-814,South Africa,2019,false,
+109115,SA2019-815,South Africa,2019,false,
+109116,SA2019-816,South Africa,2019,false,
+109117,SA2019-817,South Africa,2019,false,
+109118,SA2019-818,South Africa,2019,false,
+109119,SA2019-819,South Africa,2019,false,
+109120,SA2018-820,South Africa,2018,false,
+109121,SA2018-821,South Africa,2018,false,
+111732,GHA-TMH-633,Ghana,2018,false,
+111733,GHA-TMH-657,Ghana,2019,false,
+111734,GHA-TMH-663,Ghana,2019,false,
+111735,GHA-TMH-679,Ghana,2019,false,
+111736,GHA-TMH-685,Ghana,2019,false,
+115183,19MUS-SR081,South Africa,2019,false,
+115184,21MUS-AH021,South Africa,2021,false,
+115185,21MUS-AH105,South Africa,2021,false,
+116222,UG010,Uganda,2018,false,
+116223,UG117,Uganda,2018,false,
+116224,UG182,Uganda,2018,false,
+116225,UG197,Uganda,2018,false,
+116226,UG245,Uganda,2018,false,
+116227,UG278,Uganda,2018,false,
+116228,UG282,Uganda,2018,false,
+116229,UG290,Uganda,2018,false,
+116230,UG323,Uganda,2018,false,
+116231,UG055,Uganda,2018,false,
+116232,UG224,Uganda,2018,false,
+116233,UG009,Uganda,2018,false,
+116234,UG052,Uganda,2018,false,
+116235,UG296,Uganda,2018,false,
+116236,UG440,Uganda,2018,false,
+116237,UG221,Uganda,2018,false,
+116238,UG040,Uganda,2018,false,
+116239,UG474,Uganda,2018,false,
+116240,UG501,Uganda,2018,false,
+116241,UG162,Uganda,2018,false,
+116242,UG007,Uganda,2018,false,
+116243,UG393,Uganda,2018,false,
+116244,UG411,Uganda,2018,false,
+116245,UG084,Uganda,2018,false,
+116246,UG413,Uganda,2018,false,
+116247,UG343,Uganda,2018,false,
+116248,UG435,Uganda,2018,false,
+116249,UG503,Uganda,2018,false,
+116250,UG198,Uganda,2018,false,
+116251,UG167,Uganda,2018,false,
+116252,UG189,Uganda,2018,false,
+116253,UG075,Uganda,2018,false,
+117540,NG31052019,Cameroon,2019,false,
+117541,NG27082019A,Cameroon,2019,false,
+117542,NG27082019B,Cameroon,2019,false,
+117543,NG20042303A,Cameroon,2020,false,
+117544,NG20042303B,Cameroon,2020,false,
+117545,NG13112001,Cameroon,2020,false,
+117546,NG14112002,Cameroon,2020,false,
+117547,NG14112003,Cameroon,2020,false,
+118224,NG20042303AMaxwell,Cameroon,2020,false,
+118225,NG14112003Maxwell,Cameroon,2020,false,
+123150,FF05_01-134,Zambia,2020,false,
+123151,FF05_02-104,Zambia,2020,false,
+123152,FF05_02-210,Zambia,2020,false,
+123332,7148,South Africa,2022,false,
+123333,5054,South Africa,2022,false,
+123334,1077,South Africa,2022,false,
+123335,2003,South Africa,2022,false,
+123336,7023,South Africa,2022,false,
+123337,8054,South Africa,2022,false,
+123338,7064,South Africa,2022,false,
+123339,5051,South Africa,2022,false,
+123340,3146,South Africa,2022,false,
+123341,8081,South Africa,2022,false,
+123342,1030,South Africa,2022,false,
+123343,3159,South Africa,2022,false,
+123344,3123,South Africa,2022,false,
+123345,1075,South Africa,2022,false,
+123346,8050,South Africa,2022,false,
+123347,3031,South Africa,2022,false,
+125903,MDG-NG10,Madagascar,2020,false,
+125904,MDG-NG11,Madagascar,2015,false,
+125905,MDG-NG12,Madagascar,2019,false,
+125906,MDG-NG13,Madagascar,2020,false,
+125907,MDG-NG14,Madagascar,2020,false,
+125908,MDG-NG15,Madagascar,2020,false,
+125909,MDG-NG16,Madagascar,2016,false,
+125910,MDG-NG17,Madagascar,2020,false,
+125911,MDG-NG18,Madagascar,2020,false,
+125912,MDG-NG19,Madagascar,2014,false,
+125913,MDG-NG1,Madagascar,2020,false,
+125914,MDG-NG20,Madagascar,2020,false,
+125915,MDG-NG21,Madagascar,2014,false,
+125916,MDG-NG22,Madagascar,2020,false,
+125917,MDG-NG23,Madagascar,2014,false,
+125918,MDG-NG24,Madagascar,2020,false,
+125919,MDG-NG25,Madagascar,2020,false,
+125920,MDG-NG26,Madagascar,2020,false,
+125921,MDG-NG27,Madagascar,2020,false,
+125922,MDG-NG28,Madagascar,2017,false,
+125923,MDG-NG29,Madagascar,2019,false,
+125924,MDG-NG2,Madagascar,2020,false,
+125925,MDG-NG30,Madagascar,2020,false,
+125926,MDG-NG31,Madagascar,2020,false,
+125927,MDG-NG32,Madagascar,2020,false,
+125928,MDG-NG33,Madagascar,2020,false,
+125929,MDG-NG34,Madagascar,2020,false,
+125930,MDG-NG35,Madagascar,2020,false,
+125931,MDG-NG36,Madagascar,2020,false,
+125932,MDG-NG37,Madagascar,2020,false,
+125933,MDG-NG38,Madagascar,2017,false,
+125934,MDG-NG39,Madagascar,2020,false,
+125935,MDG-NG3,Madagascar,2019,false,
+125936,MDG-NG40,Madagascar,2020,false,
+125937,MDG-NG41,Madagascar,2020,false,
+125938,MDG-NG42,Madagascar,2020,false,
+125939,MDG-NG43,Madagascar,2019,false,
+125940,MDG-NG44,Madagascar,2020,false,
+125941,MDG-NG45,Madagascar,2020,false,
+125942,MDG-NG46,Madagascar,2020,false,
+125943,MDG-NG47,Madagascar,2016,false,
+125945,MDG-NG4,Madagascar,2020,false,
+125947,MDG-NG5,Madagascar,2020,false,
+125948,MDG-NG6,Madagascar,2020,false,
+125950,MDG-NG8,Madagascar,2016,false,
+125951,MDG-NG9,Madagascar,2020,false,
+126241,7135,South Africa,2022,false,
+126242,8099,South Africa,2022,false,
+126243,3096,South Africa,2022,false,
+126244,8076,South Africa,2022,false,
+126245,8060,South Africa,2022,false,
+126246,3140,South Africa,2022,false,
+126247,3166,South Africa,2022,false,
+126248,3085,South Africa,2022,false,
+126249,1071,South Africa,2022,false,
+126250,3118,South Africa,2022,false,
+126251,8023,South Africa,2022,false,
+126252,8039,South Africa,2022,false,
+126253,1040,South Africa,2022,false,
+126254,3062,South Africa,2022,false,
+126255,8030,South Africa,2022,false,
+126256,3095,South Africa,2022,false,
+126257,1037,South Africa,2022,false,
+126258,7152,South Africa,2022,false,
+126259,5068,South Africa,2022,false,
+126260,8102,South Africa,2022,false,
+126261,7072,South Africa,2022,false,
+126262,5059,South Africa,2022,false,
+126263,5029,South Africa,2022,false,
+126264,1065,South Africa,2022,false,
+126265,8098,South Africa,2022,false,
+126266,1060,South Africa,2022,false,
+126267,1053,South Africa,2022,false,
+126268,8011,South Africa,2022,false,
+126269,3075,South Africa,2022,false,
+126270,7154,South Africa,2022,false,
+126271,3158,South Africa,2022,false,
+126272,3121,South Africa,2022,false,
+126273,3163,South Africa,2022,false,
+126274,8078,South Africa,2022,false,
+126275,5060,South Africa,2022,false,
+126929,3115,South Africa,2022,false,
+126930,5043,South Africa,2022,false,
+126931,5018,South Africa,2022,false,
+126932,7079,South Africa,2022,false,
+126933,3044,South Africa,2022,false,
+126934,7039,South Africa,2022,false,
+126935,5037,South Africa,2022,false,
+126936,3076,South Africa,2022,false,
+126937,7070,South Africa,2022,false,
+126938,1074,South Africa,2022,false,
+126939,7129,South Africa,2022,false,
+126940,1087,South Africa,2022,false,
+126941,3108,South Africa,2022,false,
+126942,1109,South Africa,2022,false,
+126943,5034,South Africa,2022,false,
+126944,7052,South Africa,2022,false,
+126945,1105,South Africa,2022,false,
+126946,5006,South Africa,2022,false,
+126947,7113,South Africa,2022,false,
+126948,8089,South Africa,2022,false,
+126949,5025,South Africa,2022,false,
+131095,GP-12-MUS-048,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131096,GP-12-MUS-049,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131097,GP-12-MUS-052,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131098,GP-12-MUS-069,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131099,GP-12-MUS-071,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131100,GP-12-MUS-086,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131101,GP-12-MUS-088,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131102,GP-12-MUS-092,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131103,GP-12-MUS-093,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131104,GP-12-MUS-096,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131105,GP-12-MUS-099,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131106,GP-12-MUS-102,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131107,GP-12-MUS-107,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131108,GP-12-MUS-109,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131109,GP-12-MUS-110,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131110,GP-12-MUS-115,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131111,GP-12-MUS-116,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131112,GP-12-MUS-117,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131113,GP-12-MUS-124,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131114,GP-12-MUS-137,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131115,GP-12-MUS-163,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131116,GP-12-MUS-166,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131117,GP-12-MUS-170,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131118,GP-12-MUS-180,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131119,GP-12-MUS-190,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131120,GP-12-MUS-199,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131121,GP-12-MUS-205,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131122,GP-12-MUS-208,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131123,GP-12-MUS-211,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131124,GP-12-MUS-214,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131125,GP-12-MUS-220,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131126,GP-12-MUS-242,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131127,GP-12-MUS-250,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131128,GP-12-MUS-251,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131129,GP-12-MUS-252,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131130,GP-12-MUS-264,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131131,GP-12-MUS-273,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131132,GP-12-MUS-276,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131133,GP-12-MUS-283,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131134,GP-12-MUS-289,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131135,GP-12-MUS-291,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131136,GP-12-MUS-297,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131137,GP-12-MUS-303,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131138,GP-12-MUS-307,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131139,GP-12-MUS-311,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131140,GP-12-MUS-312,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131141,GP-12-MUS-317,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131142,GP-12-MUS-319,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131143,GP-12-MUS-324,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131144,GP-12-MUS-325,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131145,GP-12-MUS-331,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131146,GP-12-MUS-333,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131147,GP-12-MUS-337,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131148,GP-12-MUS-339,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131149,GP-12-MUS-356,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131150,GP-12-MUS-358,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131151,GP-12-MUS-361,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131152,GP-12-MUS-363,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131153,GP-12-MUS-368,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131154,GP-12-MUS-371,South Africa,2012,true,"Anastasia Unitt, University of Oxford"
+131155,GP-13-MUS-001,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131156,GP-13-MUS-015,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131157,GP-13-MUS-032,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131158,GP-13-MUS-044,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131159,GP-13-MUS-047,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131160,GP-13-MUS-051,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131161,GP-13-MUS-052,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131162,GP-13-MUS-053,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131163,GP-13-MUS-067,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131164,GP-13-MUS-068,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131165,GP-13-MUS-070,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131166,GP-13-MUS-073,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131167,GP-13-MUS-076,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131168,GP-13-MUS-077,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131169,GP-13-MUS-080,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131170,GP-13-MUS-081,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131171,GP-13-MUS-083,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131172,GP13-MUS-085,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131173,GP13-MUS-086,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131174,GP13-MUS-088,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131175,GP-13-MUS-096,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131176,GP-13-MUS-099,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131177,GP-13-MUS-103,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131178,GP-13-MUS-105,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131179,GP-13-MUS-107,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131180,GP-13-MUS-109,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131181,GP-13-MUS-116,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131182,GP-13-MUS-120,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131183,GP-13-MUS-121,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131184,GP-13-MUS-129,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131185,GP-13-MUS-132,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131186,GP-13-MUS-133,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131187,GP-13-MUS-134,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131188,GP13-MUS-144,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131189,GP13-MUS-145,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131190,GP13-MUS-152,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131191,GP13-MUS-177,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131192,GP13-MUS-179,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131193,GP13-MUS-187,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131194,GP13-MUS-189,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131195,GP13-MUS-190,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131196,GP13-MUS-195,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131197,GP13-MUS-196,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131198,GP13-MUS-203,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131199,GP13-MUS-206,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131200,GP13-MUS-208,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131201,GP13-MUS-210,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131202,GP13-MUS-213,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131203,GP13-MUS-215,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131204,GP13-MUS-218,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131205,GP13-MUS-225,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131206,GP13-MUS-231,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131207,GP-13-MUS-235,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131208,GP-13-MUS-236,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131209,GP-13-MUS-243,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131210,GP-13-MUS-244,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131211,GP-13-MUS-247,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131212,GP-13-MUS-253,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131213,GP-13-MUS-256,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131214,GP-13-MUS-257,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131215,GP-13-MUS-258,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131216,GP-13-MUS-269,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131217,GP-13-MUS-271,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131218,GP-13-MUS-272,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131219,GP-13-MUS-275,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131220,GP-13-MUS-276,South Africa,2013,true,"Anastasia Unitt, University of Oxford"
+131221,GP-14-MUS-017,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131222,GP-14-MUS-032,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131223,GP-14-MUS-033,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131224,GP-14-MUS-034,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131225,GP-14-MUS-042,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131226,GP-14-MUS-052,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131227,GP-14-MUS-054,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131228,GP-14-MUS-057,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131229,GP-14-MUS-063,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131230,GP-14-MUS-064,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131231,GP-14-MUS-069,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131232,GP-14-MUS-081,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131233,GP-14-MUS-082,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131234,GP-14-MUS-088,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131235,GP-14-MUS-092,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131236,GP-14-MUS-094,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131237,GP-14-MUS-095,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131238,GP-14-MUS-099,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131239,GP-14-MUS-103,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131240,GP-14-MUS-105,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131241,GP-14-MUS-107,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131242,GP-14-MUS-110,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131243,GP-14-MUS-114,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131244,GP-14-MUS-117,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131245,GP-14-MUS-121,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131246,GP-14-MUS-139,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131247,GP-14-MUS-143,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131248,GP-14-MUS-147,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131249,GP-14-MUS-150,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131250,GP-14-MUS-151,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131251,GP-14-MUS-154,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131252,GP-14-MUS-156,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131253,GP-14-MUS-165,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131254,GP-14-MUS-183,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131255,GP-14-MUS-189,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131256,GP-14-MUS-194,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131257,GP-14-MUS-211,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131258,GP-14-MUS-212,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131259,GP-14-MUS-213,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131260,GP-14-MUS-214,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131261,GP-14-MUS-218,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131262,GP-14-MUS-219,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131263,GP-14-MUS-221,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131264,GP-14-MUS-224,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131265,GP-14-MUS-232,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131266,GP-14-MUS-238,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131267,GP-14-MUS-243,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131268,GP-14-MUS-244,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131269,GP-14-MUS-246,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131270,GP-14-MUS-247,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131271,GP-14-MUS-250,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131272,GP-14-MUS-251,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131273,GP-14-MUS-252,South Africa,2014,true,"Anastasia Unitt, University of Oxford"
+131274,15MUS-AH001,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131275,15MUS-AH007,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131276,15MUS-AH008,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131277,15MUS-AH009,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131278,15MUS-AH021,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131279,15MUS-AH029,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131280,15MUS-AH030,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131281,15MUS-AH041,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131282,15MUS-AH042,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131283,15MUS-AH060,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131284,15MUS-AH061,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131285,15MUS-AH063,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131286,15MUS-AH064,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131287,15MUS-AH068,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131288,15MUS-AH077,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131289,15MUS-AH078,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131290,15MUS-AH079,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131291,15MUS-AH083,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131292,15MUS-AH084,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131293,15MUS-AH085,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131294,15MUS-AH086,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131295,15MUS-AH087,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131296,15MUS-AH088,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131297,15MUS-AH089,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131298,15MUS-AH092,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131299,15MUS-AH093,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131300,15MUS-AH094,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131301,15MUS-AH096,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131302,15MUS-AH101,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131303,15MUS-AH103,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131304,15MUS-AH106,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131305,15MUS-AH108,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131306,15MUS-AH112,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131307,15MUS-AH113,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131308,15MUS-AH117,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131309,15MUS-AH119,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131310,15MUS-AH121,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131311,15MUS-AH122,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131312,15MUS-AH130,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131313,15MUS-AH131,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131314,15MUS-AH133,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131315,15MUS-AH135,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131316,15MUS-AH138,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131317,15MUS-AH140,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131318,15MUS-AH143,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131319,15MUS-AH146,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131320,15MUS-AH148,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131321,15MUS-AH149,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131322,15MUS-AH150,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131323,15MUS-AH152,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131324,15MUS-AH153,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131325,15MUS-AH154,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131326,15MUS-AH160,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131327,15MUS-AH165,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131328,15MUS-AH166,South Africa,2015,true,"Anastasia Unitt, University of Oxford"
+131329,16MUS-AH007,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131330,16MUS-AH009,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131331,16MUS-AH010,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131332,16MUS-AH011,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131333,16MUS-AH012,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131334,16MUS-AH017,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131335,16MUS-AH019,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131336,16MUS-AH023,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131337,16MUS-AH026,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131338,16MUS-AH029,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131339,16MUS-AH030,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131340,16MUS-AH034,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131341,16MUS-AH057,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131342,16MUS-AH060,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131343,16MUS-AH062,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131344,16MUS-AH063,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131345,16MUS-AH064,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131346,16MUS-AH067,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131347,16MUS-AH068,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131348,16MUS-aH070,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131349,16MUS-AH082,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131350,16MUS-AH085,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131351,16MUS-AH087,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131352,16MUS-AH088,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131353,16MUS-AH089,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131354,16MUS-AH091,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131355,16MUS-AH093,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131356,16MUS-AH094,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131357,16MUS-AH097,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131358,16MUS-AH100,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131359,16MUS-AH101,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131360,16MUS-AH109,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131361,16MUS-AH113,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131362,16MUS-AH116,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131363,16MUS-AH118,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131364,16MUS-AH119,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131365,16MUS-AH121,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131366,16MUS-AH124,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131367,16MUS-AH126,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131368,16MUS-AH131,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131369,16MUS-AH140,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131370,16MUS-AH142,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131371,16MUS-AH146,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131372,16MUS-AH147,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131373,16MUS-AH152,South Africa,2016,true,"Anastasia Unitt, University of Oxford"
+131374,17MUS-AH002,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131375,17MUS-AH004,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131376,17MUS-AH007,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131377,17MUS-AH009,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131378,17MUS-AH011,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131379,17MUS-AH012,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131380,17MUS-AH014,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131381,17MUS-AH015,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+131382,17MUS-AH018,South Africa,2017,true,"Anastasia Unitt, University of Oxford"
+136267,UG001,Uganda,2018,false,
+136268,UG002,Uganda,2018,false,
+136269,UG003,Uganda,2018,false,
+136270,UG004,Uganda,2018,false,
+136271,UG005,Uganda,2018,false,
+136272,UG006,Uganda,2018,false,
+136273,UG008,Uganda,2018,false,
+136274,UG011,Uganda,2018,false,
+136275,UG012,Uganda,2018,false,
+136276,UG013,Uganda,2018,false,
+136277,UG014,Uganda,2018,false,
+136278,UG016,Uganda,2018,false,
+136279,UG017,Uganda,2018,false,
+136280,UG018,Uganda,2018,false,
+136281,UG019,Uganda,2018,false,
+136282,UG020,Uganda,2018,false,
+136283,UG021,Uganda,2018,false,
+136284,UG022,Uganda,2018,false,
+136285,UG023,Uganda,2018,false,
+136286,UG026,Uganda,2018,false,
+136287,UG027,Uganda,2018,false,
+136288,UG028,Uganda,2018,false,
+136289,UG030,Uganda,2018,false,
+136290,UG032,Uganda,2018,false,
+136291,UG033,Uganda,2018,false,
+136292,UG035,Uganda,2018,false,
+136293,UG037,Uganda,2018,false,
+136294,UG038,Uganda,2018,false,
+136295,UG039,Uganda,2018,false,
+136296,UG041,Uganda,2018,false,
+136297,UG042,Uganda,2018,false,
+136298,UG043,Uganda,2018,false,
+136299,UG044,Uganda,2018,false,
+136300,UG045,Uganda,2018,false,
+136301,UG047,Uganda,2018,false,
+136302,UG048,Uganda,2018,false,
+136303,UG049,Uganda,2018,false,
+136304,UG050,Uganda,2018,false,
+136305,UG053,Uganda,2018,false,
+136306,UG054,Uganda,2018,false,
+136307,UG056,Uganda,2018,false,
+136308,UG057,Uganda,2018,false,
+136309,UG058,Uganda,2018,false,
+136310,UG060,Uganda,2018,false,
+136311,UG061,Uganda,2018,false,
+136312,UG062,Uganda,2018,false,
+136313,UG063,Uganda,2018,false,
+136314,UG064,Uganda,2018,false,
+136315,UG065,Uganda,2018,false,
+136316,UG066,Uganda,2018,false,
+136317,UG067,Uganda,2018,false,
+136318,UG068,Uganda,2018,false,
+136319,UG069,Uganda,2018,false,
+136320,UG070,Uganda,2018,false,
+136321,UG071,Uganda,2018,false,
+136322,UG072,Uganda,2018,false,
+136323,UG073,Uganda,2018,false,
+136324,UG074,Uganda,2018,false,
+136325,UG076,Uganda,2018,false,
+136326,UG077,Uganda,2018,false,
+136327,UG078,Uganda,2018,false,
+136328,UG079,Uganda,2018,false,
+136329,UG080,Uganda,2018,false,
+136330,UG081,Uganda,2018,false,
+136331,UG082,Uganda,2018,false,
+136332,UG083,Uganda,2018,false,
+136333,UG085,Uganda,2018,false,
+136334,UG086,Uganda,2018,false,
+136335,UG087,Uganda,2018,false,
+136336,UG088,Uganda,2018,false,
+136337,UG089,Uganda,2018,false,
+136338,UG090,Uganda,2018,false,
+136339,UG091,Uganda,2018,false,
+136340,UG092,Uganda,2018,false,
+136341,UG094,Uganda,2018,false,
+136342,UG095,Uganda,2018,false,
+136343,UG097,Uganda,2018,false,
+136344,UG099,Uganda,2018,false,
+136345,UG100,Uganda,2018,false,
+136346,UG101,Uganda,2018,false,
+136347,UG102,Uganda,2018,false,
+136348,UG103,Uganda,2018,false,
+136349,UG104,Uganda,2018,false,
+136350,UG105,Uganda,2018,false,
+136351,UG106,Uganda,2018,false,
+136352,UG107,Uganda,2018,false,
+136353,UG108,Uganda,2018,false,
+136354,UG109,Uganda,2018,false,
+136355,UG110,Uganda,2018,false,
+136356,UG112,Uganda,2018,false,
+136357,UG113,Uganda,2018,false,
+136358,UG114,Uganda,2018,false,
+136359,UG115,Uganda,2018,false,
+136360,UG116,Uganda,2018,false,
+136361,UG118,Uganda,2018,false,
+136362,UG119,Uganda,2018,false,
+136363,UG120,Uganda,2018,false,
+136364,UG122,Uganda,2018,false,
+136365,UG124,Uganda,2018,false,
+136366,UG125,Uganda,2018,false,
+136367,UG126,Uganda,2018,false,
+136368,UG127,Uganda,2018,false,
+136369,UG128,Uganda,2018,false,
+136370,UG129,Uganda,2018,false,
+136371,UG130,Uganda,2018,false,
+136372,UG132,Uganda,2018,false,
+136373,UG134,Uganda,2018,false,
+136374,UG135,Uganda,2018,false,
+136375,UG136,Uganda,2018,false,
+136376,UG137,Uganda,2018,false,
+136377,UG138,Uganda,2018,false,
+136378,UG139,Uganda,2018,false,
+136379,UG140,Uganda,2018,false,
+136380,UG141,Uganda,2018,false,
+136381,UG142,Uganda,2018,false,
+136382,UG143,Uganda,2018,false,
+136383,UG144,Uganda,2018,false,
+136384,UG145,Uganda,2018,false,
+136385,UG147,Uganda,2018,false,
+136386,UG148,Uganda,2018,false,
+136387,UG149,Uganda,2018,false,
+136388,UG150,Uganda,2018,false,
+136389,UG151,Uganda,2018,false,
+136390,UG152,Uganda,2018,false,
+136391,UG153,Uganda,2018,false,
+136392,UG154,Uganda,2018,false,
+136393,UG155,Uganda,2018,false,
+136394,UG156,Uganda,2018,false,
+136395,UG157,Uganda,2018,false,
+136396,UG158,Uganda,2018,false,
+136397,UG159,Uganda,2018,false,
+136398,UG160,Uganda,2018,false,
+136399,UG161,Uganda,2018,false,
+136400,UG164,Uganda,2018,false,
+136401,UG165,Uganda,2018,false,
+136402,UG168,Uganda,2018,false,
+136403,UG169,Uganda,2018,false,
+136404,UG170,Uganda,2018,false,
+136405,UG171,Uganda,2018,false,
+136406,UG172,Uganda,2018,false,
+136407,UG173,Uganda,2018,false,
+136408,UG174,Uganda,2018,false,
+136409,UG176,Uganda,2018,false,
+136410,UG177,Uganda,2018,false,
+136411,UG178,Uganda,2018,false,
+136412,UG179,Uganda,2018,false,
+136413,UG180,Uganda,2018,false,
+136414,UG181,Uganda,2018,false,
+136415,UG183,Uganda,2018,false,
+136416,UG184,Uganda,2018,false,
+136417,UG185,Uganda,2018,false,
+136418,UG186,Uganda,2018,false,
+136419,UG187,Uganda,2018,false,
+136420,UG188,Uganda,2018,false,
+136421,UG190,Uganda,2018,false,
+136422,UG191,Uganda,2018,false,
+136423,UG192,Uganda,2018,false,
+136424,UG193,Uganda,2018,false,
+136425,UG194,Uganda,2018,false,
+136426,UG196,Uganda,2018,false,
+136427,UG199,Uganda,2018,false,
+136428,UG200,Uganda,2018,false,
+136429,UG201,Uganda,2018,false,
+136430,UG202,Uganda,2018,false,
+136431,UG203,Uganda,2018,false,
+136432,UG204,Uganda,2018,false,
+136433,UG205,Uganda,2018,false,
+136434,UG208,Uganda,2018,false,
+136435,UG209,Uganda,2018,false,
+136436,UG210,Uganda,2018,false,
+136437,UG211,Uganda,2018,false,
+136438,UG212,Uganda,2018,false,
+136439,UG213,Uganda,2018,false,
+136440,UG214,Uganda,2018,false,
+136441,UG215,Uganda,2018,false,
+136442,UG216,Uganda,2018,false,
+136443,UG217,Uganda,2018,false,
+136444,UG218,Uganda,2018,false,
+136445,UG219,Uganda,2018,false,
+136446,UG220,Uganda,2018,false,
+136447,UG223,Uganda,2018,false,
+136448,UG225,Uganda,2018,false,
+136449,UG226,Uganda,2018,false,
+136450,UG227,Uganda,2018,false,
+136451,UG228,Uganda,2018,false,
+136452,UG229,Uganda,2018,false,
+136453,UG230,Uganda,2018,false,
+136454,UG231,Uganda,2018,false,
+136455,UG233,Uganda,2018,false,
+136456,UG234,Uganda,2018,false,
+136457,UG235,Uganda,2018,false,
+136458,UG236,Uganda,2018,false,
+136459,UG237,Uganda,2018,false,
+136460,UG238,Uganda,2018,false,
+136461,UG239,Uganda,2018,false,
+136462,UG240,Uganda,2018,false,
+136463,UG241,Uganda,2018,false,
+136464,UG243,Uganda,2018,false,
+136465,UG244,Uganda,2018,false,
+136466,UG246,Uganda,2018,false,
+136467,UG247,Uganda,2018,false,
+136468,UG248,Uganda,2018,false,
+136469,UG249,Uganda,2018,false,
+136470,UG250,Uganda,2018,false,
+136471,UG251,Uganda,2018,false,
+136472,UG253,Uganda,2018,false,
+136473,UG256,Uganda,2018,false,
+136474,UG257,Uganda,2018,false,
+136475,UG258,Uganda,2018,false,
+136476,UG259,Uganda,2018,false,
+136477,UG260,Uganda,2018,false,
+136478,UG261,Uganda,2018,false,
+136479,UG262,Uganda,2018,false,
+136480,UG263,Uganda,2018,false,
+136481,UG264,Uganda,2018,false,
+136482,UG265,Uganda,2018,false,
+136483,UG266,Uganda,2018,false,
+136484,UG267,Uganda,2018,false,
+136485,UG268,Uganda,2018,false,
+136486,UG269,Uganda,2018,false,
+136487,UG270,Uganda,2018,false,
+136488,UG271,Uganda,2018,false,
+136489,UG273,Uganda,2018,false,
+136490,UG274,Uganda,2018,false,
+136491,UG275,Uganda,2018,false,
+136492,UG276,Uganda,2018,false,
+136493,UG277,Uganda,2018,false,
+136494,UG279,Uganda,2018,false,
+136495,UG280,Uganda,2018,false,
+136496,UG281,Uganda,2018,false,
+136497,UG283,Uganda,2018,false,
+136498,UG284,Uganda,2018,false,
+136499,UG285,Uganda,2018,false,
+136500,UG286,Uganda,2018,false,
+136501,UG287,Uganda,2018,false,
+136502,UG289,Uganda,2018,false,
+136503,UG293,Uganda,2018,false,
+136504,UG294,Uganda,2018,false,
+136505,UG295,Uganda,2018,false,
+136506,UG297,Uganda,2018,false,
+136507,UG298,Uganda,2018,false,
+136508,UG299,Uganda,2018,false,
+136509,UG300,Uganda,2018,false,
+136510,UG301,Uganda,2018,false,
+136511,UG302,Uganda,2018,false,
+136512,UG303,Uganda,2018,false,
+136513,UG304,Uganda,2018,false,
+136514,UG305,Uganda,2018,false,
+136515,UG306,Uganda,2018,false,
+136516,UG308,Uganda,2018,false,
+136517,UG309,Uganda,2018,false,
+136518,UG310,Uganda,2018,false,
+136519,UG311,Uganda,2018,false,
+136520,UG312,Uganda,2018,false,
+136521,UG313,Uganda,2018,false,
+136522,UG314,Uganda,2018,false,
+136523,UG315,Uganda,2018,false,
+136524,UG316,Uganda,2018,false,
+136525,UG318,Uganda,2018,false,
+136526,UG319,Uganda,2018,false,
+136527,UG320,Uganda,2018,false,
+136528,UG321,Uganda,2018,false,
+136529,UG322,Uganda,2018,false,
+136530,UG324,Uganda,2018,false,
+136531,UG325,Uganda,2018,false,
+136532,UG326,Uganda,2018,false,
+136533,UG327,Uganda,2018,false,
+136534,UG328,Uganda,2018,false,
+136535,UG329,Uganda,2018,false,
+136536,UG331,Uganda,2018,false,
+136537,UG332,Uganda,2018,false,
+136538,UG333,Uganda,2018,false,
+136539,UG334,Uganda,2018,false,
+136540,UG335,Uganda,2018,false,
+136541,UG336,Uganda,2018,false,
+136542,UG338,Uganda,2018,false,
+136543,UG339,Uganda,2018,false,
+136544,UG340,Uganda,2018,false,
+136545,UG341,Uganda,2018,false,
+136546,UG342,Uganda,2018,false,
+136547,UG344,Uganda,2018,false,
+136548,UG346,Uganda,2018,false,
+136549,UG347,Uganda,2018,false,
+136550,UG349,Uganda,2018,false,
+136551,UG350,Uganda,2018,false,
+136552,UG351,Uganda,2018,false,
+136553,UG352,Uganda,2018,false,
+136554,UG353,Uganda,2018,false,
+136555,UG354,Uganda,2018,false,
+136556,UG355,Uganda,2018,false,
+136557,UG357,Uganda,2018,false,
+136558,UG359,Uganda,2018,false,
+136559,UG360,Uganda,2018,false,
+136560,UG361,Uganda,2018,false,
+136561,UG362,Uganda,2018,false,
+136562,UG363,Uganda,2018,false,
+136563,UG364,Uganda,2018,false,
+136564,UG365,Uganda,2018,false,
+136565,UG367,Uganda,2018,false,
+136566,UG368,Uganda,2018,false,
+136567,UG369,Uganda,2018,false,
+136568,UG370,Uganda,2018,false,
+136569,UG371,Uganda,2018,false,
+136570,UG372,Uganda,2018,false,
+136571,UG373,Uganda,2018,false,
+136572,UG375,Uganda,2018,false,
+136573,UG376,Uganda,2018,false,
+136574,UG378,Uganda,2018,false,
+136575,UG379,Uganda,2018,false,
+136576,UG380,Uganda,2018,false,
+136577,UG381,Uganda,2018,false,
+136578,UG382,Uganda,2018,false,
+136579,UG383,Uganda,2018,false,
+136580,UG384,Uganda,2018,false,
+136581,UG385,Uganda,2018,false,
+136582,UG386,Uganda,2018,false,
+136583,UG387,Uganda,2018,false,
+136584,UG388,Uganda,2018,false,
+136585,UG389,Uganda,2018,false,
+136586,UG390,Uganda,2018,false,
+136587,UG394,Uganda,2018,false,
+136588,UG395,Uganda,2018,false,
+136589,UG396,Uganda,2018,false,
+136590,UG398,Uganda,2018,false,
+136591,UG400,Uganda,2018,false,
+136592,UG405,Uganda,2018,false,
+136593,UG406,Uganda,2018,false,
+136594,UG407,Uganda,2018,false,
+136595,UG408,Uganda,2018,false,
+136596,UG409,Uganda,2018,false,
+136597,UG412,Uganda,2018,false,
+136598,UG414,Uganda,2018,false,
+136599,UG416,Uganda,2018,false,
+136600,UG417,Uganda,2018,false,
+136601,UG418,Uganda,2018,false,
+136602,UG419,Uganda,2018,false,
+136603,UG420,Uganda,2018,false,
+136604,UG421,Uganda,2018,false,
+136605,UG422,Uganda,2018,false,
+136606,UG423,Uganda,2018,false,
+136607,UG424,Uganda,2018,false,
+136608,UG425,Uganda,2018,false,
+136609,UG427,Uganda,2018,false,
+136610,UG428,Uganda,2018,false,
+136611,UG429,Uganda,2018,false,
+136612,UG430,Uganda,2018,false,
+136613,UG432,Uganda,2018,false,
+136614,UG433,Uganda,2018,false,
+136615,UG434,Uganda,2018,false,
+136616,UG437,Uganda,2018,false,
+136617,UG438,Uganda,2018,false,
+136618,UG439,Uganda,2018,false,
+136619,UG442,Uganda,2018,false,
+136620,UG443,Uganda,2018,false,
+136621,UG444,Uganda,2018,false,
+136622,UG445,Uganda,2018,false,
+136623,UG446,Uganda,2018,false,
+136624,UG447,Uganda,2018,false,
+136625,UG448,Uganda,2018,false,
+136626,UG449,Uganda,2018,false,
+136627,UG450,Uganda,2018,false,
+136628,UG451,Uganda,2018,false,
+136629,UG453,Uganda,2018,false,
+136630,UG454,Uganda,2018,false,
+136631,UG456,Uganda,2018,false,
+136632,UG457,Uganda,2018,false,
+136633,UG458,Uganda,2018,false,
+136634,UG459,Uganda,2018,false,
+136635,UG460,Uganda,2018,false,
+136636,UG462,Uganda,2018,false,
+136637,UG463,Uganda,2018,false,
+136638,UG464,Uganda,2018,false,
+136639,UG466,Uganda,2018,false,
+136640,UG467,Uganda,2018,false,
+136641,UG468,Uganda,2018,false,
+136642,UG469,Uganda,2018,false,
+136643,UG471,Uganda,2018,false,
+136644,UG472,Uganda,2018,false,
+136645,UG473,Uganda,2018,false,
+136646,UG476,Uganda,2018,false,
+136647,UG477,Uganda,2018,false,
+136648,UG478,Uganda,2018,false,
+136649,UG479,Uganda,2018,false,
+136650,UG481,Uganda,2018,false,
+136651,UG482,Uganda,2018,false,
+136652,UG483,Uganda,2018,false,
+136653,UG484,Uganda,2018,false,
+136654,UG486,Uganda,2018,false,
+136655,UG487,Uganda,2018,false,
+136656,UG488,Uganda,2018,false,
+136657,UG489,Uganda,2018,false,
+136658,UG491,Uganda,2018,false,
+136659,UG492,Uganda,2018,false,
+136660,UG493,Uganda,2018,false,
+136661,UG494,Uganda,2018,false,
+136662,UG496,Uganda,2018,false,
+136663,UG497,Uganda,2018,false,
+136664,UG498,Uganda,2018,false,
+136665,UG499,Uganda,2018,false,
+136666,UG502,Uganda,2018,false,
+136667,UG504,Uganda,2018,false,
+138602,1758620,Burkina Faso,2016,false,
+138603,1789338,Burkina Faso,2016,false,
+138604,1793605,Burkina Faso,2016,false,
+138605,1794397,Burkina Faso,2016,false,
+138606,1796110,Burkina Faso,2016,false,
+138607,1797304,Burkina Faso,2016,false,
+138608,1797700,Burkina Faso,2016,false,
+138609,1798962,Burkina Faso,2016,false,
+138610,1799082,Burkina Faso,2016,false,
+138611,1803769,Burkina Faso,2016,false,
+138612,1811823,Burkina Faso,2016,false,
+138613,1812526,Burkina Faso,2016,false,
+138614,1812711,Burkina Faso,2016,false,
+138615,1815140,Burkina Faso,2016,false,
+138616,1815512,Burkina Faso,2016,false,
+138617,1817348,Burkina Faso,2016,false,
+138618,1817488,Burkina Faso,2016,false,
+138619,1820787,Burkina Faso,2016,false,
+138620,1824480,Burkina Faso,2016,false,
+138621,1833686,Burkina Faso,2016,false,
+138622,1835253,Burkina Faso,2016,false,
+138623,1836371,Burkina Faso,2016,false,
+138624,1837880,Burkina Faso,2016,false,
+138625,1851157,Burkina Faso,2016,false,
+138626,1852877,Burkina Faso,2016,false,
+138627,1860352,Burkina Faso,2016,false,
+138628,1862007,Burkina Faso,2016,false,
+138629,1863509,Burkina Faso,2016,false,
+138630,1863706,Burkina Faso,2016,false,
+138631,1868695,Burkina Faso,2016,false,
+138632,1869574,Burkina Faso,2016,false,
+138633,B33,Burkina Faso,2016,false,
+138634,OAAS100,Burkina Faso,2016,false,
+138635,OAAS14,Burkina Faso,2016,false,
+138636,OAAS19,Burkina Faso,2016,false,
+138637,OAAS36,Burkina Faso,2016,false,
+138638,OAAS39,Burkina Faso,2016,false,
+138639,OAAS46,Burkina Faso,2016,false,
+138640,OAAS51,Burkina Faso,2016,false,
+138641,OAAS69,Burkina Faso,2016,false,
+138642,OAAS74,Burkina Faso,2016,false,
+138643,OAAS76,Burkina Faso,2016,false,
+138644,OAAS77,Burkina Faso,2016,false,
+138645,OAAS79,Burkina Faso,2016,false,
+138646,OAAS80,Burkina Faso,2016,false,
+138647,OAAS85,Burkina Faso,2016,false,
+138648,OAAS86,Burkina Faso,2016,false,
+138649,OAAS87,Burkina Faso,2016,false,
+138650,OAAS92,Burkina Faso,2016,false,
+138651,OAAS94,Burkina Faso,2016,false,
+138652,OAAS96,Burkina Faso,2016,false,
+138653,OAAS97,Burkina Faso,2016,false,
+138787,7092,South Africa,2022,false,
+139453,7316,South Africa,2023,false,
+139454,8374,South Africa,2023,false,
+139455,8486,South Africa,2023,false,
+139860,5232,South Africa,2023,false,
+139861,7493,South Africa,2023,false,
+139862,5412,South Africa,2023,false,
+140559,17MUS_AH099_S94,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140560,17MUS_AH121_S96,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140561,17MUS_AH117_S95,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140562,18MUS_AH145_S102,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140563,18MUS_AH147_S103,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140564,18MUS_KH083_S97,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140565,18MUS_KM012_S99,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140566,18MUS_KM013_S80,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140567,18MUS_KM016_S100,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140568,18MUS_KM021_S81,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140569,18MUS_KM070_S101,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140570,18MUS_KM071_S82,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140571,18MUS_ZW085_S98,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+140572,19MUS_AH073_S104,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140573,19MUS_AH108_S105,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140574,19MUS_AH110_S83,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140575,19MUS_AH122_S106,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140576,19MUS_AH166_S107,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140577,20MUS_AH027_S84,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140578,20MUS_AH028_S108,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140579,20MUS_AH030_S85,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140580,20MUS_AH032_S109,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140581,20MUS_AH0138_S110,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140582,20MUS_CZ054_S86,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140583,20MUS_CZ055_S111,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140584,21MUS_AH020_S112,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140585,21MUS_AH021_S113,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140586,21MUS_AH104_S114,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140587,21MUS_AH105_S87,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140588,21MUS_AH110_S115,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140589,21MUS_AH111_S88,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140590,21MUS_AH124_S116,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140591,21MUS_AH125_S89,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140592,21MUS_AH166_S117,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140593,21MUS_AH237_S90,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140594,21MUS_AH239_S118,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140595,21MUS_CZ189_S91,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140596,21MUS_CZ191_S119,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140597,21MUS_CZ197_S120,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140598,21MUS_CZ198_S92,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140599,21MUS_CZ201_S121,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140600,22MUS_AH054_S93,South Africa,2022,true,"Odile Harrison, University of Oxford, UK"
+140601,17MUS_AH098,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140602,17MUS_AH118,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140603,17MUS_AH120,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140604,17MUS_KH085,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140605,17MUS_ZW084,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+140611,19MUS_AH072,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140612,19MUS_AH119,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140613,19MUS_AH164,South Africa,2019,true,"Odile Harrison, University of Oxford, UK"
+140617,20MUS_AH139,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+140618,21MUS_AH165,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+140619,21MUS_CZ202,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+143552,ET22-107,Ethiopia,2022,false,
+143553,ET22-023,Ethiopia,2022,false,
+143554,ET22-177,Ethiopia,2022,false,
+143555,ET22-180,Ethiopia,2022,false,
+143556,ET22-225,Ethiopia,2022,false,
+144414,67876,Kenya,2002,false,
+144419,67886,Kenya,2007,false,
+144426,67917,Kenya,2002,false,
+144429,67923,Kenya,2003,false,
+144430,67924,Kenya,2003,false,
+144432,67933,Kenya,2004,false,
+144438,67947,Kenya,2004,false,
+144440,67956,Kenya,2008,false,
+144444,67965,Kenya,2006,false,
+144447,67970,Kenya,2008,false,
+144448,67974,Kenya,2006,false,
+144868,M101,Lesotho,2022,false,
+144869,M107,Lesotho,2022,false,
+144870,M307,Lesotho,2022,false,
+144871,M356,Lesotho,2022,false,
+144872,M357,Lesotho,2022,false,
+144873,M422,Lesotho,2022,false,
+144874,M498,Lesotho,2022,false,
+144990,67967,Kenya,2008,false,
+144991,67973,Kenya,2008,false,
+144992,67980,Kenya,2007,false,
+144998,67990,Kenya,2007,false,
+145001,68001,Kenya,2007,false,
+147574,LS-M338,Lesotho,2023,false,
+147575,LS-M353,Lesotho,2022,false,
+147576,LS-M355,Lesotho,2022,false,
+147577,LS-M370,Lesotho,2022,false,
+147578,LS-M376,Lesotho,2022,false,
+147579,LS-M380,Lesotho,2022,false,
+147580,LS-M382,Lesotho,2022,false,
+147581,LS-M406,Lesotho,2022,false,
+147582,LS-M417,Lesotho,2023,false,
+147583,LS-M424,Lesotho,2023,false,
+147584,LS-M433,Lesotho,2023,false,
+147585,LS-M446,Lesotho,2023,false,
+147586,LS-M468,Lesotho,2023,false,
+147587,LS-M487,Lesotho,2023,false,
+147588,LS-M495,Lesotho,2023,false,
+147589,LS-M502,Lesotho,2023,false,
+147590,LS-M503,Lesotho,2023,false,
+147591,LS-M535,Lesotho,2023,false,
+147592,LS-M540,Lesotho,2023,false,
+150066,M421,Lesotho,2023,false,
+150067,M105,Lesotho,2023,false,
+150068,M109,Lesotho,2023,false,
+150069,M111,Lesotho,2023,false,
+150070,M420,Lesotho,2023,false,
+150071,M429,Lesotho,2023,false,
+150072,M352,Lesotho,2023,false,
+150073,M423,Lesotho,2023,false,
+154263,LLL001,South Africa,2013,false,
+154264,LLL002,South Africa,2013,false,
+154265,LLL003,South Africa,2013,false,
+154266,LLL004,South Africa,2013,false,
+154267,LLL005,South Africa,2013,false,
+154268,LLL006,South Africa,2013,false,
+154269,LLL007,South Africa,2013,false,
+154270,LLL008,South Africa,2013,false,
+154271,LLL009,South Africa,2013,false,
+154272,LLL010,South Africa,2013,false,
+154273,LLL011,South Africa,2013,false,
+154274,LLL012,South Africa,2013,false,
+154275,LLL013,South Africa,2013,false,
+154276,LLL014,South Africa,2013,false,
+154277,LLL015,South Africa,2013,false,
+154278,LLL016,South Africa,2013,false,
+154279,LLL017,South Africa,2013,false,
+154280,LLL018,South Africa,2013,false,
+154281,LLL019,South Africa,2013,false,
+154282,LLL020,South Africa,2013,false,
+154283,LLL022,South Africa,2013,false,
+154284,LLL023,South Africa,2013,false,
+154285,LLL024,South Africa,2013,false,
+154286,LLL026,South Africa,2014,false,
+154287,LLL027,South Africa,2014,false,
+154288,LLL028,South Africa,2014,false,
+154289,LLL029,South Africa,2014,false,
+154290,LLL030,South Africa,2014,false,
+154291,LLL031,South Africa,2014,false,
+154292,LLL032,South Africa,2014,false,
+154293,LLL034,South Africa,2014,false,
+154294,LLL035,South Africa,2014,false,
+154295,LLL037,South Africa,2014,false,
+154296,LLL038,South Africa,2014,false,
+154297,LLL039,South Africa,2014,false,
+154298,LLL040,South Africa,2014,false,
+154299,LLL041,South Africa,2014,false,
+154300,LLL042,South Africa,2014,false,
+154301,LLL043,South Africa,2014,false,
+154302,LLL044,South Africa,2014,false,
+154303,LLL045,South Africa,2014,false,
+154304,LLL046,South Africa,2014,false,
+154305,LLL048,South Africa,2014,false,
+154306,LLL049,South Africa,2014,false,
+154307,LLL050,South Africa,2014,false,
+154308,MMM001,South Africa,2014,false,
+154309,MMM002,South Africa,2014,false,
+154310,MMM003,South Africa,2014,false,
+154311,MMM004,South Africa,2014,false,
+154312,MMM005,South Africa,2014,false,
+154313,MMM006,South Africa,2014,false,
+154314,MMM007,South Africa,2014,false,
+154315,MMM008,South Africa,2014,false,
+154437,MRSN117488.R,Kenya,2021,false,
+154438,MRSN117489.R.trimmed,Kenya,2021,false,
+154439,MRSN117490.R.trimmed,Kenya,2021,false,
+154440,MRSN117491.R.trimmed,Kenya,2021,false,
+154441,MRSN117492.R1.trimmed,Kenya,2021,false,
+154442,MRSN117493.R.trimmed,Kenya,2021,false,
+154443,MRSN117494.R.trimmed,Kenya,2021,false,
+154444,MRSN117496.R.trimmed,Kenya,2021,false,
+154445,MRSN117498.R.trimmed,Kenya,2021,false,
+154446,MRSN117500.R.trimmed,Kenya,2021,false,
+154447,MRSN117501.R.trimmed,Kenya,2021,false,
+154448,MRSN117502.R.trimmed,Kenya,2021,false,
+154449,MRSN117503.R.trimmed,Kenya,2021,false,
+154450,MRSN117506.R.trimmed,Kenya,2021,false,
+154451,MRSN117507.R.trimmed,Kenya,2021,false,
+154452,MRSN117508.R.trimmed,Kenya,2021,false,
+154453,MRSN117509.R.trimmed,Kenya,2021,false,
+154454,MRSN117510.R.trimmed,Kenya,2021,false,
+154455,MRSN117513.R.trimmed,Kenya,2021,false,
+154456,MRSN117514.R.trimmed,Kenya,2021,false,
+154457,MRSN117515.R.trimmed,Kenya,2021,false,
+154458,MRSN117517.R.trimmed,Kenya,2021,false,
+154459,MRSN117518.R.trimmed,Kenya,2021,false,
+154460,MRSN117519.R.trimmed,Kenya,2021,false,
+154461,MRSN117520.R.trimmed,Kenya,2021,false,
+154462,MRSN117521.R.trimmed,Kenya,2021,false,
+154463,MRSN117522.R.trimmed,Kenya,2021,false,
+154464,MRSN117524.R.trimmed,Kenya,2021,false,
+154465,MRSN117525.R.trimmed,Kenya,2021,false,
+154466,MRSN117531.R.trimmed,Kenya,2021,false,
+154467,MRSN117533.R.trimmed,Kenya,2021,false,
+154468,MRSN117536.R.trimmed,Kenya,2021,false,
+154469,MRSN117538.R.trimmed,Kenya,2021,false,
+154470,MRSN117542.R.trimmed,Kenya,2021,false,
+154471,MRSN117543.R.trimmed,Kenya,2021,false,
+154472,MRSN117549.R.trimmed,Kenya,2021,false,
+154473,MRSN117550.R.trimmed,Kenya,2021,false,
+154474,MRSN117555.R.trimmed,Kenya,2021,false,
+154475,MRSN117556.R.trimmed,Kenya,2021,false,
+154476,MRSN117559.R.trimmed,Kenya,2021,false,
+154477,MRSN117560.R.trimmed,Kenya,2021,false,
+154478,MRSN117561.R.trimmed,Kenya,2021,false,
+154479,MRSN117563.R.trimmed,Kenya,2021,false,
+154480,MRSN117567.R.trimmed,Kenya,2021,false,
+154481,MRSN117570.R.trimmed,Kenya,2021,false,
+154482,MRSN117571.R.trimmed,Kenya,2021,false,
+154483,MRSN117573.R.trimmed,Kenya,2021,false,
+154484,MRSN117575.R.trimmed,Kenya,2021,false,
+154485,MRSN117577.R.trimmed,Kenya,2021,false,
+154486,MRSN117581.R.trimmed,Kenya,2021,false,
+154487,MRSN117582.R.trimmed,Kenya,2021,false,
+154488,MRSN117584.R.trimmed,Kenya,2021,false,
+154489,MRSN117586.R.trimmed,Kenya,2021,false,
+154490,MRSN117588.R.trimmed,Kenya,2021,false,
+154491,MRSN117589.R.trimmed,Kenya,2021,false,
+154492,MRSN117593.R.trimmed,Kenya,2021,false,
+154493,MRSN117595.R.trimmed,Kenya,2021,false,
+154494,MRSN117596.R,Kenya,2021,false,
+154495,MRSN117597.R,Kenya,2021,false,
+154597,MRSN117527.R.trimmed,Kenya,2021,false,
+154598,MRSN117534.R.trimmed,Kenya,2021,false,
+155409,GP12-MUS-242,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155410,GP13-MUS-070,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155411,GP13-MUS-083,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155412,GP13-MUS-096,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155413,GP13-MUS-099,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155414,GP13-MUS-103,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155415,GP13-MUS-105,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155416,GP13-MUS-107,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155417,GP13-MUS-109,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155418,GP13-MUS-116,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155419,GP13-MUS-120,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155420,GP13-MUS-121,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155421,GP13-MUS-129,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155422,GP13-MUS-132,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155423,GP13-MUS-133,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155424,GP13-MUS-134,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155425,GP14-MUS-241,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155426,15MUS-AH035,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155427,15MUS-AH077-R,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155428,15MUS-AH080,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155429,15MUS-AH090,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155431,15MUS-AH129,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155433,15MUS-AH168,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155434,16MUS-AH017-R,South Africa,2016,true,"Odile Harrison, University of Oxford, UK"
+155435,17MUS-AH017-R,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155436,17MUS-AH019,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155437,17MUS-AH021,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155438,17MUS-AH024,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155439,17MUS-AH026,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155440,17MUS-AH027,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155441,17MUS-AH029,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155442,17MUS-AH034,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155443,17MUS-AH035-R,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155444,17MUS-AH038,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155445,17MUS-AH039,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155446,17MUS-AH041,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155447,17MUS-AH044,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155448,17MUS-AH047,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155449,17MUS-AH051,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155450,17MUS-AH052,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155451,17MUS-AH054,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155452,17MUS-AH056,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155453,17MUS-AH057,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155454,17MUS-AH058,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155455,17MUS-AH059,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155456,17MUS-AH060-R,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155457,17MUS-AH065,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155458,17MUS-AH066,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155459,17MUS-AH068,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155460,17MUS-AH069,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155461,17MUS-AH070-R,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155462,17MUS-AH071,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155463,17MUS-AH073-1,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155464,17MUS-AH073-2,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155465,17MUS-AH074,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155466,17MUS-AH075,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155467,17MUS-AH076,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155468,17MUS-AH098,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155469,17MUS-AH100,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155470,17MUS-AH101,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155471,17MUS-AH103,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155472,17MUS-AH105,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155473,17MUS-AH106,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155474,17MUS-AH107,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155475,17MUS-AH108-1,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155476,17MUS-AH108-2,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155477,17MUS-AH110,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155478,17MUS-AH111,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155479,17MUS-AH112,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155480,17MUS-AH116,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155481,17MUS-AH123,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155482,17MUS-AH124,South Africa,2017,true,"Odile Harrison, University of Oxford, UK"
+155483,MP12-MUS-001,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155484,MP12-MUS-010,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155485,MP12-MUS-012,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155486,MP12-MUS-013,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155487,MP12-MUS-015,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155488,MP12-MUS-028,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155489,MP12-MUS-030,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155490,MP12-MUS-035,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155491,MP12-MUS-037,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155492,MP12-MUS-041,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155493,MP12-MUS-044,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155494,MP12-MUS-046,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155495,MP12-MUS-047,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155496,MP12-MUS-048,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155497,MP12-MUS-050,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155498,MP12-MUS-051,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155499,MP12-MUS-053,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155500,MP12-MUS-055,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155501,MP12-MUS-056,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155502,MP12-MUS-057,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155503,MP12-MUS-059,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155504,MP12-MUS-060,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155508,MP12-MUS-066,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155509,MP12-MUS-069,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155510,MP12-MUS-074,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155511,MP12-MUS-078,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155512,MP12-MUS-079,South Africa,2012,true,"Odile Harrison, University of Oxford, UK"
+155513,KN13-MUS-001,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155514,KN13-MUS-003,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155515,KN13-MUS-014,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155516,KN13-MUS-073,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155517,KN13-MUS-075,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155518,KN13-MUS-076,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155519,KN13-MUS-078,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155520,KN13-MUS-079,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155521,KN13-MUS-088,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155522,KN13-MUS-090,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155523,KN13-MUS-098,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155524,KN13-MUS-106,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155525,KN13-MUS-111,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155526,KN13-MUS-120,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155527,KN13-MUS-129,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155528,KN13-MUS-131,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155529,KN13-MUS-132,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155530,KN13-MUS-137,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155531,KN13-MUS-140,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155532,KN13-MUS-141,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155533,KN13-MUS-143,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155534,KN13-MUS-145,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155535,KN13-MUS-180,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155536,KN13-MUS-197,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155537,KN13-MUS-200,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155538,KN13-MUS-202,South Africa,2013,true,"Odile Harrison, University of Oxford, UK"
+155539,15MUS-GQ003,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155540,15MUS-GQ005,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155541,15MUS-GQ006,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155542,15MUS-GQ007,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155543,15MUS-GQ009-1,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155544,15MUS-GQ009-2,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155545,15MUS-GQ040,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155546,15MUS-GQ047,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155547,15MUS-GQ049,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155548,15MUS-GQ053,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155549,15MUS-GQ151,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155550,14MUS-JO004,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155551,14MUS-JO006,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155552,14MUS-JO009,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155553,14MUS-JO011,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155554,14MUS-JO015,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155555,14MUS-JO017,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155556,14MUS-JO020,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155557,14MUS-JO027,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155558,14MUS-JO028,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155559,14MUS-JO029,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155560,14MUS-JO030,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155561,14MUS-JO033,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155562,14MUS-JO037,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155563,14MUS-JO038,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155564,14MUS-JO040,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155565,14MUS-JO041,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155566,14MUS-JO045,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155567,14MUS-JO055,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155568,14MUS-JO060,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155569,14MUS-JO064,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155570,14MUS-JO066,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155571,14MUS-JO067,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155572,14MUS-JO068,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155573,14MUS-JO076,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155574,14MUS-JO077,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155575,14MUS-JO078,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155576,14MUS-JO084,South Africa,2014,true,"Odile Harrison, University of Oxford, UK"
+155577,20MUS-AH002,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155578,20MUS-AH004,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155579,20MUS-AH005,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155580,20MUS-AH007,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155581,20MUS-AH008,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155582,20MUS-AH010,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155583,20MUS-AH011,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155584,20MUS-AH012,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155585,20MUS-AH013,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155586,20MUS-AH017,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155587,20MUS-AH021,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155588,20MUS-AH022,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155589,20MUS-AH023,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155590,20MUS-AH027,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155591,20MUS-AH030,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155592,20MUS-AH032,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155593,20MUS-AH034,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155594,20MUS-AH036,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155595,20MUS-AH037,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155596,20MUS-AH039,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155597,20MUS-AH040,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155598,20MUS-AH042,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155599,20MUS-AH044-1,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155600,20MUS-AH044-2,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155601,20MUS-AH045,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155602,20MUS-AH052,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155603,20MUS-AH053,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155604,20MUS-AH054,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155605,20MUS-AH055,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155606,20MUS-AH057,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155607,20MUS-AH061,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155608,20MUS-AH063,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155609,20MUS-AH065,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155610,20MUS-AH067,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155611,20MUS-AH074,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155612,20MUS-AH080,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155613,20MUS-AH081,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155614,20MUS-AH083,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155615,20MUS-AH084,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155616,20MUS-AH085-1,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155617,20MUS-AH085-2,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155618,20MUS-AH095,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155619,20MUS-AH096,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155620,20MUS-AH098-1,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155621,20MUS-AH098-2,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155622,20MUS-AH103,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155623,20MUS-AH104,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155624,20MUS-AH105,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155625,20MUS-AH108,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155626,20MUS-AH110-1,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155627,20MUS-AH110-2,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155628,20MUS-AH112,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155629,20MUS-AH114,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155630,20MUS-AH117,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155631,20MUS-AH121,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155632,20MUS-AH122,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155633,20MUS-AH124,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155634,20MUS-AH125,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155635,20MUS-AH127,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155636,20MUS-AH129,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155637,20MUS-AH135,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155638,20MUS-AH138,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155639,20MUS-AH139,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155640,20MUS-AH141,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155641,20MUS-AH143,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155642,20MUS-AH144,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155643,20MUS-AH145,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155644,20MUS-AH146,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155645,20MUS-AH148,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155646,21MUS-AH003,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155647,21MUS-AH004,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155648,21MUS-AH008,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155649,21MUS-AH010,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155650,21MUS-AH012,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155651,21MUS-AH016,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155652,21MUS-AH017,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155653,21MUS-AH018,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155654,21MUS-AH021-R,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155655,21MUS-AH022,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155656,21MUS-AH024,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155657,21MUS-AH025,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155658,21MUS-AH027,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155659,21MUS-AH028,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155660,21MUS-AH031,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155661,21MUS-AH036,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155662,21MUS-AH039,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155663,21MUS-AH042,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155665,21MUS-AH052,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155666,21MUS-AH053,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155667,21MUS-AH055,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155668,21MUS-AH056,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155669,21MUS-AH057,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155670,21MUS-AH061,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155671,21MUS-AH065,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155672,21MUS-AH071,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155673,21MUS-AH072,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155674,21MUS-AH073,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155675,21MUS-AH074,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155676,21MUS-AH077,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155677,21MUS-AH078,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155678,21MUS-AH084,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155679,21MUS-AH090,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155680,21MUS-AH091,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155681,21MUS-AH093,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155682,21MUS-AH095,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155683,21MUS-AH098,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155684,21MUS-AH100,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155685,21MUS-AH101,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155686,21MUS-AH105-R,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155687,21MUS-AH106,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155688,21MUS-AH109,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155689,21MUS-AH111,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155690,21MUS-AH113,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155691,21MUS-AH114,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155692,21MUS-AH115,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155693,21MUS-AH119,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155694,21MUS-AH122,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155695,21MUS-AH125,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155696,21MUS-AH126,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155697,21MUS-AH127,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155698,21MUS-AH130,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155699,21MUS-AH131,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155701,21MUS-AH133,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155702,21MUS-AH134,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155703,21MUS-AH136,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155704,21MUS-AH137,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155705,21MUS-AH138,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155706,21MUS-AH139,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155707,21MUS-AH140,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155710,21MUS-AH148,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155711,21MUS-AH150,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155712,21MUS-AH151,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155714,21MUS-AH153-2,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155718,21MUS-AH164,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155719,21MUS-AH165,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155720,21MUS-AH166,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155722,21MUS-AH168,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155723,21MUS-AH169-1,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155725,21MUS-AH171,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155726,21MUS-AH174,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155728,21MUS-AH183,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155729,21MUS-AH185,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155730,21MUS-AH187,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155733,21MUS-AH195,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155734,21MUS-AH196,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155735,21MUS-AH198,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155738,21MUS-AH202,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155741,21MUS-AH205,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155742,21MUS-AH209,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155743,21MUS-AH210,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155744,21MUS-AH216,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155748,21MUS-AH223-2,South Africa,2021,true,"Odile Harrison, University of Oxford, UK"
+155749,15MUS-PI001,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155750,15MUS-PI002,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155751,15MUS-PI003,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155752,15MUS-PI004,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155753,15MUS-PI005-WGS,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155754,15MUS-PI006,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155755,15MUS-PI007,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155756,15MUS-PI011,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155757,15MUS-PI016,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155758,20MUS-AH109,South Africa,2020,true,"Odile Harrison, University of Oxford, UK"
+155759,15MUS-PI020,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155760,15MUS-PI025,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155761,15MUS-PI026,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155762,15MUS-PI029,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155763,15MUS-PI030,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155764,15MUS-PI036,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155767,15MUS-PI048,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155768,15MUS-PI056,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155769,15MUS-PI063-WGS,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155770,15MUS-PI064,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155772,15MUS-PI066,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155773,15MUS-PI067,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155774,15MUS-PI068,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155775,15MUS-PI076,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155776,15MUS-PI077,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155777,15MUS-PI078,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155778,15MUS-PI080,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155779,15MUS-PI082,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155780,15MUS-PI089,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155781,15MUS-PI091-WGS,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155782,15MUS-PI092-WGS,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155783,15MUS-PI093,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155784,15MUS-PI095,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155785,15MUS-PI097,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155787,15MUS-PI099,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155788,15MUS-PI100,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155789,15MUS-PI103,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155791,15MUS-PI105,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155792,15MUS-PI107,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155793,15MUS-PI110,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155794,15MUS-PI111,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155795,15MUS-PI112,South Africa,2015,true,"Odile Harrison, University of Oxford, UK"
+155796,18MUS-KM003,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155797,18MUS-KM009,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155798,18MUS-KM012,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155799,18MUS-KM013,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155801,18MUS-KM021,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155802,18MUS-KM024,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155803,18MUS-KM025,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+155804,18MUS-KM026,South Africa,2018,true,"Odile Harrison, University of Oxford, UK"
+161848,VES24-4131,Kenya,2023,false,
+161849,VES24-4134,Kenya,2023,false,
+161850,VES24-4141,Kenya,2023,false,
+161851,VES24-4147,Kenya,2023,false,
+161852,VES24-4183,Kenya,2023,false,
+161853,VES24-4193,Kenya,2023,false,
+161854,VES24-4249,Kenya,2023,false,
+161855,VES24-4287,Kenya,2023,false,
+161856,VES24-4289,Kenya,2023,false,
+161857,Gent001,Malawi,2016,false,
+161858,Gent003-VF,Malawi,2016,false,
+161859,Gent003-WF,Malawi,2016,false,
+161860,Gent005,Malawi,2016,false,
+161861,Gent006,Malawi,2016,false,
+161862,Gent008,Malawi,2016,false,
+161863,Gent011,Malawi,2016,false,
+161864,Gent012,Malawi,2016,false,
+161865,Gent013-5H,Malawi,2016,false,
+161866,Gent013-6B,Malawi,2016,false,
+161867,Gent014,Malawi,2016,false,
+161868,Gent015,Malawi,2016,false,
+161869,Gent016,Malawi,2016,false,
+161870,Gent017,Malawi,2016,false,
+161871,GENT018-CD,Malawi,2016,false,
+161872,GENT019-FG,Malawi,2016,false,
+161873,GENT019-GA,Malawi,2016,false,
+161874,GENT020,Malawi,2016,false,
+161875,GENT021,Malawi,2016,false,
+161876,GENT027,Malawi,2016,false,
+161877,GENT028,Malawi,2016,false,
+161878,GENT029,Malawi,2016,false,
+161879,GENT032,Malawi,2016,false,
+161880,GENT033,Malawi,2016,false,
+161881,GENT034,Malawi,2016,false,
+161882,GENT037,Malawi,2016,false,
+161883,GENT038,Malawi,2016,false,
+161884,GENT039,Malawi,2016,false,
+161885,GENT040,Malawi,2016,false,
+161886,GENT043,Malawi,2016,false,
+161887,GENT045,Malawi,2016,false,
+161888,GENT047,Malawi,2016,false,
+161889,GENT048,Malawi,2016,false,
+161890,GENT050,Malawi,2016,false,
+161891,GENT051,Malawi,2016,false,
+161892,Gent053,Malawi,2016,false,
+161893,Gent054,Malawi,2016,false,
+161894,Gent055,Malawi,2016,false,
+161895,Gent056,Malawi,2016,false,
+161896,Gent057,Malawi,2016,false,
+161897,Gent058-YB,Malawi,2016,false,
+161898,Gent058-ZB,Malawi,2016,false,
+161899,Gent059,Malawi,2016,false,
+161900,Gent060,Malawi,2016,false,
+161901,Gent061,Malawi,2016,false,
+161902,Gent062,Malawi,2016,false,
+161903,Gent064,Malawi,2016,false,
+161904,Gent065,Malawi,2016,false,
+161905,Gent066,Malawi,2016,false,
+161906,Gent067,Malawi,2016,false,
+161907,Gent068,Malawi,2016,false,
+161908,Gent069,Malawi,2016,false,
+161909,Gent070,Malawi,2016,false,
+161910,Gent072,Malawi,2016,false,
+161911,Gent074-1F,Malawi,2016,false,
+161912,Gent074-XB,Malawi,2016,false,
+161913,Gent075,Malawi,2016,false,
+161914,Gent076,Malawi,2016,false,
+161915,Gent077,Malawi,2016,false,
+161916,Gent078,Malawi,2016,false,
+161917,Gent079-DC,Malawi,2016,false,
+161918,Gent080-GK,Malawi,2016,false,
+161919,Gent080-HG,Malawi,2016,false,
+161920,Gent081,Malawi,2016,false,
+161921,Gent082,Malawi,2016,false,
+161922,Gent083-LB,Malawi,2016,false,
+161923,Gent083-ME,Malawi,2016,false,
+161924,Gent084,Malawi,2016,false,
+161925,Gent085,Malawi,2016,false,
+161926,Gent086,Malawi,2016,false,
+161927,Gent087,Malawi,2016,false,
+161928,Gent088,Malawi,2016,false,
+161929,Gent089,Malawi,2016,false,
+161930,Gent090,Malawi,2016,false,
+161931,Gent091,Malawi,2016,false,
+161932,Gent092,Malawi,2016,false,
+161933,Gent093,Malawi,2016,false,
+161934,Gent094-2F,Malawi,2016,false,
+161935,Gent095,Malawi,2016,false,
+161936,Gent096,Malawi,2016,false,
+161937,Gent097,Malawi,2016,false,
+161938,Gent098,Malawi,2016,false,
+161939,Gent099,Malawi,2016,false,
+161940,Gent100,Malawi,2016,false,
+161941,Gent1008,Malawi,2016,false,
+161942,Gent101,Malawi,2016,false,
+161943,Gent102,Malawi,2016,false,
+161944,Gent103,Malawi,2016,false,
+161945,Gent1032,Malawi,2016,false,
+161946,Gent1035,Malawi,2016,false,
+161947,Gent104,Malawi,2016,false,
+161948,Gent105,Malawi,2016,false,
+161949,Gent106,Malawi,2016,false,
+161950,Gent107,Malawi,2016,false,
+161951,Gent1081,Malawi,2016,false,
+161952,Gent1085-GD,Malawi,2016,false,
+161953,Gent109,Malawi,2016,false,
+161954,Gent1094,Malawi,2016,false,
+161955,Gent110,Malawi,2016,false,
+161956,Gent111,Malawi,2016,false,
+161957,Gent113,Malawi,2016,false,
+161958,Gent114,Malawi,2016,false,
+161959,Gent115,Malawi,2016,false,
+161960,Gent116,Malawi,2016,false,
+161961,Gent117,Malawi,2016,false,
+161962,Gent118,Malawi,2016,false,
+161963,Gent119,Malawi,2016,false,
+161964,Gent120,Malawi,2016,false,
+161965,Gent121,Malawi,2016,false,
+161966,Gent122,Malawi,2016,false,
+161967,Gent123,Malawi,2016,false,
+161968,Gent124-7B,Malawi,2016,false,
+161969,Gent124-8F,Malawi,2016,false,
+161970,Gent125-9C,Malawi,2016,false,
+161971,Gent125-BG,Malawi,2016,false,
+161972,Gent126,Malawi,2016,false,
+161973,Gent128,Malawi,2016,false,
+161974,Gent129,Malawi,2016,false,
+161975,Gent130,Malawi,2016,false,
+161976,Gent131,Malawi,2016,false,
+161977,Gent133,Malawi,2016,false,
+161978,Gent134,Malawi,2016,false,
+161979,Gent135,Malawi,2016,false,
+161980,Gent136,Malawi,2016,false,
+161981,Gent137,Malawi,2016,false,
+161982,Gent138,Malawi,2016,false,
+161983,Gent139,Malawi,2016,false,
+161984,Gent140,Malawi,2016,false,
+161985,Gent141,Malawi,2016,false,
+161986,Gent142,Malawi,2016,false,
+161987,Gent143,Malawi,2016,false,
+161988,Gent144,Malawi,2016,false,
+161989,Gent145,Malawi,2016,false,
+161990,Gent146,Malawi,2016,false,
+161991,Gent147,Malawi,2016,false,
+161992,Gent148,Malawi,2016,false,
+161993,Gent149,Malawi,2016,false,
+161994,Gent150,Malawi,2016,false,
+161995,Gent153,Malawi,2016,false,
+161996,Gent2,Malawi,2016,false,
+161997,Gent2060,Malawi,2016,false,
+161998,Gent2069-WH,Malawi,2016,false,
+161999,Gent24,Malawi,2016,false,
+162000,Gent30,Malawi,2016,false,
+162001,Gent35,Malawi,2016,false,
+162002,Gent46,Malawi,2016,false,
+162003,Gent52,Malawi,2016,false,
+162004,Gent63,Malawi,2016,false,
+162005,MUSA1079,Malawi,2016,false,
+162006,MUSA1082,Malawi,2016,false,
+162007,MUSA1085,Malawi,2016,false,
+162008,MUSA1090,Malawi,2016,false,
+162009,MUSA2065,Malawi,2016,false,
+162010,MUSA3009,Malawi,2016,false,
+162642,VES24-4161,Kenya,2023,false,
+162643,VES24-4222,Kenya,2023,false,
+162644,VES24-4295,Kenya,2023,false,
+165058,ZA22-AH024,South Africa,2022,false,
+165062,ZA22-SR016,South Africa,2022,false,
+165063,ZA22-SR034,South Africa,2022,false,
+165065,ZA22-AH125,South Africa,2022,false,
+165069,ZA22-AH008,South Africa,2022,false,
+165071,ZA23-CZ210,South Africa,2023,false,
+165073,ZA22-CZ114,South Africa,2022,false,
+165074,ZA22-AH038,South Africa,2022,false,
+165078,ZA22-SR005,South Africa,2022,false,
+165080,ZA22-CZ080,South Africa,2022,false,
+165084,UG23-148,Uganda,2023,false,
+165087,ZA22-CZ212,South Africa,2022,false,
+165088,ZA22-SR008,South Africa,2022,false,
+165091,ZA23-AH025,South Africa,2023,false,
+165094,ZA23-CZ134,South Africa,2023,false,
+165097,ZA22-AH085,South Africa,2022,false,
+165101,ZA22-AH161,South Africa,2022,false,
+165102,UG22-142,Uganda,2022,false,
+165103,ZA22-CZ006,South Africa,2022,false,
+165105,ZA22-AH002,South Africa,2022,false,
+165106,ZA22-CZ077,South Africa,2022,false,
+165109,ZA22-SR044,South Africa,2022,false,
+165112,ZA22-SR061,South Africa,2022,false,
+165113,ZA23-SR007,South Africa,2023,false,
+165114,ZA22-SR078,South Africa,2022,false,
+165123,ZA22-AH025,South Africa,2022,false,
+165125,ZA23-AH186,South Africa,2023,false,
+165126,ZA22-AH117,South Africa,2022,false,
+165127,ZA22-AH012,South Africa,2022,false,
+165128,UG22-091,Uganda,2022,false,
+165130,ZA22-CZ023,South Africa,2022,false,
+165133,ZA23-AH175,South Africa,2023,false,
+165135,MW23-089,Malawi,2023,false,
+165136,UG23-179,Uganda,2023,false,
+165139,ZA22-CZ089,South Africa,2022,false,
+165140,ZA23-AH116,South Africa,2023,false,
+165141,ZA22-CZ091,South Africa,2022,false,
+165142,MW23-108,Malawi,2023,false,
+165143,ZA23-AH051,South Africa,2023,false,
+165144,ZA22-AH154,South Africa,2022,false,
+165147,ZA22-CZ133,South Africa,2022,false,
+165152,ZA22-AH035,South Africa,2022,false,
+165153,UG23-150,Uganda,2023,false,

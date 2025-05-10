@@ -1,0 +1,44 @@
+,LIN3,azi_mic,year,region,Count
+0,0_0_108,,[2021],['Gauteng Province'],1
+1,0_0_110,,[2013],['Kwazulu-Natal'],1
+2,0_0_26,,[2021],['Gauteng Province'],1
+3,0_0_61,0.064 - 0.064,[2016],['Gauteng Province'],1
+4,0_0_63,0.5 - 0.5,"[2018, 2019, 2021, 2021, 2021, 2018]","['Northern Cape', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', nan]",6
+5,0_0_64,0.064 - 0.064,[2015],['Gauteng Province'],1
+6,0_0_72,,[2014],['Gauteng Province'],1
+7,0_0_73,,[2015],['Gauteng Province'],1
+8,0_0_92,0.128 - 0.128,[2018],['Gauteng Province'],1
+9,0_12_10,0.094 - 0.125,"[2012, 2012, 2014, 2014, 2013]","['Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Kwazulu-Natal']",5
+10,0_12_11,,[2013],['Gauteng Province'],1
+11,0_18_24,,[2015],['Eastern Cape'],1
+12,0_18_28,0.128 - 0.128,"[2018, 2018]","['Northern Cape', nan]",2
+13,0_2_1,0.5 - 0.5,"[2017, 2017, 2019, 2019, 2017, 2020, 2021]","['Gauteng Province', 'Western Cape', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province']",7
+14,0_2_30,0.25 - 0.25,[2014],['Gauteng Province'],1
+15,0_2_71,0.128 - 0.5,"[2013, 2014, 2015, 2015, 2017, 2015, 2017, 2017, 2020, 2020, 2020, 2020, 2021, 2021, 2021, 2021, 2021, 2021]","['Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Eastern Cape', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province', 'Gauteng Province']",18
+16,0_2_72,0.128 - 0.128,"[2016, 2014]","['Gauteng Province', 'North West']",2
+17,0_2_73,,[2012],['Gauteng Province'],1
+18,0_2_85,,[2015],['Gauteng Province'],1
+19,0_2_86,,[2017],['Gauteng Province'],1
+20,0_2_92,,[2021],['Gauteng Province'],1
+21,0_2_93,,[2020],['Gauteng Province'],1
+22,0_2_94,,[2015],['Eastern Cape'],1
+23,0_31_0,,[2012],['Mpumalanga'],1
+24,0_31_1,,[2015],['Eastern Cape'],1
+25,11_0_5,0.128 - 0.128,"[2015, 2020, 2021]","['Gauteng Province', 'Gauteng Province', 'Gauteng Province']",3
+26,17_0_1,0.128 - 0.128,"[2018, 2018]","['Northern Cape', 'Northern Cape']",2
+27,1_15_1,0.25 - 0.25,"[2018, 2015]","['Western Cape', 'Eastern Cape']",2
+28,1_1_40,,"[2013, 2013]","['Gauteng Province', 'Gauteng Province']",2
+29,1_1_49,0.128 - 0.128,[2013],['Gauteng Province'],1
+30,1_1_50,0.094 - 0.094,[2012],['Gauteng Province'],1
+31,1_1_51,0.128 - 0.128,[2013],['Gauteng Province'],1
+32,1_1_52,,[2015],['Kwazulu-Natal'],1
+33,1_1_65,0.128 - 0.128,[2019],['Gauteng Province'],1
+34,1_1_73,,[2018],[nan],1
+35,1_1_74,,[2014],['North West'],1
+36,1_1_75,,[2020],['Gauteng Province'],1
+37,1_1_76,,[2013],['Kwazulu-Natal'],1
+38,1_2_3,,[2015],['Kwazulu-Natal'],1
+39,1_3_0,0.128 - 0.128,[2012],['Gauteng Province'],1
+40,1_3_1,0.128 - 0.128,"[2012, 2019, 2015]","['Gauteng Province', 'Gauteng Province', 'Kwazulu-Natal']",3
+41,1_7_2,,[2015],['Eastern Cape'],1
+42,51_0_1,0.128 - 0.128,[2017],['Gauteng Province'],1
